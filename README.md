@@ -1,2 +1,4 @@
-# nerdquotes
-A nerd quotes's repository to have fun and learn git flows with Github!
+#Practica repo remoto
+los informaticos frikis también somos de **Oliver & Benji**
+*Luis Aparicio*
+
