@@ -166,3 +166,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >Los informaticos frikis también somos de **Oliver & Benji**
 
 *Luis Aparicio*
+
+-------
+
+>I loved school. I studied like crazy. I was a Class A nerd.
+
+*Maya Lin*
