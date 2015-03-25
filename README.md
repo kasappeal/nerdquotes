@@ -142,3 +142,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > "They call it **Royale with Cheese**" 
 
 *Vicent/Pulp Fiction*
+
+-------
+
+>“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+
+*Martin Fowler*
