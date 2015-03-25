@@ -148,3 +148,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 *Martin Fowler*
+
+-------
+
+>"Tendrá todo el dinero del mundo... pero habrá algo que jamás podrá comprar... un dinosaurio."
+
+*Homer Simpson*
