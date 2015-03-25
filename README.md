@@ -136,3 +136,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >Real Programmers always confuse Christmas and Halloween because Oct31 == Dec25. 
 
 *Brad Pyth-on*
+
+-------
+
+> "They call it **Royale with Cheese**" 
+
+*Vicent/Pulp Fiction*
