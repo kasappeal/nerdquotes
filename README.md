@@ -124,3 +124,9 @@ Segmentation fault [core dumped]
 > You don't have to be a nerd or a programmer or a network engineer to make a difference 
 
 *Rafa Navarro*
+
+-------
+
+I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
+
+*Elena Nito Del Bosque*
