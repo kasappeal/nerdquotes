@@ -100,3 +100,10 @@ Segmentation fault [core dumped]
 > Be nice to nerds. Chances are you'll end up working for one
 
 *Bill Gates*
+
+-------
+
+> I was a nerd growing up, and I'm a little antisocial and awkward. 
+
+*Pawel Walicki*
+
