@@ -32,3 +32,9 @@ Was **Harrison Ford** a Nexus-6? :suspect:
 Segmentation fault [core dumped]
 
 *ThinkGeek.com*
+
+------
+
+*Strength* does not come from winning. Your struggles develop your *strengths*. When you go through hardships and decide not to surrender, that is *strength*. 
+
+**Arnaldo Chuacheneguer**
