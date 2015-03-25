@@ -130,3 +130,9 @@ Segmentation fault [core dumped]
 I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
 
 *Elena Nito Del Bosque*
+
+-------
+
+>Real Programmers always confuse Christmas and Halloween because Oct31 == Dec25. 
+
+*Brad Pyth-on*
