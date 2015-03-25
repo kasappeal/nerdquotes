@@ -55,4 +55,9 @@ Programming is easy like riding a bike. Except the bike is on fire and you're on
 
 > **Programmer:** Anoche soñé que la ***fuerza*** estaba conmigo y no, era mi novia que me puso la pierna encima. 
 
-- *Canario con sueño*
+*Canario con sueño*
+
+------
+
+> Corrompido por el lado oscuro, el joven Skywalker ha sido. El muchacho que adiestraste desaparecido ha… consumido, por Darth Vader.
+*Yoda a Obi-Wan Kenobi*
