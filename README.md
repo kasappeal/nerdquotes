@@ -64,3 +64,9 @@ Segmentation fault [core dumped]
 > Corrompido por el lado oscuro, el joven Skywalker ha sido. El muchacho que adiestraste desaparecido ha… consumido, por Darth Vader.
 
 *Yoda a Obi-Wan Kenobi*
+
+-------
+
+> "Perro ladrador, poco **follador...**"
+
+*Glory Strongs*
