@@ -172,3 +172,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >I loved school. I studied like crazy. I was a Class A nerd.
 
 *Maya Lin*
+
+-------
+
+>Quem é amigo de todo mundo é amigo de ninguém. 
+
+*Anonimo*
