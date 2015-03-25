@@ -1,7 +1,6 @@
 # nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
-<<<<<<< HEAD
 ------
 
 > Please, stop gift me gloves por christmas
@@ -119,3 +118,9 @@ Segmentation fault [core dumped]
 > Toma hijo, es hora de que te dé el reloj que tu bisabuelo usó durante la Guerra Civil, tu abuelo en la Guerra Fría y yo en el Call of Duty.
 
 *Fan de Call of Duty*
+
+-------
+
+> You don't have to be a nerd or a programmer or a network engineer to make a difference 
+
+*Rafa Navarro*
