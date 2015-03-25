@@ -94,3 +94,9 @@ Segmentation fault [core dumped]
 > “¿Internet? No estamos interesados en eso”
 
 *Bill Gates*
+
+-------
+
+> Be nice to nerds. Chances are you'll end up working for one
+
+*Bill Gates*
