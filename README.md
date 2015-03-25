@@ -6,3 +6,6 @@ Please, stop gift me gloves por christmas
 
 Lo que Git ha unido que no lo separe Windows
 *Sutia Nutella*
+
+Was **Harrison Ford** a Nexus-6? :suspect: 
+*Bisca*
