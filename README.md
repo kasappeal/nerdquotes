@@ -88,3 +88,9 @@ Segmentation fault [core dumped]
 > Solo hay 10 tipos de personas. Las que saben binario y las que no. 
 
 *Anonimo*
+
+-------
+
+> “¿Internet? No estamos interesados en eso”
+
+*Bill Gates*
