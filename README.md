@@ -154,3 +154,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >"Tendrá todo el dinero del mundo... pero habrá algo que jamás podrá comprar... un dinosaurio."
 
 *Homer Simpson*
+
+-------
+
+>School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
+
+*Robert C. Martin (aka Uncle Bob)*
