@@ -70,3 +70,9 @@ Segmentation fault [core dumped]
 > "Perro ladrador, poco **follador...**"
 
 *Glory Strongs*
+
+-------
+
+> Auto-Complete: A programmer's best friend
+
+*Alberto Di Martino*
