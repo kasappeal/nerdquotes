@@ -178,3 +178,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >Quem é amigo de todo mundo é amigo de ninguém. 
 
 *Anonimo*
+
+-------
+>La física es el sistema operativo del Universo
+
+*Cinstein*
