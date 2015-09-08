@@ -183,3 +183,10 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >La física es el sistema operativo del Universo
 
 *Cinstein*
+
+-------
+
+> A palabras necias oídos orcos
+
+*Desconocido*
+
