@@ -217,3 +217,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > El abrirá el portal y desencadenará el fin del mundo
 
 *Hellboy*
+
+-------
+
+> Luke, yo soy tu padre.
+
+*FrikiMason*
