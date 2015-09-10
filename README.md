@@ -212,3 +212,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Don't You Think If I Were Wrong I'd Know It?
 
 *Sheldon Cooper*
+
+-------
+> El abrirá el portal y desencadenará el fin del mundo
+
+*Hellboy*
