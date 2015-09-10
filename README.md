@@ -223,3 +223,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Luke, yo soy tu padre.
 
 *FrikiMason*
+
+-------
+
+> My Software never has bugs. It just develops random features.
+
+*Unknown*
