@@ -3,6 +3,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+A quien madruga una taza de Java le ayuda!
+
+*Nesspreso*
+
+------
+
 > Please, stop gift me gloves por christmas
 
 *Wolverine*
