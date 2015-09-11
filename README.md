@@ -236,10 +236,17 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *FrikiMason*
 
+-------
+
+> My Software never has bugs. It just develops random features.
+
+*Unknown*
+
 --------
 
 > Elemental Querido Watson!!
 
 *Sherlock Holmes*
 
---------
+
+
