@@ -1,6 +1,18 @@
 # nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
+-------
+ 
+> Cualquier hombre que haga **autoestop** a todo lo largo y ancho de la **Galaxia**, pasando calamidades, divirtiéndose en los barrios bajos, luchando contra adversidades tremendas, saliendo sano y salvo de todo ello, y sabiendo todavía dónde está su **toalla**, es sin duda un hombre a tener en cuenta.
+ 
+*Douglas Adams*
+ 
+-------
+ 
+> Hay una **teoría** que afirma que si alguien descubriera lo que es exactamente el **universo** y el porqué de su existencia, desaparecería al instante y sería sustituido por algo aún más extraño e inexplicable. Hay otra **teoría** que afirma que eso ya ha ocurrido.
+ 
+*Douglas Adams*
+
 ------
 
 A quien madruga una taza de Java le ayuda!
@@ -229,3 +241,12 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > My Software never has bugs. It just develops random features.
 
 *Unknown*
+
+--------
+
+> Elemental Querido Watson!!
+
+*Sherlock Holmes*
+
+
+
