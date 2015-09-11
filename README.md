@@ -248,5 +248,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *Sherlock Holmes*
 
+---------
 
+> No soy feo, *Dios* me retó a conquistar mujeres en modo legendario!!
 
+*Unknown*
