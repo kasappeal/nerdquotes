@@ -235,3 +235,11 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Luke, yo soy tu padre.
 
 *FrikiMason*
+
+--------
+
+> Elemental Querido Watson!!
+
+*Sherlock Holmes*
+
+--------
