@@ -266,3 +266,7 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *mi esposa*
 
+-------
+> Empezando las cosas bien, pueden terminar mal. Imagina si las empiezas mal.
+
+*Mi padre*
