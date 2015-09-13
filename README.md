@@ -270,3 +270,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Empezando las cosas bien, pueden terminar mal. Imagina si las empiezas mal.
 
 *Mi padre*
+
+-------
+> Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
+
+*Goku*
