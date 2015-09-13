@@ -294,3 +294,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Sabes que es informatico porque cocina un gazpacho con una clase que hereda de ensalada e implementa sopa fria
 
 *Programador en master cheff*
+
+-------
+
+> My real self, the self I have always been from a child, is a loner and nerd, slightly overweight, with a very heavy fringe. That is who I was as a kid. I don't think I will ever be anything other than that.
+
+*Hayley Atwell*
