@@ -294,3 +294,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Sabes que es informatico porque cocina un gazpacho con una clase que hereda de ensalada e implementa sopa fria
 
 *Programador en master cheff*
+
+-------
+
+>  “Be nice to nerds. You may end up working for them. We all could.” 
+
+*Charles J. Sykes*
