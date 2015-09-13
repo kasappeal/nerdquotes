@@ -288,3 +288,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Bienvenido a 127.0.0.1
 
 *DevOp*
+
+-------
+
+> Those are my commits, and if you don't like them... well I have others.
+
+*G.M.*
