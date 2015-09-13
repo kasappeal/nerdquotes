@@ -2,6 +2,11 @@
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
+> La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación no.
+
+*Albert Einstein*
+
+-------
 
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
 
