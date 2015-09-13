@@ -270,3 +270,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Empezando las cosas bien, pueden terminar mal. Imagina si las empiezas mal.
 
 *Mi padre*
+
+-------
+> La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación no.
+
+*Albert Einstein*
