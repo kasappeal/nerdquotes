@@ -288,3 +288,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Bienvenido a 127.0.0.1
 
 *DevOp*
+
+-------
+
+> Sabes que es informatico porque cocina un gazpacho con una clase que hereda de ensalada e implementa sopa fria
+
+*Programador en master cheff*
