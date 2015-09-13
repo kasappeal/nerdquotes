@@ -2,6 +2,12 @@
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
+
+> The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
+
+*Eric Allman*
+
+-------
  
 > Cualquier hombre que haga **autoestop** a todo lo largo y ancho de la **Galaxia**, pasando calamidades, divirtiéndose en los barrios bajos, luchando contra adversidades tremendas, saliendo sano y salvo de todo ello, y sabiendo todavía dónde está su **toalla**, es sin duda un hombre a tener en cuenta.
  
@@ -272,6 +278,13 @@ I think if I did do something in another genre, it would be science fiction; I'm
 *Mi padre*
 
 -------
+
 > Adobe reader ha conseguido realizar un software que se actualiza más veces de las que se usa.
 
 *De una web*
+
+-------
+
+> Bienvenido a 127.0.0.1
+
+*DevOp*
