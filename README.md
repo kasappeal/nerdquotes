@@ -279,6 +279,12 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 -------
 
+> Adobe reader ha conseguido realizar un software que se actualiza más veces de las que se usa.
+
+*De una web*
+
+-------
+
 > Bienvenido a 127.0.0.1
 
 *DevOp*
