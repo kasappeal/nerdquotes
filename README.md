@@ -316,3 +316,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
 
 *Goku*
+
+-------
+
+> Those are my Commits, and if you don't like them... Well I have others.
+
+*G.Marx*
