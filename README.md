@@ -3,20 +3,26 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación no.
+
+*Albert Einstein*
+
+-------
+
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
 
 *Eric Allman*
 
 -------
- 
+
 > Cualquier hombre que haga **autoestop** a todo lo largo y ancho de la **Galaxia**, pasando calamidades, divirtiéndose en los barrios bajos, luchando contra adversidades tremendas, saliendo sano y salvo de todo ello, y sabiendo todavía dónde está su **toalla**, es sin duda un hombre a tener en cuenta.
- 
+
 *Douglas Adams*
- 
+
 -------
- 
+
 > Hay una **teoría** que afirma que si alguien descubriera lo que es exactamente el **universo** y el porqué de su existencia, desaparecería al instante y sería sustituido por algo aún más extraño e inexplicable. Hay otra **teoría** que afirma que eso ya ha ocurrido.
- 
+
 *Douglas Adams*
 
 ------
@@ -300,3 +306,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >  “Be nice to nerds. You may end up working for them. We all could.” 
 
 *Charles J. Sykes*
+
+-------
+
+> Bienvenido a 127.0.0.1
+
+*DevOp*
