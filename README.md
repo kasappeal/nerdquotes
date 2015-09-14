@@ -311,4 +311,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 > Bienvenido a 127.0.0.1
 
-*DevOp*
+-------
+
+> Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
+
+*Goku*
