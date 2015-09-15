@@ -322,3 +322,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Those are my Commits, and if you don't like them... Well I have others.
 
 *G.Marx*
+
+--------
+
+> My real self, the self I have always been from a child, is a loner and nerd, slightly overweight.
+
+*Hayley Atwell*
