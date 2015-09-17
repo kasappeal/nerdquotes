@@ -3,6 +3,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Entré en una discoteca, soy timido y me asusté, **pibitas** que con quince años y los chavales también, hablaban de cosas raras de lo cual no me enteré, les diré lo que decían les diré lo que decían por si saben lo que es...
+
+**La mandanga**, *El Fary*
+
+-------
+
 > La imaginación es más importante que el conocimiento. El conocimiento es limitado, mientras que la imaginación no.
 
 *Albert Einstein*
