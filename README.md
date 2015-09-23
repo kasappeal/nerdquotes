@@ -334,3 +334,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > My real self, the self I have always been from a child, is a loner and nerd, slightly overweight.
 
 *Hayley Atwell*
+
+-------
+
+> Dios mío, está lleno de estrellas..
+
+*Hommer Simsom, tras un golpe en la cabeza*
