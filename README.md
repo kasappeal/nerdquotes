@@ -340,3 +340,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Dios mío, está lleno de estrellas..
 
 *Hommer Simsom, tras un golpe en la cabeza*
+
+-------
+
+> Try not. Do, or do not. There is no try.
+
+*Yoda, The Empire Strikes Back*
