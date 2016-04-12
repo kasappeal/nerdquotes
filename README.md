@@ -346,3 +346,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Try not. Do, or do not. There is no try.
 
 *Yoda, The Empire Strikes Back*
+
+-------
+
+> There's no place like 127.0.0.1
+
+*thinkgeek.com/tshirts-apparel/unisex/*
