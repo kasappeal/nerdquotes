@@ -346,3 +346,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Try not. Do, or do not. There is no try.
 
 *Yoda, The Empire Strikes Back*
+
+-------
+
+>La gente piensa que enfocarse significa decir sí a aquello en lo que te enfocas, pero no es así. Significa decir no a otras cientos de ideas buenas que hay.
+
+*Steve Jobs*
