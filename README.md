@@ -358,3 +358,10 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+-------
+
+> Normalmente no rezo, pero si estás ahí­, por favor, ¡¡¡sálvame Superman!!!
+
+*Homer Simpson*
+
