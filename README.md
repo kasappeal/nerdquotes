@@ -358,3 +358,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+-------
+
+> There's no place like 127.0.0.1
+
+*thinkgeek.com/tshirts-apparel/unisex/*
