@@ -346,3 +346,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Try not. Do, or do not. There is no try.
 
 *Yoda, The Empire Strikes Back*
+
+-------
+
+> Dicen que el necio aprende de su experiencia, mientras que el sabio de la Historia.
+
+*Nobuchika Ginoza (Psycho Pass)*
