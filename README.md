@@ -3,6 +3,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ni commit ni comat, o limpias tu habitación ya o veras lo que es un commit.
+
+*La madre de cualquier friki con la cara llena de granos*
+
+-------
+
 > Entré en una discoteca, soy timido y me asusté, **pibitas** que con quince años y los chavales también, hablaban de cosas raras de lo cual no me enteré, les diré lo que decían les diré lo que decían por si saben lo que es...
 
 **La mandanga**, *El Fary*
@@ -347,48 +353,11 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *Yoda, The Empire Strikes Back*
 
+-------
 
+> Interneeeeeee!.
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+*Enjuto Mojamuto*
 
 -------
 
