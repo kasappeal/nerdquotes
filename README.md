@@ -346,3 +346,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Try not. Do, or do not. There is no try.
 
 *Yoda, The Empire Strikes Back*
+
+-------
+
+> No son punteros láser, es que Dios cambia de jugador y se iluminan.
+
+*Games Addict*
