@@ -127,6 +127,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Developers, Developers, Developers, Developers, Developers, Developers, Developers,..... 🎤
+
+*Steve Ballmer*
+
+-------
+
 > Solo hay 10 tipos de personas. Las que saben binario y las que no. 
 
 *Anonimo*
