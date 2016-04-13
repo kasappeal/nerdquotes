@@ -358,3 +358,11 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+-------
+
+> Un gran poder conlleva una gran responsabilidad.
+
+*Tío Ben* en Spiderman. Y mi *profesor de Introducción a la Programación*, al enseñarnos la recursión.
+
+-------
