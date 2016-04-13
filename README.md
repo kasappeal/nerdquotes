@@ -358,3 +358,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+-------
+
+> Nucelar, la palabra es nu-ce-lar
+
+*Homer Simpson*
