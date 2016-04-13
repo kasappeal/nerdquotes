@@ -358,3 +358,10 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+
+-------
+
+>La autoperfección es simple masturbación.
+
+*Tyler Durden*
