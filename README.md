@@ -358,3 +358,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+-------
+
+> Voy a matar a Moe Wiiii, voy a matar a Moe Wiiii
+
+*Homer Simpson*
