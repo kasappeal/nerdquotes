@@ -1,4 +1,4 @@
-# nerdquotes
+﻿# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
@@ -358,3 +358,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+-------
+
+> A woman's mind is cleaner than a man's: She changes it more often.
+
+*Oliver Herford*
