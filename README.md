@@ -377,10 +377,20 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *Manual de mantenimiento de IBM, año 1925*
 
+-------
+
 > Call me a nerd if you like, but I do find it hard to leave home without my laptop and a good book.
 
 *vortegon*
 
+-------
+
 > You shall not merge!
 
 *Gandalf el Geek*
+
+-------
+
+>La gente piensa que enfocarse significa decir sí a aquello en lo que te enfocas, pero no es así. Significa decir no a otras cientos de ideas buenas que hay.
+
+*Steve Jobs*
