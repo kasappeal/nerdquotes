@@ -507,3 +507,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Voy a matar a Moe Wiiii, voy a matar a Moe Wiiii
 
 *Homer Simpson*
+
+-------
+
+> Los zombies de 28 semanas después no son zombies, son infectados...
+
+*Enjuto Mojamuto*
