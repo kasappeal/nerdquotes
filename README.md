@@ -513,3 +513,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Los zombies de 28 semanas después no son zombies, son infectados...
 
 *Enjuto Mojamuto*
+
+-------
+
+> A woman's mind is cleaner than a man's: She changes it more often.
+
+*Oliver Herford*
