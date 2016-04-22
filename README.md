@@ -400,3 +400,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > No son punteros láser, es que Dios cambia de jugador y se iluminan.
 
 *Games Addict*
+
+-------
+
+> Dicen que el necio aprende de su experiencia, mientras que el sabio de la Historia.
+
+*Nobuchika Ginoza (Psycho Pass)*
