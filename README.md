@@ -3,7 +3,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas. 
+> Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
 
 *Albert Einstein*
 
@@ -484,3 +484,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > **B A Z Z I N G A!!!**
 
 *Sheldon Cooper*
+-------
+
+> No-one has ever called me a cool dude. I'm somewhere between geek and normal.
+
+*Linus Torvalds*
