@@ -278,13 +278,13 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *Unknown*
 
---------
+-------
 
 > Elemental Querido Watson!!
 
 *Sherlock Holmes*
 
----------
+-------
 
 > No soy feo, *Dios* me retó a conquistar mujeres en modo legendario!!
 
@@ -347,7 +347,7 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *G.Marx*
 
---------
+-------
 
 > My real self, the self I have always been from a child, is a loner and nerd, slightly overweight.
 
@@ -406,3 +406,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Dicen que el necio aprende de su experiencia, mientras que el sabio de la Historia.
 
 *Nobuchika Ginoza (Psycho Pass)*
+
+-------
+
+> There's no place like 127.0.0.1
+
+*thinkgeek.com/tshirts-apparel/unisex/*
