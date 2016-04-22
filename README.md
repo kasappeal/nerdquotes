@@ -364,3 +364,7 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Todas las piezas deben unirse sin ser forzadas. Debe recordar que los componentes que está reensamblando fueron desmontados por usted, por lo que si no puede unirlos debe existir una razón. Pero sobre todo, no use un martillo.
 
 *Manual de mantenimiento de IBM, año 1925*
+
+> Call me a nerd if you like, but I do find it hard to leave home without my laptop and a good book.
+
+*vortegon*
