@@ -412,3 +412,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > There's no place like 127.0.0.1
 
 *thinkgeek.com/tshirts-apparel/unisex/*
+
+-------
+
+> Normalmente no rezo, pero si estás ahí­, por favor, ¡¡¡sálvame Superman!!!
+
+*Homer Simpson*
