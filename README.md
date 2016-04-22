@@ -466,3 +466,11 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >La autoperfección es simple masturbación.
 
 *Tyler Durden*
+
+-------
+
+> Un gran poder conlleva una gran responsabilidad.
+
+*Tío Ben* en Spiderman. Y mi *profesor de Introducción a la Programación*, al enseñarnos la recursión.
+
+-------
