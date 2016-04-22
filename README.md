@@ -448,3 +448,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Los ángeles pueden volar porque se toman a sí mismos a la ligera.
 
 *Gilbert Keith Chesterton*
+
+-------
+
+> Nucelar, la palabra es nu-ce-lar
+
+*Homer Simpson*
