@@ -358,3 +358,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Interneeeeeee!.
 
 *Enjuto Mojamuto*
+
+-------
+
+> Todas las piezas deben unirse sin ser forzadas. Debe recordar que los componentes que está reensamblando fueron desmontados por usted, por lo que si no puede unirlos debe existir una razón. Pero sobre todo, no use un martillo.
+
+*Manual de mantenimiento de IBM, año 1925*
