@@ -495,3 +495,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Sci-fi nerds are respectful, honorable. You can trust them.
 
 *Sean Penn Drive*
+
+-------
+
+> Si quieres ser mas positivo... Pierde un **electrón**
+
+*Anónimo*
