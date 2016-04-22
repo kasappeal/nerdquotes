@@ -489,3 +489,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > No-one has ever called me a cool dude. I'm somewhere between geek and normal.
 
 *Linus Torvalds*
+
+-------
+
+> Sci-fi nerds are respectful, honorable. You can trust them.
+
+*Sean Penn Drive*
