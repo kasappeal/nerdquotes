@@ -525,3 +525,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Algun día veré Matrix.
 
 *Miguel de Unamuno*
+
+-------
+
+> Son los vecinos los que eligen al alcalde y es el alcalde el que quiere que sean los vecinos el alcalde.
+
+*Mariano Rajoy*
