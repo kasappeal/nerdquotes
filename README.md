@@ -424,3 +424,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > La respuesta de la vida, el universo y todo lo demás es... 42.
 
 *Deep Thought («Pensamiento Profundo»), Guia del Autoestopista Galáctico*
+
+-------
+
+> Solo hay 10 tipos de personas, los que saben binario y los que no.
+
+*Mi profe de Sistemas Digitales*
