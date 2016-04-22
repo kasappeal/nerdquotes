@@ -394,3 +394,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 >La gente piensa que enfocarse significa decir sí a aquello en lo que te enfocas, pero no es así. Significa decir no a otras cientos de ideas buenas que hay.
 
 *Steve Jobs*
+
+-------
+
+> No son punteros láser, es que Dios cambia de jugador y se iluminan.
+
+*Games Addict*
