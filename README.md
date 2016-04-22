@@ -478,3 +478,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > I'm a history nerd. Actually acting's the best job for somebody who loves weird, different stuff. 
 
 *Lauren Cohan*
+
+-------
+
+> **B A Z Z I N G A!!!**
+
+*Sheldon Cooper*
