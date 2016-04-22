@@ -501,3 +501,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Si quieres ser mas positivo... Pierde un **electrón**
 
 *Anónimo*
+
+-------
+
+> Voy a matar a Moe Wiiii, voy a matar a Moe Wiiii
+
+*Homer Simpson*
