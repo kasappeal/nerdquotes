@@ -418,3 +418,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Normalmente no rezo, pero si estás ahí­, por favor, ¡¡¡sálvame Superman!!!
 
 *Homer Simpson*
+
+-------
+
+> La respuesta de la vida, el universo y todo lo demás es... 42.
+
+*Deep Thought («Pensamiento Profundo»), Guia del Autoestopista Galáctico*
