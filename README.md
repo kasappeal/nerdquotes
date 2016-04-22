@@ -380,3 +380,7 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Call me a nerd if you like, but I do find it hard to leave home without my laptop and a good book.
 
 *vortegon*
+
+> You shall not merge!
+
+*Gandalf el Geek*
