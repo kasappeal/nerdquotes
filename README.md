@@ -45,7 +45,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
+> 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
 
 *T-shirt*
 
