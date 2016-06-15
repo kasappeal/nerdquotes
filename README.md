@@ -57,7 +57,7 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
-> Oh Gravity, Thou Art a Heartless Bitch
+> Oh Gravity, thou art a heartless bitch
 
 *Sheldon Cooper*
 
