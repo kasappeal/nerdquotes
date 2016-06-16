@@ -29,6 +29,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
 
+-------
+
+> Si pudieras patear el trasero al responsable de casi todos tus problemas, no podrías sentarte en un mes.
+
+*Theodore Roosevelt*
+
+
 *Eric Allman*
 
 -------
