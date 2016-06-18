@@ -3,6 +3,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows.
+
+*Poco RAM (http://www.frases1000.com/frases/frikis/pagina/2)*
+
+-------
+
 > Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
 
 *Albert Einstein*
