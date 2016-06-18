@@ -45,6 +45,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+>Si ya saben como programo..., **¿Para qué me invitaaan!?**
+
+*the sleepless*
+
+------
+
 A quien madruga una taza de Java le ayuda!
 
 *Nesspreso*
