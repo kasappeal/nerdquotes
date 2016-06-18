@@ -151,6 +151,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "Primero mergeo, luego commiteo"
+
+*Gitcartes*
+
+-------
+
 > Be nice to nerds. Chances are you'll end up working for one
 
 *Bill Gates*
