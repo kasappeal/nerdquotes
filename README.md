@@ -6,7 +6,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
 
 *Albert Einstein*
+-------
 
+> Tengo la sensación de haber estado antes aqui. ¿Cómo lo sabes?. El WiFi se ha conectado solo.
+
+*Frases frikis*
 -------
 
 > Ni commit ni comat, o limpias tu habitación ya o veras lo que es un commit.
