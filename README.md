@@ -75,6 +75,12 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
+> Getting older is no problem. You just have to live long enough.
+
+*Groucho Marx*
+
+-------
+
 ```bash
 **$>** man woman
 
