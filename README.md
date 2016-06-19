@@ -244,6 +244,11 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 *Desconocido*
 
+-------
+
+> Dios es real, a menos que se declare como entero
+
+*Oido por ahí*
 
 -------
 
