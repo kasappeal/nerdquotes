@@ -75,6 +75,12 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
+> “No me voy porque no pueda matarte, me voy porque soy capaz.” 
+
+*Lara Croft*
+
+-------
+
 ```bash
 **$>** man woman
 
