@@ -3,6 +3,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No hay solo mortifagos y buenas personas, Harry, todos tenemos luz y oscuridad en nuestro corazón
+
+*J. K. Rowling*
+
+-------
+
 > Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
 
 *Albert Einstein*
