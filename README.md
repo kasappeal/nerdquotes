@@ -628,3 +628,9 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > Son los vecinos los que eligen al alcalde y es el alcalde el que quiere que sean los vecinos el alcalde.
 
 *Mariano Rajoy*
+
+-------
+
+> ¡Por las claves del cripto!
+
+*Ingeniero de la NSA al inventar el 3DES*
