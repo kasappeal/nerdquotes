@@ -111,6 +111,11 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
+> Historial ayer borrado, anteayer hubo pecado.
+
+*Google Chrome*
+
+-------
 > "Codifica siempre como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives"
 
 *Martin Golding*
