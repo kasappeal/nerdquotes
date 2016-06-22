@@ -344,6 +344,12 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 -------
 
+> Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza
+
+*Paul Leary*
+
+-------
+
 > My Software never has bugs. It just develops random features.
 
 *Unknown*
