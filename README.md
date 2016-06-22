@@ -37,6 +37,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Tengo un amigo que dice que css es un lenguaje de programación.
+
+*Persona tolerante*
+
+-------
+
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
 
 -------
