@@ -63,6 +63,12 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
+> Oh Gravity, thou art a heartless bitch
+
+*Sheldon Cooper*
+
+-------
+
 > Lo que Git ha unido que no lo separe Windows
 
 *Sutia Nutella*
