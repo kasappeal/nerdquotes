@@ -37,6 +37,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Douglas Adams*
 
+---
+
+> Se esta muriendo gente que antes no se habia muerto...
+
+*Carmina o revienta*
+
 -------
 
 > Hay una **teoría** que afirma que si alguien descubriera lo que es exactamente el **universo** y el porqué de su existencia, desaparecería al instante y sería sustituido por algo aún más extraño e inexplicable. Hay otra **teoría** que afirma que eso ya ha ocurrido.
