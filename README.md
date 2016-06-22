@@ -268,6 +268,12 @@ I think if I did do something in another genre, it would be science fiction; I'm
 *Sheldon Cooper*
 
 -------
+
+> Hasta el infinito y más allá!
+
+*Buzz Lightyear*
+
+-------
 > El abrirá el portal y desencadenará el fin del mundo
 
 *Hellboy*
