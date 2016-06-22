@@ -257,6 +257,13 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 -------
 
+> If the automobile had followed the same development cycle as the computer, 
+> a Rolls-Royce would today cost $100, get a million miles per gallon, 
+> and explode once a year, killing everyone inside.”
+
+*Robert X. Cringely* 
+
+-------
 > Don't You Think If I Were Wrong I'd Know It?
 
 *Sheldon Cooper*
