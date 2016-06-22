@@ -299,6 +299,12 @@ I think if I did do something in another genre, it would be science fiction; I'm
 
 -------
 
+> Los mejores programadores son reductores natos de la incertidumbre. Cogen un proceso de negocio mal definido, que nadie sabe muy bien cómo funciona ni qué calidad tiene o que resultados produce. Analizan dicho proceso, lo automatizan, y lo convierten en algo eficiente, repetible, medible y fiable.
+
+*[Sergio Montoro Ten (Porqué la gente odia a los programadores)](http://versioncero.juanjonavarro.com/articulo/554/porque-la-gente-odia-a-los-programadores "Porqué la gente odia a los programadores")*
+
+-------
+
 > Cuando era Padawan, me daban la Fuerza en bote.
 > 
 > Ahora que soy Jedi, me la sacan del ...
