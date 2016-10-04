@@ -91,6 +91,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Y aquel que quiebra algo para averiguar qué es, ha abandonado el camino de sabiduría
+
+*Gandalf*
+
+-------
+
 > **Truth** can only be found in one place: **the code**.
 
 *Uncle Bob, [Clean Code](http://www.goodreads.com/book/show/3735293-clean-code)*
