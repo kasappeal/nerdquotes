@@ -75,6 +75,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El perdedor vence al genio con talento por medio de pura fuerza de voluntad.
+
+*Rock Lee*
+
+-------
+
 > Tengo un amigo que dice que css es un lenguaje de programación.
 
 *Persona tolerante*
