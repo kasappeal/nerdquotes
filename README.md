@@ -63,6 +63,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A quien buen **SourceTree** se arrima, buenos *commits* le cobijan.
+
+*Paco Cardenal*
+
+-------
+
 > Tengo un amigo que dice que css es un lenguaje de programación.
 
 *Persona tolerante*
