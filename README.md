@@ -87,6 +87,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “¿Dónde está la tecla ‘ANY’?”
+
+*Homer Simpson, frente a un mensaje “press any key”*
+
+-------
+
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
 
 -------
