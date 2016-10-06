@@ -6,6 +6,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
+
+-------
+
+> The biggest issue on software team is making sure everyone understands what everyone else is doing.
+
+*Martin Fowler*
+
 -------
 
 > Con Larry Plotter aprendí Git.
