@@ -122,6 +122,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Por el alcohol! Causa y al mismo tiempo solución a todos nuestros problemas!
+
+*Homer J. Simpson*
+
+-------
+
 > Cualquier hombre que haga **autoestop** a todo lo largo y ancho de la **Galaxia**, pasando calamidades, divirtiéndose en los barrios bajos, luchando contra adversidades tremendas, saliendo sano y salvo de todo ello, y sabiendo todavía dónde está su **toalla**, es sin duda un hombre a tener en cuenta.
 
 *Douglas Adams*
