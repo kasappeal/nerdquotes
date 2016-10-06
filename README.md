@@ -124,7 +124,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > Por el alcohol! Causa y al mismo tiempo solución a todos nuestros problemas!
 
-*Homer J. Simpson
+*Homer J. Simpson*
 
 -------
 
