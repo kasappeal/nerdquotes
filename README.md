@@ -103,6 +103,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Persona tolerante*
 
 -------
+> Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+
+*Max Brooks*
+
+-------
 
 > “¿Dónde está la tecla ‘ANY’?”
 
