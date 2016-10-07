@@ -243,6 +243,12 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
+> “La luz que brilla con el doble de intensidad dura la mitad de tiempo, y tu has brillado mucho, Roy.”
+
+*Blade Runner*
+
+-------
+
 >**Swift** is comming
 
 *John Swift*
