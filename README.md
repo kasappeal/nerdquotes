@@ -32,7 +32,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Si buscas resultados distintos, no hagas siempre lo mismo. 
+> Si buscas resultados distintos, no hagas siempre lo mismo.
 
 *Albert Einstein*
 
@@ -47,6 +47,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Como viviras Jonnhy?
 
 *Coronel Trautman*
+
+-------
+
+> Hombre que poder cazar mosca con palillos consigue lo que quiere.
+
+*Sr. Miyagi*
 
 -------
 
