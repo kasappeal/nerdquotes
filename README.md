@@ -110,6 +110,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Tres pequeñas frases que te ayudarán a lo largo de tu vida: 1) ¡Cúbreme!, 2) ¡Buena idea jefe!, 3) Estaba así cuando llegué.
+
+*Homer J. Simpson*
+
+-------
+
 > It is 30 minutes away, I will be there in 10.
 
 *Mr Wolf (Pulp Fiction)*
