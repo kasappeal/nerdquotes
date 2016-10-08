@@ -16,7 +16,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > The Next Code is the only one that matters... Keep Coding!
+>Eres mas perfecta que Célula después de absorber a A-18
 
+*Son Goku*
+
+-------
 *Jhonnie Coder*
 
 -------
