@@ -109,6 +109,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Persona tolerante*
 
 -------
+
+> It is 30 minutes away, I will be there in 10.
+
+*Mr Wolf (Pulp Fiction)*
+
+-------
+
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
