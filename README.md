@@ -92,6 +92,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El **software es como el sexo**, es mejor cuando es libre.
+
+*Linus Torvalds*
+
+-------
+
 > A quien buen **SourceTree** se arrima, buenos *commits* le cobijan.
 
 *Paco Cardenal*
