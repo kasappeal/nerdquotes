@@ -3,6 +3,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> 640K ought to be enough for anybody
+
+*Bill Gates*
+
+------
+
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
