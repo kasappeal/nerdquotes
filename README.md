@@ -114,6 +114,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Yo tengo mucho **glamour**, me perfumo el commit con **Ambipur**
+
+*Carmen de Mairena*
+
+-------
+
 > A quien buen **SourceTree** se arrima, buenos *commits* le cobijan.
 
 *Paco Cardenal*
