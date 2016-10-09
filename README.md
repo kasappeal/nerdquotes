@@ -815,3 +815,7 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > ¡Por las claves del cripto!
 
 *Ingeniero de la NSA al inventar el 3DES*
+
+> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character. 
+
+*Bjork*
