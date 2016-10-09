@@ -17,6 +17,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > The biggest issue on software team is making sure everyone understands what everyone else is doing.
 
+-------
+
+> Truth can only be found in one place: the code.
+
+*Robert C. Martin*
+
 *Martin Fowler*
 
 -------
