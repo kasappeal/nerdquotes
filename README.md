@@ -27,6 +27,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Son Goku*
 
 -------
+
+> Always remember that you are absolutely unique. Just like everyone else.
+
+*Margaret Mead*
+
+------
+
 *Jhonnie Coder*
 
 -------
