@@ -27,6 +27,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Son Goku*
 
 -------
+
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito.
+
+*Autor desconocido*
+
+-------
 *Jhonnie Coder*
 
 -------
