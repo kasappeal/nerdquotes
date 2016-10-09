@@ -283,6 +283,12 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
+> La blasfemia es el unico lenguaje que de verdad conocen todos los programadores.
+
+*Virgulilla Atormentada*
+
+-------
+
 > “La luz que brilla con el doble de intensidad dura la mitad de tiempo, y tu has brillado mucho, Roy.”
 
 *Blade Runner*
