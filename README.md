@@ -289,6 +289,12 @@ A quien madruga una taza de Java le ayuda!
 
 -------
 
+>Penny, todo es mejor con bluetooth.
+
+*Sheldon Cooper*
+
+-------
+
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
