@@ -27,7 +27,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> The Next Code is the only one that matters... Keep Coding!
 >Eres mas perfecta que Célula después de absorber a A-18
 
 *Son Goku*
@@ -39,6 +38,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Autor desconocido*
 
 -------
+
+> Always remember that you are absolutely unique. Just like everyone else.
+
+*Margaret Mead*
+
+------
+
+> The Next Code is the only one that matters... Keep Coding!
+
 *Jhonnie Coder*
 
 -------
@@ -252,7 +260,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-A quien madruga una taza de Java le ayuda!
+>A quien madruga una taza de Java le ayuda!
 
 *Nesspreso*
 
@@ -295,6 +303,7 @@ A quien madruga una taza de Java le ayuda!
 *Google Chrome*
 
 -------
+
 > "Codifica siempre como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives"
 
 *Martin Golding*
@@ -455,7 +464,7 @@ Segmentation fault [core dumped]
 
 -------
 
-I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
+>I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
 
 *Elena Nito Del Bosque*
 
@@ -839,6 +848,8 @@ I think if I did do something in another genre, it would be science fiction; I'm
 > ¡Por las claves del cripto!
 
 *Ingeniero de la NSA al inventar el 3DES*
+
+-------
 
 > A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character. 
 
