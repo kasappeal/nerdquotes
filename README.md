@@ -120,9 +120,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> A quien buen **SourceTree** se arrima, buenos *commits* le cobijan.
+> ¡El correo electrónico ha sido devuelto al remitente! – voltaje insuficiente
 
-*Paco Cardenal*
+*Chabelo*
 
 -------
 
