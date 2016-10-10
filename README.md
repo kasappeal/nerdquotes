@@ -150,6 +150,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Cada cuantos años hay que llevar el DeLorean a que pase la ITV?
+
+*Frase friki*
+
+------
+
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
