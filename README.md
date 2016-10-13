@@ -854,3 +854,9 @@ Segmentation fault [core dumped]
 > A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character. 
 
 *Bjork*
+
+-------
+
+> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way. 
+
+*J. J. Abrams*
