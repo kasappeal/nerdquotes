@@ -80,6 +80,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> If programmers deserve to be rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs.
+
+*Richard Stallman*
+
+------
+
 > Hombre que poder cazar mosca con palillos consigue lo que quiere.
 
 *Sr. Miyagi*
