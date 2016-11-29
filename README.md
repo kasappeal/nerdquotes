@@ -701,6 +701,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Limpiar las gafas y pasar de TS-screener a FullHD 1080p.
+
+*Friki y miope*
+
+-------
+
 > Call me a nerd if you like, but I do find it hard to leave home without my laptop and a good book.
 
 *vortegon*
