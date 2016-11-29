@@ -92,6 +92,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> If debugging is the process of removing software bugs, then programming must be the process of putting them in.
+
+*Edsger Dijkstra*
+
+-------
+
 > Todos somos muy ignorantes. Lo que ocurre es que no todos ignoramos las mismas cosas.
 
 *Albert Einstein*
