@@ -19,6 +19,16 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> for (x = 1; x < 10; x++)
+		{
+			var pelicula = "Y EL PREMIO A LA MEJOR BSO ORIGINAL ES PARA...";
+  			document.write(Number(pelicula));
+		}
+
+*El Capitan Comedia*
+
+-------
+
 > The #1 Programmer excuse for legitimately slacking off: "My code is COMPILING."
 
 *XKDC Comic Compiling*
