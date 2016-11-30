@@ -19,6 +19,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
+
+*El comico suicida*
+
+-------
+
 > The #1 Programmer excuse for legitimately slacking off: "My code is COMPILING."
 
 *XKDC Comic Compiling*
