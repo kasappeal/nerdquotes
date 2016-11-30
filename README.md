@@ -19,13 +19,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> "<script type="text/javascript">
-		for (x = 1; x < 10; x++)
+> "		for (x = 1; x < 10; x++)
 		{
 			var batman = "Y EL PREMIO A LA MEJOR BSO ORIGINAL ES PARA...";
   			document.write(Number(batman));
 		}
-  </script>""
+  "
 
 *El capitan comedia*
 
