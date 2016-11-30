@@ -19,11 +19,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Truth can only be found in one place: the code.
+-------
 
-*Robert C. Martin*
+> Me gustaría ser un pendrive para tu USB.
 
-*Martin Fowler*
+*Mr.Robot*
 
 -------
 
