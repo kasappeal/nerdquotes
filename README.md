@@ -98,6 +98,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Siempre que te pregunten si puedes hacer un trabajo, contesta que sí y ponte enseguida a aprender como se hace.
+
+*Franklin D. Roosevelt*
+
+-------
+
 > 404 happens...
 
 *Once upon a time, a SEO*
