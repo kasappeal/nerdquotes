@@ -19,6 +19,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> The #1 Programmer excuse for legitimately slacking off: "My code is COMPILING."
+
+*XKDC Comic Compiling*
+
+-------
+
 > Truth can only be found in one place: the code.
 
 *Robert C. Martin*
