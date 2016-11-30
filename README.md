@@ -638,6 +638,14 @@ Segmentation fault [core dumped]
 
 -------
 
+```bash
+A strange game. The only winning move is not to play. How about a nice game of chess?
+```
+
+*Joshua*
+
+-------
+
 > Todo el mundo es bueno hasta que deja de serlo. Nunca pasa nada hasta que pasa.
 
 *mi esposa*
