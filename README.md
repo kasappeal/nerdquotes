@@ -896,3 +896,9 @@ Segmentation fault [core dumped]
 > When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way. 
 
 *J. J. Abrams*
+
+-------
+
+> Quisiera ser un pendrive para tu USB
+
+*Mr.Robot*
