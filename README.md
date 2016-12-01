@@ -19,6 +19,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un friki es un tipo que sabe que la normalidad es una estafa.
+
+*José Antonio Maldonado*
+
+-------
+
 > for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
 
 *El comico suicida*
