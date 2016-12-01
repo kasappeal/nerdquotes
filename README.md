@@ -128,6 +128,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¡Me estoy 42! ("42 en francés xD")
+
+*Peter Griffin*
+
+-------
+
 > If debugging is the process of removing software bugs, then programming must be the process of putting them in.
 
 *Edsger Dijkstra*
