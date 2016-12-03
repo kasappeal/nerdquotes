@@ -1,4 +1,4 @@
-# nerdquotes
+﻿# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
@@ -16,6 +16,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > The biggest issue on software team is making sure everyone understands what everyone else is doing.
+
+-------
+
+> –¡Cuenta con mi espada! –¡Cuenta con mi arco! –¡Cuenta con mi hacha! –¡CUENTA NARANJA! –No, Ing Direct, tú no vienes.
+
+*Gandalf El Gris*
 
 -------
 
