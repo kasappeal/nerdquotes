@@ -15,6 +15,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm a nerd. Total geek. I never went to homecoming or prom or anything. 
+
+*Hunter Hayes*
+
+-------
+
 > The biggest issue on software team is making sure everyone understands what everyone else is doing.
 
 -------
