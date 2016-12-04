@@ -19,6 +19,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ninguna gráfica podría renderizar al 100% tu perfecta figura.
+
+*Adolfo de la Rosa, Tomada de http://www.frases1000.com/*
+
+-------
+
 > Un friki es un tipo que sabe que la normalidad es una estafa.
 
 *José Antonio Maldonado*
