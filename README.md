@@ -1,6 +1,15 @@
 # nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
+
+
+
+-------
+
+> Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
+
+*Steve Job*
+
 -------
 
 > 640K ought to be enough for anybody
