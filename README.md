@@ -548,6 +548,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "Si intentas matar al rey, no falles."
+
+*Omar Little*
+
+-------
+
 >"Tendrá todo el dinero del mundo... pero habrá algo que jamás podrá comprar... un dinosaurio."
 
 *Homer Simpson*
