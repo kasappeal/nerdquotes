@@ -119,6 +119,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Amigo programador, puedes cometer muchos fallos... pero nunca nunca nunca olvides el WHERE en el DELETE FROM
+
+*Un tipo muy sabio*
+
+-------
 > Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows.
 
 *Poco RAM (http://www.frases1000.com/frases/frikis/pagina/2)*
