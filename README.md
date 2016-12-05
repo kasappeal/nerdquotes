@@ -16,6 +16,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Bill Gates*
 
+-------
+
+> Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+
+*Max Brooks*
+
 ------
 
 > Hacer un commit en master es ñapa en producción.
