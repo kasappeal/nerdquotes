@@ -1,9 +1,6 @@
 ﻿# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
-
-
-
 -------
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
@@ -46,6 +43,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ninguna gráfica podría renderizar al 100% tu perfecta figura.
+
+*Adolfo de la Rosa, Tomada de http://www.frases1000.com/*
+
+-------
+
 > Un friki es un tipo que sabe que la normalidad es una estafa.
 
 *José Antonio Maldonado*
@@ -73,8 +76,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Truth can only be found in one place: the code.
 
 *Robert C. Martin*
-
-*Martin Fowler*
 
 -------
 
@@ -105,6 +106,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Con Larry Plotter aprendí Git.
 
 *Jose Javier Montes*
+
 -------
 
 > No hay solo mortifagos y buenas personas, Harry, todos tenemos luz y oscuridad en nuestro corazón
@@ -270,6 +272,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > The intellectual property situation is bad and getting worse. To be a programmer, it requires that you understand as much law as you do technology.
 
+*Eric Allman*
+
 -------
 
 > Y aquel que quiebra algo para averiguar qué es, ha abandonado el camino de sabiduría
@@ -288,9 +292,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Theodore Roosevelt*
 
-
-*Eric Allman*
-
 -------
 
 > Por el alcohol! Causa y al mismo tiempo solución a todos nuestros problemas!
@@ -302,13 +303,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Cualquier hombre que haga **autoestop** a todo lo largo y ancho de la **Galaxia**, pasando calamidades, divirtiéndose en los barrios bajos, luchando contra adversidades tremendas, saliendo sano y salvo de todo ello, y sabiendo todavía dónde está su **toalla**, es sin duda un hombre a tener en cuenta.
 
 *Douglas Adams*
+
 -------
 
 > Intenté conquistar a una programadora, pero no se deJava.
 
 *Programador C#*
 
----
+-------
 
 > Se esta muriendo gente que antes no se habia muerto...
 
@@ -631,6 +633,8 @@ Segmentation fault [core dumped]
 
 *[Sergio Montoro Ten (Porqué la gente odia a los programadores)](http://versioncero.juanjonavarro.com/articulo/554/porque-la-gente-odia-a-los-programadores "Porqué la gente odia a los programadores")*
 
+------
+
 > Dios es real, a menos que se declare como entero
 
 *Oido por ahí*
@@ -658,6 +662,7 @@ Segmentation fault [core dumped]
 *Buzz Lightyear*
 
 -------
+
 > El abrirá el portal y desencadenará el fin del mundo
 
 *Hellboy*
@@ -744,6 +749,8 @@ A strange game. The only winning move is not to play. How about a nice game of c
 -------
 
 > Bienvenido a 127.0.0.1
+
+*Anónimo*
 
 -------
 
