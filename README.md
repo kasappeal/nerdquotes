@@ -15,6 +15,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm a nerd. Total geek. I never went to homecoming or prom or anything.
+
+*Hunter Hayes*
+
+-------
+
+
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
