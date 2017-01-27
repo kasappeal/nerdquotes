@@ -15,6 +15,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
+
+*Bender*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
