@@ -523,7 +523,7 @@ Segmentation fault [core dumped]
 
 -------
 
-> “La violencia es el último recurso del **incompetente*”
+> “La violencia es el último recurso del **incompetente**”
 
 *Salvor Hardin*
 
