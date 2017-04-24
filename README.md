@@ -74,6 +74,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> RHAWKARG
+
+*chewbacca*
+
+-------
+
 > The #1 Programmer excuse for legitimately slacking off: "My code is COMPILING."
 
 *XKDC Comic Compiling*
