@@ -493,6 +493,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "Ser o no ser, esa es la cuestión."
+
+*Hamlet de William Shakespeare*
+
+-------
+
 > "Perro ladrador, poco **follador...**"
 
 *Glory Strongs*
