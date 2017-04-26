@@ -493,6 +493,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Innovation distinguishes between a leader and a follower.
+
+*Steve Jobs*
+
+-------
+
 > "Perro ladrador, poco **follador...**"
 
 *Glory Strongs*
