@@ -92,6 +92,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Don’t Let the Wolf in the Cave
+
+*Ray Donovan*
+
+-------
+
 >Eres mas perfecta que Célula después de absorber a A-18
 
 *Son Goku*
