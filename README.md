@@ -9,9 +9,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> 640K ought to be enough for anybody
+> La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
-*Bill Gates*
+*Berto Romero*
 
 -------
 
