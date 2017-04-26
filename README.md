@@ -98,6 +98,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Y a pesar de que el ordenador estaba apagado y desenchufado, una imagen permanecía en la pantalla... era... ¡¡el logotipo de Windows!!"
+
+*Bender B. Rodriguez*
+
+-------
+
 > La vida sería más fácil si todos tuviéramos un ⌘+Z infinito.
 
 *Autor desconocido*
