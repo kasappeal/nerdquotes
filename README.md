@@ -21,6 +21,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
+
+*Homer Simpson*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
