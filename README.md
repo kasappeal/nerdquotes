@@ -50,6 +50,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Como sigan con estos precios, el próximo producto de Apple será la **iPoteca**
+
+*Anónimo*
+
+-------
 > –¡Cuenta con mi espada! –¡Cuenta con mi arco! –¡Cuenta con mi hacha! –¡CUENTA NARANJA! –No, Ing Direct, tú no vienes.
 
 *Gandalf El Gris*
