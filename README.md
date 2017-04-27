@@ -9,6 +9,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>No reírse de nada es de tontos, reírse de todo es de estúpidos
+
+*Groucho marx*
+
+-------
+
 > 640K ought to be enough for anybody
 
 *Bill Gates*
