@@ -7,8 +7,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Alberto Casero*
 
-
-
 -------
 
 > My Next Code is the only one that matter... Just Keep Coding!
