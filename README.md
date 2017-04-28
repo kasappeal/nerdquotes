@@ -11,9 +11,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> The Next Code is the only one that matters... Keep Coding!
+> My Next Code is the only one that matter... Just Keep Coding!
 
-*Jhonnie Coder*
+*Henry Jhonnie Coder*
+
 -------
 
 > Con Larry Plotter aprendí Git.
