@@ -513,7 +513,7 @@ Segmentation fault [core dumped]
 
 >Lo que posees acabará poseyéndote
 
-*¿Thyler Durden? Friedich-Nietzsche
+*¿Thyler Durden? Friedich-Nietzsche*
 
 -------
 
