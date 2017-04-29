@@ -9,6 +9,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Failure is the condiment that gives success its flavor
+
+*Truman Capote*
+
+-------
+
+-------
+
 > 640K ought to be enough for anybody
 
 *Bill Gates*
