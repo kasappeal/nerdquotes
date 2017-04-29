@@ -664,6 +664,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> If you like nerds, raise your hand. If you don't, raise your standards.
+
+*Violet Haberdasher*
+
+-------
+
 > Don't You Think If I Were Wrong I'd Know It?
 
 *Sheldon Cooper*
