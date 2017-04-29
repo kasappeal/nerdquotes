@@ -517,7 +517,6 @@ Segmentation fault [core dumped]
 
 -------
 
-
 > Developers, Developers, Developers, Developers, Developers, Developers, Developers,..... 🎤
 
 *Steve Ballmer*
