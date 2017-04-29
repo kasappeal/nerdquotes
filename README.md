@@ -9,6 +9,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Se te entiende menos que una psicofonía de Chewbacca.
+
+*Chiquito de la Calzada*
+
+-------
 > 640K ought to be enough for anybody
 
 *Bill Gates*
