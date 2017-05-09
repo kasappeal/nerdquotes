@@ -547,6 +547,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> “La violencia es el último recurso del **incompetente**”
+
+*Salvor Hardin*
+
+-------
+
 > “¿Internet? No estamos interesados en eso”
 
 *Bill Gates*
