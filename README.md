@@ -92,6 +92,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+
+*Max Brooks*
+
+-------
+
 > The #1 Programmer excuse for legitimately slacking off: "My code is COMPILING."
 
 *XKDC Comic Compiling*
