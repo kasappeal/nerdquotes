@@ -9,6 +9,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Se te entiende menos que una psicofonía de Chewbacca.
+
+*Chiquito de la Calzada*
+
+-------
+
 >El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
@@ -38,7 +44,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Hunter Hayes*
 
 -------
-
 
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
@@ -95,7 +100,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
 
 *El comico suicida*
-
 
 -------
 
@@ -182,6 +186,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Un tipo muy sabio*
 
 -------
+
 > Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows.
 
 *Poco RAM (http://www.frases1000.com/frases/frikis/pagina/2)*
