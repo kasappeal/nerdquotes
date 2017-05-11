@@ -127,6 +127,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Todo gran poder conlleva una gran responsabilidad.
+
+*Tío Ben*
+
 > Truth can only be found in one place: the code.
 
 *Robert C. Martin*
