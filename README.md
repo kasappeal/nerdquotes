@@ -9,6 +9,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>No reírse de nada es de tontos, reírse de todo es de estúpidos
+
+*Groucho marx*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
