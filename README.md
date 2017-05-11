@@ -15,6 +15,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Se te entiende menos que una psicofonía de Chewbacca.
+
+*Chiquito de la Calzada*
+
+-------
+
+>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
+
+*Maestro Yoda*
+
+-------
+
 > 640K ought to be enough for anybody
 
 *Bill Gates*
@@ -27,12 +39,17 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
+
+*Homer Simpson*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
 
 -------
-
 
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
@@ -68,15 +85,39 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "No estoy loco, mi mamá me hizo pruebas"
+
+*Sheldon Cooper*
+
+-------
+
 > Un friki es un tipo que sabe que la normalidad es una estafa.
 
 *José Antonio Maldonado*
 
 -------
 
+> No existen preguntas sin respuesta sino preguntas mal formuladas
+
+*Morfeo (Matrix)*
+
+-------
+
 > for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
 
 *El comico suicida*
+
+-------
+
+> I'm not afraid to die, I just don't want to be there when it happens.
+
+*Carl Sagan*
+
+-------
+
+> Cualquier tecnología suficientemente avanzada es indistinguible de la magia.
+
+*Arthur C. Clarke*
 
 -------
 
@@ -92,9 +133,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Todo gran poder conlleva una gran responsabilidad.
+
+*Tío Ben*
+
 > Truth can only be found in one place: the code.
 
 *Robert C. Martin*
+
+-------
+
+> Don’t Let the Wolf in the Cave
+
+*Ray Donovan*
 
 -------
 
@@ -145,6 +196,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Un tipo muy sabio*
 
 -------
+
 > Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows.
 
 *Poco RAM (http://www.frases1000.com/frases/frikis/pagina/2)*
@@ -499,6 +551,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "Ser o no ser, esa es la cuestión."
+
+*Hamlet de William Shakespeare*
+
+-------
+
 > "Perro ladrador, poco **follador...**"
 
 *Glory Strongs*
@@ -526,6 +584,12 @@ Segmentation fault [core dumped]
 > Solo hay 10 tipos de personas. Las que saben binario y las que no.
 
 *Anonimo*
+
+-------
+
+> “La violencia es el último recurso del **incompetente**”
+
+*Salvor Hardin*
 
 -------
 
@@ -667,6 +731,12 @@ Segmentation fault [core dumped]
 > °(((=((===°°°(((::::::::::::::::::::::::::::::::::::::::::::::::::
 
 *Anakin Skywalker pedo en una whiskeria de Tatooine*
+
+-------
+
+> If you like nerds, raise your hand. If you don't, raise your standards.
+
+*Violet Haberdasher*
 
 -------
 
