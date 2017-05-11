@@ -96,6 +96,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *El comico suicida*
 
+
+-------
+
+> I'm not afraid to die, I just don't want to be there when it happens.
+
+*Carl Sagan*
+
 -------
 
 > Cualquier tecnología suficientemente avanzada es indistinguible de la magia.
