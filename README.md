@@ -21,6 +21,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
+
+*Homer Simpson*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
@@ -62,9 +68,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "No estoy loco, mi mamá me hizo pruebas"
+
+*Sheldon Cooper*
+
+-------
+
 > Un friki es un tipo que sabe que la normalidad es una estafa.
 
 *José Antonio Maldonado*
+
+-------
+
+> No existen preguntas sin respuesta sino preguntas mal formuladas
+
+*Morfeo (Matrix)*
 
 -------
 
@@ -499,6 +517,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "Ser o no ser, esa es la cuestión."
+
+*Hamlet de William Shakespeare*
+
+-------
+
 > "Perro ladrador, poco **follador...**"
 
 *Glory Strongs*
@@ -526,6 +550,12 @@ Segmentation fault [core dumped]
 > Solo hay 10 tipos de personas. Las que saben binario y las que no.
 
 *Anonimo*
+
+-------
+
+> “La violencia es el último recurso del **incompetente**”
+
+*Salvor Hardin*
 
 -------
 
