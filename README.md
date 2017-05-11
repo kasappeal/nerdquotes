@@ -82,6 +82,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > Yo... he visto cosas que vosotros no creeríais: Atacar naves en llamas más allá de Orión. He visto rayos C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán... en el tiempo... como lágrimas en la lluvia. Es hora de morir
 
+*Roy Batty*
+
 -------
 
 >Todo gran poder conlleva una gran responsabilidad.
