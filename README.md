@@ -576,6 +576,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "La capacidad de hablar no te hace inteligente"
+
+*Qui Gon Jinn*
+
+-------
+
 >A**GIT**ar antes de **HUB**sar
 
 *House M.D.*
