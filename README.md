@@ -132,6 +132,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+
+*Max Brooks*
+
+-------
+
 > I'm not afraid to die, I just don't want to be there when it happens.
 
 *Carl Sagan*
