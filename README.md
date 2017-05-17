@@ -142,6 +142,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
+
+*Batty, Blade Runner*
+
+-------
+
 > Yo... he visto cosas que vosotros no creeríais: Atacar naves en llamas más allá de Orión. He visto rayos C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán... en el tiempo... como lágrimas en la lluvia. Es hora de morir
 
 *Roy Batty*
