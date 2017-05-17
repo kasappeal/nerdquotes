@@ -1,4 +1,4 @@
-﻿# nerdquotes
+# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
@@ -9,7 +9,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->No reírse de nada es de tontos, reírse de todo es de estúpidos
+> La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
+
+*Berto Romero*
+
+-------
+
+> No reírse de nada es de tontos, reírse de todo es de estúpidos
 
 *Groucho marx*
 
@@ -28,8 +34,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > 640K ought to be enough for anybody
-
-*Bill Gates*
 
 -------
 
