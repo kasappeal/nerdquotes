@@ -586,6 +586,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Innovation distinguishes between a leader and a follower.
+
+*Steve Jobs*
+
+-------
+
 > "Ser o no ser, esa es la cuestión."
 
 *Hamlet de William Shakespeare*
