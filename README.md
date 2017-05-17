@@ -5,7 +5,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
-*Steve Job*
+*Steve Jobs*
+
+-------
+
+> Failure is the condiment that gives success its flavor
+
+*Truman Capote*
 
 -------
 
@@ -34,6 +40,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > 640K ought to be enough for anybody
+
+*Bill Gates*
 
 -------
 
