@@ -610,6 +610,12 @@ Segmentation fault [core dumped]
 
 -------
 
+>Lo que posees acabará poseyéndote
+
+*¿Thyler Durden? Friedich-Nietzsche*
+
+-------
+
 > Developers, Developers, Developers, Developers, Developers, Developers, Developers,..... 🎤
 
 *Steve Ballmer*
