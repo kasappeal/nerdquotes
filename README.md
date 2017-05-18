@@ -9,6 +9,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Try Not, Do,  or do not… there is no try.
+
+*Minch Yoda*
+
+-------
+
 > Failure is the condiment that gives success its flavor
 
 *Truman Capote*
