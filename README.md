@@ -1,11 +1,47 @@
-﻿# nerdquotes
+# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
-*Steve Job*
+*Steve Jobs*
+
+-------
+
+>Try Not, Do,  or do not… there is no try.
+
+*Minch Yoda*
+
+-------
+
+> Failure is the condiment that gives success its flavor
+
+*Truman Capote*
+
+-------
+
+> La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
+
+*Berto Romero*
+
+-------
+
+> No reírse de nada es de tontos, reírse de todo es de estúpidos
+
+*Groucho marx*
+
+-------
+
+> Se te entiende menos que una psicofonía de Chewbacca.
+
+*Chiquito de la Calzada*
+
+-------
+
+>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
+
+*Maestro Yoda*
 
 -------
 
@@ -21,12 +57,17 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
+
+*Homer Simpson*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
 
 -------
-
 
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
@@ -50,6 +91,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Como sigan con estos precios, el próximo producto de Apple será la **iPoteca**
+
+*Anónimo*
+
+-------
 > –¡Cuenta con mi espada! –¡Cuenta con mi arco! –¡Cuenta con mi hacha! –¡CUENTA NARANJA! –No, Ing Direct, tú no vienes.
 
 *Gandalf El Gris*
@@ -62,15 +108,57 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "No estoy loco, mi mamá me hizo pruebas"
+
+*Sheldon Cooper*
+
+-------
+
 > Un friki es un tipo que sabe que la normalidad es una estafa.
 
 *José Antonio Maldonado*
+
+
+-------
+
+> Es muy peligroso, Frodo, cruzar la puerta. Pones un pie en el camino, y si no cuidas tus pasos, no sabes hacia dónde te llevarán.
+*Bilbo, Señor de los Anillos - R.R.Tolkien*
+
+-------
+
+> No existen preguntas sin respuesta sino preguntas mal formuladas
+
+*Morfeo (Matrix)*
 
 -------
 
 > for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
 
 *El comico suicida*
+
+-------
+
+> RHAWKARG
+
+*chewbacca*
+
+-------
+
+>Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+
+*Max Brooks*
+
+-------
+
+> I'm not afraid to die, I just don't want to be there when it happens.
+
+*Carl Sagan*
+
+-------
+
+> Cualquier tecnología suficientemente avanzada es indistinguible de la magia.
+
+*Arthur C. Clarke*
 
 -------
 
@@ -83,11 +171,30 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No lo intentes. Hazlo, o no lo hagas, pero no lo intentes
 
 *Yoda*
+
+-------
+
+> I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
+
+*Batty, Blade Runner*
+
 -------
 
 > Yo... he visto cosas que vosotros no creeríais: Atacar naves en llamas más allá de Orión. He visto rayos C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán... en el tiempo... como lágrimas en la lluvia. Es hora de morir
 
 *Roy Batty*
+
+-------
+
+> ¡Qué horrible pesadilla! ¡Unos y ceros por todas partes! Hasta me pareció ver un 2.
+
+*Bender*
+
+-------
+
+>Todo gran poder conlleva una gran responsabilidad.
+
+*Tío Ben*
 
 -------
 
@@ -97,9 +204,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Don’t Let the Wolf in the Cave
+
+*Ray Donovan*
+
+-------
+
 >Eres mas perfecta que Célula después de absorber a A-18
 
 *Son Goku*
+
+-------
+
+> Y a pesar de que el ordenador estaba apagado y desenchufado, una imagen permanecía en la pantalla... era... ¡¡el logotipo de Windows!!"
+
+*Bender B. Rodriguez*
 
 -------
 
@@ -144,6 +263,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Un tipo muy sabio*
 
 -------
+
 > Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows.
 
 *Poco RAM (http://www.frases1000.com/frases/frikis/pagina/2)*
@@ -468,6 +588,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "La capacidad de hablar no te hace inteligente"
+
+*Qui Gon Jinn*
+
+-------
+
 >A**GIT**ar antes de **HUB**sar
 
 *House M.D.*
@@ -498,6 +624,18 @@ Segmentation fault [core dumped]
 
 -------
 
+> Innovation distinguishes between a leader and a follower.
+
+*Steve Jobs*
+
+-------
+
+> "Ser o no ser, esa es la cuestión."
+
+*Hamlet de William Shakespeare*
+
+-------
+
 > "Perro ladrador, poco **follador...**"
 
 *Glory Strongs*
@@ -516,6 +654,12 @@ Segmentation fault [core dumped]
 
 -------
 
+>Lo que posees acabará poseyéndote
+
+*¿Thyler Durden? Friedich-Nietzsche*
+
+-------
+
 > Developers, Developers, Developers, Developers, Developers, Developers, Developers,..... 🎤
 
 *Steve Ballmer*
@@ -525,6 +669,12 @@ Segmentation fault [core dumped]
 > Solo hay 10 tipos de personas. Las que saben binario y las que no.
 
 *Anonimo*
+
+-------
+
+> “La violencia es el último recurso del **incompetente**”
+
+*Salvor Hardin*
 
 -------
 
@@ -666,6 +816,12 @@ Segmentation fault [core dumped]
 > °(((=((===°°°(((::::::::::::::::::::::::::::::::::::::::::::::::::
 
 *Anakin Skywalker pedo en una whiskeria de Tatooine*
+
+-------
+
+> If you like nerds, raise your hand. If you don't, raise your standards.
+
+*Violet Haberdasher*
 
 -------
 
