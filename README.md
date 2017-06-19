@@ -956,6 +956,11 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Do. Or do not. There is no try
+
+*Yoda*
+
+-------
 > Dios mío, está lleno de estrellas..
 
 *Hommer Simsom, tras un golpe en la cabeza*
