@@ -986,9 +986,9 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
-> Be nice to nerds. Chances are you'll end up working for one.
+> I don’t look at computers as opponents. For me it is much more interesting to beat humans.
 
-*Bill Gates*
+*Magnus Carlsen*
 
 -------
 > Call me a nerd if you like, but I do find it hard to leave home without my laptop and a good book.
