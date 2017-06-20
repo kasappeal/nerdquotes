@@ -154,6 +154,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Yo, infantil? Digievoluciona, anda, digievoluciona.
+
+*El abuelo de Heidi*
+
+-------
 >Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
