@@ -1052,6 +1052,13 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 ---------
 
+> If you believe that there's a hell... I don't know if you're into that. But we're... we're already pretty much going there, right?
+But I'm not gonna lie down until I get there.
+
+*Walter White (Heisenberg for colleagues)*
+
+---------
+
 > Los ángeles pueden volar porque se toman a sí mismos a la ligera.
 
 *Gilbert Keith Chesterton*
