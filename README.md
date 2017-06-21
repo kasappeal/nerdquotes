@@ -902,6 +902,13 @@ A strange game. The only winning move is not to play. How about a nice game of c
 *mi esposa*
 
 -------
+
+> Los más increible de los milagros es que existen.
+
+*Gilbert Keith Chesterton*
+
+---------
+
 > Empezando las cosas bien, pueden terminar mal. Imagina si las empiezas mal.
 
 *Mi padre*
