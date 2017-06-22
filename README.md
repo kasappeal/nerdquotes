@@ -184,6 +184,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Me llamo Máximo Décimo Meridio, comandante de los ejercitos del norte ... leal servidor del verdadero emperador Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza en esta vida o en la otra.
+
+*Gladiator*
+
+-------
+
 > I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
 
 *Batty, Blade Runner*
