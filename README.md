@@ -148,6 +148,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas.
+
+*Linus Torvalds*
+
+-------
+
+-------
+
 > RHAWKARG
 
 *chewbacca*
