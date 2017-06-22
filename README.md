@@ -158,6 +158,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Max Brooks*
 
+
+-------
+
+>I'm a geek.
+
+*Bill Gates*
+
 -------
 
 > I'm not afraid to die, I just don't want to be there when it happens.
