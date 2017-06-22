@@ -148,6 +148,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> He fracasado una y otra vez en mi vida y es por eso que tengo exito
+
+*Your Majesty Machael Air Jordan*
+
+-------
+
 > RHAWKARG
 
 *chewbacca*
