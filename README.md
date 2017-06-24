@@ -1163,3 +1163,9 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Quisiera ser un pendrive para tu USB
 
 *Mr.Robot*
+
+-------
+
+> Hay dos formas de hacerse entender: mediante el amor verdadero y mediante la razón pura.
+
+*Carl Friedrich Gauss*
