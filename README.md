@@ -944,6 +944,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Talk is cheap. Show me the code.
+
+*Linus Torvalds*
+
+-------
+
 > Those are my Commits, and if you don't like them... Well I have others.
 
 *G.Marx*
