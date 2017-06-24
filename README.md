@@ -1076,6 +1076,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> La vida puede ser lo que tu quieras que sea
+
+*Anonimo*
+
+-------
+
 > Un gran poder conlleva una gran responsabilidad.
 
 *Tío Ben* en Spiderman. Y mi *profesor de Introducción a la Programación*, al enseñarnos la recursión.
