@@ -1022,6 +1022,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+>En el día más brillante, en la noche más oscura, ningún mal escapará de mi vista. Que aquéllos que adoran el poder del mal. teman mi poder: La luz de linterna verde
+
+*Green Lanterns*
+
+-------
+
 > Normalmente no rezo, pero si estás ahí­, por favor, ¡¡¡sálvame Superman!!!
 
 *Homer Simpson*
@@ -1163,3 +1169,4 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Quisiera ser un pendrive para tu USB
 
 *Mr.Robot*
+
