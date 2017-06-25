@@ -136,6 +136,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm a nerd at heart.
+
+*Hope Solo*
+
+-------
+
 > No existen preguntas sin respuesta sino preguntas mal formuladas
 
 *Morfeo (Matrix)*
