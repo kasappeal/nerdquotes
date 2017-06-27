@@ -1163,3 +1163,9 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Quisiera ser un pendrive para tu USB
 
 *Mr.Robot*
+
+-------
+
+> Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
+
+*Stanley Kubrick*
