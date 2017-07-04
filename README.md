@@ -160,6 +160,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El hardware es lo que hace a una máquina rápida; el software es lo que hace que una máquina rápida se vuelva lenta
+
+*Craig Bruce*
+
+-------
+
 > Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas.
 
 *Linus Torvalds*
