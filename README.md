@@ -1190,6 +1190,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Hay dos formas de hacerse entender: mediante el amor verdadero y mediante la razón pura.
+
+*Carl Friedrich Gauss*
+
+-------
+
 > Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
 
 *Stanley Kubrick*
