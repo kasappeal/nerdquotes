@@ -871,6 +871,13 @@ Segmentation fault [core dumped]
 
 -------
 
+> Si sacrificamos nuestro código, incluso por la victoria, podemos perder lo que es más importante, nuestro honor.
+
+*Obi-Wan*
+
+
+-------
+
 > Luke, yo soy tu padre.
 
 *FrikiMason*
