@@ -959,11 +959,18 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Los más increible de los milagros es que existen.
+
+*Gilbert Keith Chesterton*
+
+---------
+
 > La cura para el aburrimiento es la curiosidad. No hay cura para la curiosidad.
 
 *Dorothy Parker* 
 
 -------
+
 > Empezando las cosas bien, pueden terminar mal. Imagina si las empiezas mal.
 
 *Mi padre*
