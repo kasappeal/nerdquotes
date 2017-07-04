@@ -1143,6 +1143,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Zas en toda la boca !!.
+
+*Peter Griffin*
+
+-------
+
 > I'm a history nerd. Actually acting's the best job for somebody who loves weird, different stuff.
 
 *Lauren Cohan*
