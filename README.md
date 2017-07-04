@@ -213,6 +213,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Carl Sagan*
 
 -------
+> Internet Explorer hace llorar al niño dios.
+
+*Adaptación de la frase de los Simpsons "Las mentiras hacen llorar al niño dios"
+
+-------
 
 > Cualquier tecnología suficientemente avanzada es indistinguible de la magia.
 
