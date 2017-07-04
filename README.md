@@ -10,8 +10,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
-
+  
 *Steve Jobs*
+ 
+-------
+
+>Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
+
+*Kamisama*
 
 -------
 
@@ -87,7 +93,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> I'm a nerd. Total geek. I never went to homecoming or prom or anything. 
+> I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
 
@@ -136,6 +142,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm a nerd at heart.
+
+*Hope Solo*
+
+-------
+
 > No existen preguntas sin respuesta sino preguntas mal formuladas
 
 *Morfeo (Matrix)*
@@ -145,6 +157,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
 
 *El comico suicida*
+
+-------
+
+> La disciplina, tarde o temprano,vencerá a la inteligencia.
+
+*Yokoi Kenji*
 
 -------
 
@@ -950,6 +968,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> In case of fire: 1. git commit, 2. git push, 3. exit building.
+
+*Mahatma Gandhi*
+
+-------
+
 > My real self, the self I have always been from a child, is a loner and nerd, slightly overweight.
 
 *Hayley Atwell*
@@ -1148,13 +1172,13 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
-> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character. 
+> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character.
 
 *Bjork*
 
 -------
 
-> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way. 
+> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way.
 
 *J. J. Abrams*
 
@@ -1169,3 +1193,9 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Hay dos formas de hacerse entender: mediante el amor verdadero y mediante la razón pura.
 
 *Carl Friedrich Gauss*
+
+-------
+
+> Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
+
+*Stanley Kubrick*
