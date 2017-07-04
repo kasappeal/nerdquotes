@@ -1096,6 +1096,11 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> I don’t look at computers as opponents. For me it is much more interesting to beat humans.
+
+*Magnus Carlsen*
+
+-------
 > Call me a nerd if you like, but I do find it hard to leave home without my laptop and a good book.
 
 *vortegon*
