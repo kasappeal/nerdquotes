@@ -160,6 +160,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'll be back
+
+*Terminator*
+
+-------
+
 > El hardware es lo que hace a una máquina rápida; el software es lo que hace que una máquina rápida se vuelva lenta
 
 *Craig Bruce*
@@ -180,7 +186,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
-*Yokoi Kenji*
+*Yokoi Kenji
 
 -------
 
