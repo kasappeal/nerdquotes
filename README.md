@@ -10,8 +10,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
-
+  
 *Steve Jobs*
+ 
+-------
+
+>Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
+
+*Kamisama*
 
 -------
 
@@ -87,7 +93,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> I'm a nerd. Total geek. I never went to homecoming or prom or anything. 
+> I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
 
@@ -136,6 +142,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm a nerd at heart.
+
+*Hope Solo*
+
+-------
+
 > No existen preguntas sin respuesta sino preguntas mal formuladas
 
 *Morfeo (Matrix)*
@@ -145,6 +157,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
 
 *El comico suicida*
+
+-------
+
+> La disciplina, tarde o temprano,vencerá a la inteligencia.
+
+*Yokoi Kenji*
 
 -------
 
@@ -181,6 +199,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No lo intentes. Hazlo, o no lo hagas, pero no lo intentes
 
 *Yoda*
+
+-------
+
+> Me llamo Máximo Décimo Meridio, comandante de los ejercitos del norte ... leal servidor del verdadero emperador Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza en esta vida o en la otra.
+
+*Gladiator*
 
 -------
 
@@ -853,6 +877,13 @@ Segmentation fault [core dumped]
 
 -------
 
+> Si sacrificamos nuestro código, incluso por la victoria, podemos perder lo que es más importante, nuestro honor.
+
+*Obi-Wan*
+
+
+-------
+
 > Luke, yo soy tu padre.
 
 *FrikiMason*
@@ -902,6 +933,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 *mi esposa*
 
 -------
+
+> La cura para el aburrimiento es la curiosidad. No hay cura para la curiosidad.
+
+*Dorothy Parker* 
+
+-------
 > Empezando las cosas bien, pueden terminar mal. Imagina si las empiezas mal.
 
 *Mi padre*
@@ -936,6 +973,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 *Anónimo*
 
+------
+
+> Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, valor para cambiar las que puedo y sabiduría para reconocer la diferencia
+
+*Mr. Brooks* 
+
 -------
 
 > Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
@@ -944,9 +987,21 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Talk is cheap. Show me the code.
+
+*Linus Torvalds*
+
+-------
+
 > Those are my Commits, and if you don't like them... Well I have others.
 
 *G.Marx*
+
+-------
+
+> In case of fire: 1. git commit, 2. git push, 3. exit building.
+
+*Mahatma Gandhi*
 
 -------
 
@@ -1016,6 +1071,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+>  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous. 
+
+*Han Solo*
+
+-------
+
 > There's no place like 127.0.0.1
 
 *thinkgeek.com/tshirts-apparel/unisex/*
@@ -1031,6 +1092,18 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Talk is cheap. Show me the code.
 
 *Linus Torvalds*
+
+-------
+
+> El que va a mear y no se pee, es como el que va colegio y no lee.
+
+*Excompañero de trabajo, jubilado**
+
+-------
+
+> Ley del software: si aprenden a usarlo, saca otra versión.
+
+*Anónimo*
 
 -------
 
@@ -1064,6 +1137,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> I know HTML (How To Meet Ladies)
+
+*Erlich Bachman*	
+
+-------
+
 > Nucelar, la palabra es nu-ce-lar
 
 *Homer Simpson*
@@ -1082,9 +1161,21 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> La vida puede ser lo que tu quieras que sea
+
+*Anonimo*
+
+-------
+
 > Un gran poder conlleva una gran responsabilidad.
 
 *Tío Ben* en Spiderman. Y mi *profesor de Introducción a la Programación*, al enseñarnos la recursión.
+
+-------
+
+> Zas en toda la boca !!.
+
+*Peter Griffin*
 
 -------
 
@@ -1154,13 +1245,13 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
-> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character. 
+> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character.
 
 *Bjork*
 
 -------
 
-> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way. 
+> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way.
 
 *J. J. Abrams*
 
@@ -1169,3 +1260,15 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Quisiera ser un pendrive para tu USB
 
 *Mr.Robot*
+
+-------
+
+> Hay dos formas de hacerse entender: mediante el amor verdadero y mediante la razón pura.
+
+*Carl Friedrich Gauss*
+
+-------
+
+> Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
+
+*Stanley Kubrick*
