@@ -1035,6 +1035,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> ¡Corre plátano!
+
+*Ralph Wigum*
+
+-------
+
 > Todas las piezas deben unirse sin ser forzadas. Debe recordar que los componentes que está reensamblando fueron desmontados por usted, por lo que si no puede unirlos debe existir una razón. Pero sobre todo, no use un martillo.
 
 *Manual de mantenimiento de IBM, año 1925*
