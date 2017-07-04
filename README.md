@@ -954,6 +954,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 *Anónimo*
 
+------
+
+> Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, valor para cambiar las que puedo y sabiduría para reconocer la diferencia
+
+*Mr. Brooks* 
+
 -------
 
 > Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
