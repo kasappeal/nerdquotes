@@ -976,6 +976,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Luke... yo soy tu padre ¡Y lo sabes!
+
+*Julio Iglesias*
+
+-------
+
 > Bienvenido a 127.0.0.1
 
 *DevOp*
