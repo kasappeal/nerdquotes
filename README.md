@@ -1000,6 +1000,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+>I'm in no condition to drive. Wait, I shouldn't listen to myself. I'm drunk.
+
+*Homer J. Simpson*
+
+-------
+
 > Bienvenido a 127.0.0.1
 
 *Anónimo*
