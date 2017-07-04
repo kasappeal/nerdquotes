@@ -93,7 +93,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> I'm a nerd. Total geek. I never went to homecoming or prom or anything. 
+> I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
 
@@ -151,6 +151,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > for (x = 1; x < 10; x++){ var batman = "La mejor BSO es..."; document.write(Number(batman)); }
 
 *El comico suicida*
+
+-------
+
+> La disciplina, tarde o temprano,vencerá a la inteligencia.
+
+*Yokoi Kenji*
 
 -------
 
@@ -1160,13 +1166,13 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
-> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character. 
+> A lot of the time I get obsessed by little nerdy things in my corner that no one else is interested in. I have that nerd factor in my character.
 
 *Bjork*
 
 -------
 
-> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way. 
+> When I was a kid, it was a huge insult to be a geek. Now it's a point of pride in a weird way.
 
 *J. J. Abrams*
 
