@@ -1059,6 +1059,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+>  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous. 
+
+*Han Solo*
+
+-------
+
 > There's no place like 127.0.0.1
 
 *thinkgeek.com/tshirts-apparel/unisex/*
