@@ -1089,6 +1089,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> El que va a mear y no se pee, es como el que va colegio y no lee.
+
+*Excompañero de trabajo, jubilado**
+
+-------
+
 > Ley del software: si aprenden a usarlo, saca otra versión.
 
 *Anónimo*
