@@ -160,6 +160,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas.
+
+*Linus Torvalds*
+
+-------
+
 > He fracasado una y otra vez en mi vida y es por eso que tengo exito
 
 *Your Majesty Michael Air Jordan*
