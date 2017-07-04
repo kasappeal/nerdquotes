@@ -1108,6 +1108,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+>Duplication is the primary enemy of a well-designed system.
+
+*Robert C. Martin (aka Uncle Bob)*
+
+-------
+
 >La gente piensa que enfocarse significa decir sí a aquello en lo que te enfocas, pero no es así. Significa decir no a otras cientos de ideas buenas que hay.
 
 *Steve Jobs*
