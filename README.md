@@ -1028,6 +1028,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+>In brightest day, in blackest night,No evil shall escape my sight. Let those who worship evil's might Beware my power--Green Lantern's light!
+
+*Again Green Lanterns*
+
+-------
+
 > Normalmente no rezo, pero si estás ahí­, por favor, ¡¡¡sálvame Superman!!!
 
 *Homer Simpson*
