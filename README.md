@@ -69,6 +69,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
+
+*Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
+-------
+
 > “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
 
 *Homer Simpson*
