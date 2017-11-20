@@ -63,6 +63,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Yoda*
+
+-------
+
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
