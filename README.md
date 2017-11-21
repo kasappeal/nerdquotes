@@ -47,7 +47,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 >127.0.0.1, sweet 127.0.0.1
 
-*Any developper*
+*Any developer*
 
 -------
 
