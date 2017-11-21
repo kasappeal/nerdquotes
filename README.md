@@ -45,6 +45,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>127.0.0.1, sweet 127.0.0.1
+
+*Any developper*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
