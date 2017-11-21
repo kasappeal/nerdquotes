@@ -45,6 +45,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Mi amor por ti da stackoverflow
+
+*Jorge Beltrán*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
