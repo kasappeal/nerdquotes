@@ -224,6 +224,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Adaptación de la frase de los Simpsons "Las mentiras hacen llorar al niño dios"
 
 -------
+> Hola. Me llamo Íñigo Montoya. Tú mataste a mi padre. Prepárate a morir.
+
+*Íñigo Montoya*
+
+-------
 
 > Cualquier tecnología suficientemente avanzada es indistinguible de la magia.
 
