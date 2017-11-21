@@ -225,6 +225,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hola. Me llamo Íñigo Montoya. Tú mataste a mi padre. Prepárate a morir.
+
+*Iñigo Montoya*
+
+-------
+
 > Cualquier tecnología suficientemente avanzada es indistinguible de la magia.
 
 *Arthur C. Clarke*
