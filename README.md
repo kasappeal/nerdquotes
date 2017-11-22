@@ -357,6 +357,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+> Better to be a nerd than one of the herd!
+
+*Mandy Hale*
+
+------
+
 > Hombre que poder cazar mosca con palillos consigue lo que quiere.
 
 *Sr. Miyagi*
