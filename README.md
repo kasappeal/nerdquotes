@@ -69,6 +69,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> The drama nerd comes out in me when I'm in a theater. 
+
+*Philip Seymour Hoffman*
+
+-------
+
 > “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
 
 *Homer Simpson*
