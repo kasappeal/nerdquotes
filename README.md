@@ -321,6 +321,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Bienaventurados los pesimistas por que ellos hacen backups
+
+*Anonimus homosapiens
+
+-------
+
 > No hay solo mortifagos y buenas personas, Harry, todos tenemos luz y oscuridad en nuestro corazón
 
 *J. K. Rowling*
