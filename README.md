@@ -10,9 +10,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
-  
+
 *Steve Jobs*
- 
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
@@ -60,6 +60,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > 640K ought to be enough for anybody
 
 *Bill Gates*
+
+-------
+
+> Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar: un dinosaurio.
+
+*Homer Simpson*
 
 -------
 
@@ -989,7 +995,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > La cura para el aburrimiento es la curiosidad. No hay cura para la curiosidad.
 
-*Dorothy Parker* 
+*Dorothy Parker*
 
 -------
 
@@ -1043,7 +1049,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, valor para cambiar las que puedo y sabiduría para reconocer la diferencia
 
-*Mr. Brooks* 
+*Mr. Brooks*
 
 -------
 
@@ -1154,7 +1160,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous. 
+>  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous.
 
 *Han Solo*
 
@@ -1241,7 +1247,7 @@ But I'm not gonna lie down until I get there.
 
 > I know HTML (How To Meet Ladies)
 
-*Erlich Bachman*	
+*Erlich Bachman*
 
 -------
 
