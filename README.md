@@ -43,6 +43,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Groucho marx*
 
+
+
+
+-------
+
+> Already know you that which you need.
+
+*Master Yoda*
+
 -------
 
 > Se te entiende menos que una psicofonía de Chewbacca.
