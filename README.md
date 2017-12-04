@@ -184,6 +184,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si Chuck Norris llega tarde, más le vale al tiempo ir más despacio.
+
+*Albert Einstein*
+
+-------
+
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
 *Yokoi Kenji
