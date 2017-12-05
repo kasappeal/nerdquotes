@@ -190,6 +190,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Era ese tipo de persona que se pasa su vida haciendo cosas que detesta para conseguir dinero que no necesita y comprar cosas que no quiere para impresionar a gente que odia.
+
+*Emile Henry Gauvreay*
+
+-------
+
 > RHAWKARG
 
 *chewbacca*
