@@ -53,6 +53,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >"Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
 
 *Jeremy S. Anderson*
+
 -------
 
 **-->>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
