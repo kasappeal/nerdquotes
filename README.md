@@ -50,11 +50,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Chiquito de la Calzada*
 
 -------
->¿Dónde está la tecla ANY?
+>"Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
 
-*Homer Simpson, frente a un mensaje "press any key"*
-
+*Jeremy S. Anderson*
 -------
+
 **-->>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
