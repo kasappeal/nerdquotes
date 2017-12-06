@@ -196,6 +196,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ten en cuenta que tu enfoque determina tu realidad
+
+*Qui-Gon Jinn*
+
+-------
+
 > ¿Yo, infantil? Digievoluciona, anda, digievoluciona.
 
 *El abuelo de Heidi*
