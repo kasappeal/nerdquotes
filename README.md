@@ -172,6 +172,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¡Qué horrible pesadilla! ¡Unos y ceros por todas partes! Hasta me pareció ver un 2.
+
+*Bender B. Rodríguez*
+
+-------
+
 > Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas.
 
 *Linus Torvalds*
