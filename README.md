@@ -52,7 +52,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 >¿Dónde está la tecla ANY?
 
-Homer Simpson, frente a un mensaje "press any key"
+*Homer Simpson, frente a un mensaje "press any key"*
 
 -------
 **-->>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
