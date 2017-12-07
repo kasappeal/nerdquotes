@@ -350,6 +350,12 @@ sino por ese tesoro
 
 -------
 
+> I'm not anti-social; I'm just not user friendly.
+
+*Unknown*
+
+-------
+
 > Me llamo Máximo Décimo Meridio, comandante de los ejercitos del norte ... leal servidor del verdadero emperador Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza en esta vida o en la otra.
 
 *Gladiator*
