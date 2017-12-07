@@ -10,9 +10,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
-  
+
 *Steve Jobs*
- 
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
@@ -33,6 +33,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> 最尷尬的將是第一個
+
+*阿曼多最尷尬*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
@@ -43,11 +49,44 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Groucho marx*
 
+
+
+
+-------
+
+> Already know you that which you need.
+
+*Master Yoda*
+
+-------
+
+>Todo lo que seas capaz de creer, eres capaz de conseguir.
+
+*Josep C.*
+
+-------
+
+> Have you ever sowed the field, Lady Olenna? Have you ever reaped the grain? Has anyone in House Tyrell? A lifetime of wealth and power has left you blind in one eye. You are the few, we are the many. And when the many stop fearing the few...
+
+*Game of Thrones, The Gift*
+
+-------
+
+> Hijo mío, la felicidad está hecha de pequeñas cosas: Un pequeño yate, una pequeña mansión, una pequeña fortuna.
+
+*Groucho marx by fpayan*
+
 -------
 
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
+
+-------
+
+> Si yo muero, solamente me recordaran por Los Simpson.
+
+*Matt Groening*
 
 -------
 
@@ -63,15 +102,51 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Big Brother is watching you.
+
+*George Orwell*
+
+-------
+
 > 640K ought to be enough for anybody
 
 *Bill Gates*
 
 -------
 
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Yoda*
+
+-------
+
+> Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar: un dinosaurio.
+
+*Homer Simpson*
+
+-------
+
+> La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
+
+*Seymore Cray*, sobre la memoria virtual
+
+-------
+
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
+
+-------
+
+> Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
+
+*Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
+-------
+
+> The drama nerd comes out in me when I'm in a theater. 
+
+*Philip Seymour Hoffman*
 
 -------
 
@@ -140,6 +215,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *José Antonio Maldonado*
 
+-------
+
+> Quisiera ser pirata
+no por el oro y la plata
+sino por ese tesoro
+¡que guardas entre las patas!
+
+*Calico Electrónico*
 
 -------
 
@@ -184,6 +267,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La física es el sistema operativo del Universo.
+
+*Luis Gómez Alonso*
+
+-------
+
 > He fracasado una y otra vez en mi vida y es por eso que tengo exito
 
 *Your Majesty Michael Air Jordan*
@@ -192,7 +281,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
-*Yokoi Kenji
+*Yokoi Kenji*
+
+-------
+
+> Yo digo que eres el Mesías. Y de eso entiendo porque he seguido a varios.
+
+*Seguidor, La vida de Brian*
 
 -------
 
@@ -255,9 +350,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> What do you call a programmer from Finland? Nerdic. :D 
+
+*Anonymous*
+
+-------
+
 > I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
 
 *Batty, Blade Runner*
+
+-------
+
+> Por qué callar si naci gritando.
+
+*Anonimo*
 
 -------
 
@@ -363,9 +470,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+> Better to be a nerd than one of the herd!
+
+*Mandy Hale*
+
+------
+
 > Hombre que poder cazar mosca con palillos consigue lo que quiere.
 
 *Sr. Miyagi*
+
+-------
+
+> Soy ateo, gracias a Dios.
+
+*Luis Buñuel*
 
 -------
 
@@ -831,12 +950,6 @@ Segmentation fault [core dumped]
 
 -------
 
->"Tendrá todo el dinero del mundo... pero habrá algo que jamás podrá comprar... un dinosaurio."
-
-*Homer Simpson*
-
--------
-
 >School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
 
 *Robert C. Martin (aka Uncle Bob)*
@@ -995,7 +1108,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > La cura para el aburrimiento es la curiosidad. No hay cura para la curiosidad.
 
-*Dorothy Parker* 
+*Dorothy Parker*
 
 -------
 
@@ -1049,7 +1162,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, valor para cambiar las que puedo y sabiduría para reconocer la diferencia
 
-*Mr. Brooks* 
+*Mr. Brooks*
 
 -------
 
@@ -1160,7 +1273,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous. 
+>  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous.
 
 *Han Solo*
 
@@ -1247,7 +1360,7 @@ But I'm not gonna lie down until I get there.
 
 > I know HTML (How To Meet Ladies)
 
-*Erlich Bachman*	
+*Erlich Bachman*
 
 -------
 
