@@ -854,6 +854,13 @@ Segmentation fault [core dumped]
 *Anonimo*
 
 -------
+-------
+
+>Bienvenido a mi casa, entre libremente, salga sin novedad, y deje un poco de la felicidad que trae consigo.
+
+*Drácula*
+
+-------
 >La física es el sistema operativo del Universo
 
 *Cinstein*
