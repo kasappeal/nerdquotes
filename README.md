@@ -170,6 +170,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *José Antonio Maldonado*
 
+-------
+
+> Quisiera ser pirata
+no por el oro y la plata
+sino por ese tesoro
+¡que guardas entre las patas!
+
+*Calico Electrónico*
 
 -------
 
