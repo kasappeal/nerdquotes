@@ -33,6 +33,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> 最尷尬的將是第一個
+
+*阿曼多最尷尬*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
