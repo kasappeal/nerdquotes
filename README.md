@@ -13,6 +13,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Steve Jobs*
 
+------------
+
+> Bienaventurados los pesimistas por que ellos hacen backups
+
+*Anonimus homosapiens
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
@@ -33,6 +39,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> 最尷尬的將是第一個
+
+*阿曼多最尷尬*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
@@ -43,11 +55,56 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Groucho marx*
 
+
+
+
+-------
+
+> Already know you that which you need.
+
+*Master Yoda*
+
+-------
+
+>Todo lo que seas capaz de creer, eres capaz de conseguir.
+
+*Josep C.*
+
+-------
+
+> Have you ever sowed the field, Lady Olenna? Have you ever reaped the grain? Has anyone in House Tyrell? A lifetime of wealth and power has left you blind in one eye. You are the few, we are the many. And when the many stop fearing the few...
+
+*Game of Thrones, The Gift*
+
+-------
+
+> Hijo mío, la felicidad está hecha de pequeñas cosas: Un pequeño yate, una pequeña mansión, una pequeña fortuna.
+
+*Groucho marx by fpayan*
+
 -------
 
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
+
+------
+
+> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola. 
+
+*Swift Norris*
+
+-------
+
+> En tu casa o en la mía?
+
+*Doctor Amor*
+
+-------
+
+> Si yo muero, solamente me recordaran por Los Simpson.
+
+*Matt Groening*
 
 -------
 
@@ -57,15 +114,57 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Nucelar, la palabra es nucelar.
+
+*Homer Simpsons*
+
+-------
+
+>Big Brother is watching you.
+
+*George Orwell*
+
+-------
+
 > 640K ought to be enough for anybody
 
 *Bill Gates*
 
 -------
 
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Yoda*
+
+-------
+
+> Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar: un dinosaurio.
+
+*Homer Simpson*
+
+-------
+
+> La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
+
+*Seymore Cray*, sobre la memoria virtual
+
+-------
+
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
+
+-------
+
+> Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
+
+*Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
+-------
+
+> The drama nerd comes out in me when I'm in a theater. 
+
+*Philip Seymour Hoffman*
 
 -------
 
@@ -134,6 +233,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *José Antonio Maldonado*
 
+-------
+
+> Quisiera ser pirata
+no por el oro y la plata
+sino por ese tesoro
+¡que guardas entre las patas!
+
+*Calico Electrónico*
 
 -------
 
@@ -178,6 +285,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La física es el sistema operativo del Universo.
+
+*Luis Gómez Alonso*
+
+-------
+
 > He fracasado una y otra vez en mi vida y es por eso que tengo exito
 
 *Your Majesty Michael Air Jordan*
@@ -186,7 +299,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
-*Yokoi Kenji
+*Yokoi Kenji*
+
+-------
+
+> Yo digo que eres el Mesías. Y de eso entiendo porque he seguido a varios.
+
+*Seguidor, La vida de Brian*
 
 -------
 
@@ -249,15 +368,33 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm not anti-social; I'm just not user friendly.
+
+*Unknown*
+
+-------
+
 > Me llamo Máximo Décimo Meridio, comandante de los ejercitos del norte ... leal servidor del verdadero emperador Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza en esta vida o en la otra.
 
 *Gladiator*
 
 -------
 
+> What do you call a programmer from Finland? Nerdic. :D 
+
+*Anonymous*
+
+-------
+
 > I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
 
 *Batty, Blade Runner*
+
+-------
+
+> Por qué callar si naci gritando.
+
+*Anonimo*
 
 -------
 
@@ -363,9 +500,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+> Better to be a nerd than one of the herd!
+
+*Mandy Hale*
+
+------
+
 > Hombre que poder cazar mosca con palillos consigue lo que quiere.
 
 *Sr. Miyagi*
+
+-------
+
+> Soy ateo, gracias a Dios.
+
+*Luis Buñuel*
 
 -------
 
@@ -828,12 +977,6 @@ Segmentation fault [core dumped]
 > "Si intentas matar al rey, no falles."
 
 *Omar Little*
-
--------
-
->"Tendrá todo el dinero del mundo... pero habrá algo que jamás podrá comprar... un dinosaurio."
-
-*Homer Simpson*
 
 -------
 
