@@ -63,6 +63,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si yo muero, solamente me recordaran por Los Simpson.
+
+*Matt Groening*
+
+-------
+
 >El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
