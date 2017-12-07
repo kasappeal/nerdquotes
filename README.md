@@ -437,6 +437,12 @@ sino por ese tesoro
 
 -------
 
+> Soy ateo, gracias a Dios.
+
+*Luis Buñuel*
+
+-------
+
 > Siempre que te pregunten si puedes hacer un trabajo, contesta que sí y ponte enseguida a aprender como se hace.
 
 *Franklin D. Roosevelt*
