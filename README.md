@@ -243,6 +243,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Me llamo Máximo Décimo Meridio, comandante de los ejercitos del norte ... leal servidor del verdadero emperador Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza en esta vida o en la otra.
+
+*Gladiator*
+
+-------
+
 > What do you call a programmer from Finland? Nerdic. :D 
 
 *Anonymous*
