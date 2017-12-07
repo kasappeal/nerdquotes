@@ -51,6 +51,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Have you ever sowed the field, Lady Olenna? Have you ever reaped the grain? Has anyone in House Tyrell? A lifetime of wealth and power has left you blind in one eye. You are the few, we are the many. And when the many stop fearing the few...
+
+*Game of Thrones, The Gift*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
@@ -66,6 +72,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > 640K ought to be enough for anybody
 
 *Bill Gates*
+
+-------
+
+> La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
+
+*Seymore Cray*, sobre la memoria virtual
 
 -------
 
@@ -192,7 +204,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
-*Yokoi Kenji
+*Yokoi Kenji*
+
+-------
+
+> Yo digo que eres el Mesías. Y de eso entiendo porque he seguido a varios.
+
+*Seguidor, La vida de Brian*
 
 -------
 
@@ -255,9 +273,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> What do you call a programmer from Finland? Nerdic. :D 
+
+*Anonymous*
+
+-------
+
 > I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
 
 *Batty, Blade Runner*
+
+-------
+
+> Por qué callar si naci gritando.
+
+*Anonimo*
 
 -------
 
@@ -360,6 +390,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > If programmers deserve to be rewarded for creating innovative programs, by the same token they deserve to be punished if they restrict the use of these programs.
 
 *Richard Stallman*
+
+------
+
+> Better to be a nerd than one of the herd!
+
+*Mandy Hale*
 
 ------
 
