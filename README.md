@@ -126,6 +126,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
+
+*Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
+-------
+
 > The drama nerd comes out in me when I'm in a theater. 
 
 *Philip Seymour Hoffman*
