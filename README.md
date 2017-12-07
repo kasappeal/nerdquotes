@@ -90,6 +90,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> En tu casa o en la mía?
+
+*Doctor Amor*
+
+-------
+
 > Si yo muero, solamente me recordaran por Los Simpson.
 
 *Matt Groening*
