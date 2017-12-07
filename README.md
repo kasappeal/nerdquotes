@@ -88,6 +88,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Chiquito de la Calzada*
 
+------
+
+> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola. 
+
+*Swift Norris*
+
 -------
 
 > En tu casa o en la mía?
