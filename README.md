@@ -45,6 +45,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Todo lo que seas capaz de creer, eres capaz de conseguir.
+
+*Josep C.*
+
+-------
+
 > Have you ever sowed the field, Lady Olenna? Have you ever reaped the grain? Has anyone in House Tyrell? A lifetime of wealth and power has left you blind in one eye. You are the few, we are the many. And when the many stop fearing the few...
 
 *Game of Thrones, The Gift*
