@@ -13,6 +13,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Steve Jobs*
 
+------------
+
+> Bienaventurados los pesimistas por que ellos hacen backups
+
+*Anonimus homosapiens
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
@@ -93,6 +99,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
+
+-------
+
+> Nucelar, la palabra es nucelar.
+
+*Homer Simpsons*
 
 -------
 
@@ -425,12 +437,6 @@ sino por ese tesoro
 > Con Larry Plotter aprendí Git.
 
 *Jose Javier Montes*
-
--------
-
-> Bienaventurados los pesimistas por que ellos hacen backups
-
-*Anonimus homosapiens
 
 -------
 
