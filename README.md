@@ -49,6 +49,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Groucho marx*
 
+
+
+
+-------
+
+> Already know you that which you need.
+
+*Master Yoda*
+
 -------
 
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
