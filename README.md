@@ -184,6 +184,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I have changed my passwords to "incorrect", so now I will never forget them u.u
+
+*Mr Caralibro Creator*
+
+-------
+
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
 *Yokoi Kenji
