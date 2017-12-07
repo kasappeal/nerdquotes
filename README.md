@@ -84,12 +84,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Mi amor por ti da stackoverflow
-
-*Jorge Beltrán*
-
--------
-
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
@@ -349,11 +343,6 @@ sino por ese tesoro
 *Adaptación de la frase de los Simpsons "Las mentiras hacen llorar al niño dios"
 
 -------
-> Hola. Me llamo Íñigo Montoya. Tú mataste a mi padre. Prepárate a morir.
-
-*Íñigo Montoya*
-
--------
 
 > Cualquier tecnología suficientemente avanzada es indistinguible de la magia.
 
@@ -370,6 +359,12 @@ sino por ese tesoro
 > No lo intentes. Hazlo, o no lo hagas, pero no lo intentes
 
 *Yoda*
+
+-------
+
+> Many of those who have made a **"fork"** from this repository do not deserve, it and some of those who deserve it have not done it. Can you do it for them? Then do not be too eager to reject the **"pull request"**. For even the very wise cannot see all ends.
+
+*Gandalf*
 
 -------
 
