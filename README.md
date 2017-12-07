@@ -228,6 +228,12 @@ sino por ese tesoro
 
 -------
 
+> La física es el sistema operativo del Universo.
+
+*Luis Gómez Alonso*
+
+-------
+
 > He fracasado una y otra vez en mi vida y es por eso que tengo exito
 
 *Your Majesty Michael Air Jordan*
