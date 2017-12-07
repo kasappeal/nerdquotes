@@ -186,7 +186,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
-*Yokoi Kenji
+*Yokoi Kenji*
+
+-------
+
+> Yo digo que eres el Mesías. Y de eso entiendo porque he seguido a varios.
+
+*Seguidor, La vida de Brian*
 
 -------
 
