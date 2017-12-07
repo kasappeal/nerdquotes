@@ -81,6 +81,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Big Brother is watching you.
+
+*George Orwell*
+
+-------
+
 > 640K ought to be enough for anybody
 
 *Bill Gates*
