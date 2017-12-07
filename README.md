@@ -13,6 +13,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Steve Jobs*
 
+------------
+
+> Bienaventurados los pesimistas por que ellos hacen backups
+
+*Anonimus homosapiens
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
