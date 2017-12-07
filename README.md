@@ -1351,6 +1351,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+>I'm such a geek, and have always been a real nerd.
+
+*Aisha Tyler*
+
+-------
+
 > La respuesta de la vida, el universo y todo lo demás es... 42.
 
 *Deep Thought («Pensamiento Profundo»), Guia del Autoestopista Galáctico*
