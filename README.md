@@ -93,6 +93,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Yoda*
+
+-------
+
 > Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar: un dinosaurio.
 
 *Homer Simpson*
