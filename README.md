@@ -90,7 +90,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola. 
+> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola.
 
 *Swift Norris*
 
@@ -162,7 +162,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> The drama nerd comes out in me when I'm in a theater. 
+> The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
 
@@ -195,6 +195,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
+-------
+
+> Be nice to nerds. Chances are you'll end up working for one.
+
+*Bill Gates*
 
 -------
 
@@ -380,7 +385,7 @@ sino por ese tesoro
 
 -------
 
-> What do you call a programmer from Finland? Nerdic. :D 
+> What do you call a programmer from Finland? Nerdic. :D
 
 *Anonymous*
 
