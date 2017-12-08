@@ -206,6 +206,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anónimo*
 -------
+-------
+
+> Mostly, nothing's really changed. I'm still the dorky nerd that I always was
+
+*Beverly mitchell*
 
 > Nerds are far more interesting human in later life.
 
