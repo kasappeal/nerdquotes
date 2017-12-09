@@ -198,6 +198,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Git es como la vida misma, si has hecho push, por mucho revert que hagas, en el log siempre queda.
+*Daniel Villalba*
+
+-------
 > The biggest issue on software team is making sure everyone understands what everyone else is doing.
 
 -------
