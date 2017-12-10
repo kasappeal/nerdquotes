@@ -90,7 +90,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola. 
+> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola.
 
 *Swift Norris*
 
@@ -162,7 +162,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> The drama nerd comes out in me when I'm in a theater. 
+> The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
 
@@ -380,7 +380,7 @@ sino por ese tesoro
 
 -------
 
-> What do you call a programmer from Finland? Nerdic. :D 
+> What do you call a programmer from Finland? Nerdic. :D
 
 *Anonymous*
 
@@ -1052,6 +1052,12 @@ Segmentation fault [core dumped]
 > Don't You Think If I Were Wrong I'd Know It?
 
 *Sheldon Cooper*
+
+-------
+
+> Siempre ha sido y siempre será demasiado tare
+
+*Dr Manhathan*
 
 -------
 
