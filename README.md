@@ -51,6 +51,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
+> Sólo hay 10 tipos de personas, las que saben programar y las que no.
+
+*Super Sayan Over9000*
+-------
+
 > No reírse de nada es de tontos, reírse de todo es de estúpidos
 
 *Groucho marx*
