@@ -297,6 +297,12 @@ sino por ese tesoro
 
 -------
 
+> Si ves que tardo más de cinco minutos en regresar; simplemente espera un poco más.
+
+*Ace Ventura, detective de mascotas*
+
+-------
+
 > Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas.
 
 *Linus Torvalds*
