@@ -1381,6 +1381,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito. 
+
+*Anónimo*
+
+-------
+
 > La respuesta de la vida, el universo y todo lo demás es... 42.
 
 *Deep Thought («Pensamiento Profundo»), Guia del Autoestopista Galáctico*
