@@ -302,6 +302,12 @@ sino por ese tesoro
 
 -------
 
+> ¡Qué horrible pesadilla! ¡Unos y ceros por todas partes! Hasta me pareció ver un 2.
+
+*Bender B. Rodríguez*
+
+------
+
 > Si ves que tardo más de cinco minutos en regresar; simplemente espera un poco más.
 
 *Ace Ventura, detective de mascotas*
