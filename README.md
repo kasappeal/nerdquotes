@@ -374,6 +374,12 @@ sino por ese tesoro
 
 -------
 
+> I have changed my passwords to "incorrect", so now I will never forget them u.u
+
+*Mr Caralibro Creator*
+
+-------
+
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
 *Yokoi Kenji*
