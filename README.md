@@ -386,6 +386,12 @@ sino por ese tesoro
 
 -------
 
+> Ten en cuenta que tu enfoque determina tu realidad
+
+*Qui-Gon Jinn*
+
+-------
+
 > ¿Yo, infantil? Digievoluciona, anda, digievoluciona.
 
 *El abuelo de Heidi*
