@@ -240,6 +240,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Como sigan con estos precios, el próximo producto de Apple será la **iPoteca**
 
 *Anónimo*
+
+-------
+
+> Ok, ahora al plan B, sea lo que sea.
+
+*Son Goku*
+
 -------
 -------
 
