@@ -10,9 +10,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
-  
+
 *Steve Jobs*
- 
+
+------------
+
+> Bienaventurados los pesimistas por que ellos hacen backups
+
+*Anonimus homosapiens
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
@@ -33,15 +39,60 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> 最尷尬的將是第一個
+
+*阿曼多最尷尬*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
 
 -------
 
+
+> Sólo hay 10 tipos de personas, las que saben programar y las que no.
+
+*Super Sayan Over9000*
+-------
+
 > No reírse de nada es de tontos, reírse de todo es de estúpidos
 
 *Groucho marx*
+
+
+
+
+-------
+
+> Already know you that which you need.
+
+*Master Yoda*
+
+-------
+
+>Todo lo que seas capaz de creer, eres capaz de conseguir.
+
+*Josep C.*
+
+-------
+
+> Have you ever sowed the field, Lady Olenna? Have you ever reaped the grain? Has anyone in House Tyrell? A lifetime of wealth and power has left you blind in one eye. You are the few, we are the many. And when the many stop fearing the few...
+
+*Game of Thrones, The Gift*
+
+-------
+
+> Hijo mío, la felicidad está hecha de pequeñas cosas: Un pequeño yate, una pequeña mansión, una pequeña fortuna.
+
+*Groucho marx by fpayan*
+
+-------
+
+>127.0.0.1, sweet 127.0.0.1
+
+*Any developer*
 
 -------
 
@@ -49,11 +100,46 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Chiquito de la Calzada*
 
+------
+
+> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola.
+
+*Swift Norris*
+
 -------
 
->El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
+> En tu casa o en la mía?
+
+*Doctor Amor*
+
+-------
+
+> Si yo muero, solamente me recordaran por Los Simpson.
+
+*Matt Groening*
+
+-------
+>"Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
+
+*Jeremy S. Anderson*
+
+-------
+
+**-->>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
+
+-------
+
+> Nucelar, la palabra es nucelar.
+
+*Homer Simpsons*
+
+-------
+
+>Big Brother is watching you.
+
+*George Orwell*
 
 -------
 
@@ -63,15 +149,51 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Yoda*
+
+-------
+
+> Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar: un dinosaurio.
+
+*Homer Simpson*
+
+-------
+
+> La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
+
+*Seymore Cray*, sobre la memoria virtual
+
+-------
+
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
 
 -------
 
+> Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
+
+*Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
+-------
+
+> The drama nerd comes out in me when I'm in a theater.
+
+*Philip Seymour Hoffman*
+
+-------
+
 > “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
 
 *Homer Simpson*
+
+-------
+
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+*John F. Woods*
 
 -------
 
@@ -85,11 +207,29 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Max Brooks*
 
+-------
+
+> Ya sé que te da miedo decepcionarme, pero espero que te consuele saber que mis expectativas sobre ti son muy pobres.
+
+*Sheldon Cooper*
+
 ------
+
+> Being a nerd is not always a bad thing. It's actually cool to be a nerd. 
+
+*Grizz Chapman*
+
+-------
 
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
+
+------
+
+> I'm a nerd at heart.
+
+*Hope Solo*
 
 -------
 
@@ -99,14 +239,38 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Be nice to nerds. Chances are you'll end up working for one.
+
+*Bill Gates*
+
+-------
+
 > The biggest issue on software team is making sure everyone understands what everyone else is doing.
+
+-------
+
+> It's a trap!
+
+*Almirante Ackbar*
 
 -------
 
 > Como sigan con estos precios, el próximo producto de Apple será la **iPoteca**
 
 *Anónimo*
+
 -------
+
+> Ok, ahora al plan B, sea lo que sea.
+
+*Son Goku*
+
+-------
+-------
+
+> Mostly, nothing's really changed. I'm still the dorky nerd that I always was
+
+*Beverly mitchell*
 
 > Nerds are far more interesting human in later life.
 
@@ -134,6 +298,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *José Antonio Maldonado*
 
+-------
+
+> Quisiera ser pirata
+no por el oro y la plata
+sino por ese tesoro
+¡que guardas entre las patas!
+
+*Calico Electrónico*
 
 -------
 
@@ -172,9 +344,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¡Qué horrible pesadilla! ¡Unos y ceros por todas partes! Hasta me pareció ver un 2.
+
+*Bender B. Rodríguez*
+
+------
+
+> Si ves que tardo más de cinco minutos en regresar; simplemente espera un poco más.
+
+*Ace Ventura, detective de mascotas*
+
+-------
+
 > Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas.
 
 *Linus Torvalds*
+
+-------
+
+> La física es el sistema operativo del Universo.
+
+*Luis Gómez Alonso*
 
 -------
 
@@ -190,15 +380,39 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I have changed my passwords to "incorrect", so now I will never forget them u.u
+
+*Mr Caralibro Creator*
+
+-------
+
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
-*Yokoi Kenji
+*Yokoi Kenji*
+
+-------
+
+> Yo digo que eres el Mesías. Y de eso entiendo porque he seguido a varios.
+
+*Seguidor, La vida de Brian*
+
+-------
+
+> Era ese tipo de persona que se pasa su vida haciendo cosas que detesta para conseguir dinero que no necesita y comprar cosas que no quiere para impresionar a gente que odia.
+
+*Emile Henry Gauvreay*
 
 -------
 
 > RHAWKARG
 
 *chewbacca*
+
+-------
+
+> Ten en cuenta que tu enfoque determina tu realidad
+
+*Qui-Gon Jinn*
 
 -------
 
@@ -249,15 +463,39 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Many of those who have made a **"fork"** from this repository do not deserve, it and some of those who deserve it have not done it. Can you do it for them? Then do not be too eager to reject the **"pull request"**. For even the very wise cannot see all ends.
+
+*Gandalf*
+
+-------
+
+> I'm not anti-social; I'm just not user friendly.
+
+*Unknown*
+
+-------
+
 > Me llamo Máximo Décimo Meridio, comandante de los ejercitos del norte ... leal servidor del verdadero emperador Marco Aurelio. Padre de un hijo asesinado, marido de una mujer asesinada y alcanzaré mi venganza en esta vida o en la otra.
 
 *Gladiator*
 
 -------
 
+> What do you call a programmer from Finland? Nerdic. :D
+
+*Anonymous*
+
+-------
+
 > I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
 
 *Batty, Blade Runner*
+
+-------
+
+> Por qué callar si naci gritando.
+
+*Anonimo*
 
 -------
 
@@ -363,9 +601,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+> Better to be a nerd than one of the herd!
+
+*Mandy Hale*
+
+------
+
 > Hombre que poder cazar mosca con palillos consigue lo que quiere.
 
 *Sr. Miyagi*
+
+-------
+
+> Soy ateo, gracias a Dios.
+
+*Luis Buñuel*
 
 -------
 
@@ -831,12 +1081,6 @@ Segmentation fault [core dumped]
 
 -------
 
->"Tendrá todo el dinero del mundo... pero habrá algo que jamás podrá comprar... un dinosaurio."
-
-*Homer Simpson*
-
--------
-
 >School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
 
 *Robert C. Martin (aka Uncle Bob)*
@@ -858,6 +1102,13 @@ Segmentation fault [core dumped]
 >Quem é amigo de todo mundo é amigo de ninguém.
 
 *Anonimo*
+
+-------
+-------
+
+>Bienvenido a mi casa, entre libremente, salga sin novedad, y deje un poco de la felicidad que trae consigo.
+
+*Drácula*
 
 -------
 >La física es el sistema operativo del Universo
@@ -995,7 +1246,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > La cura para el aburrimiento es la curiosidad. No hay cura para la curiosidad.
 
-*Dorothy Parker* 
+*Dorothy Parker*
 
 -------
 
@@ -1049,7 +1300,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > Dios, concédeme la serenidad para aceptar las cosas que no puedo cambiar, valor para cambiar las que puedo y sabiduría para reconocer la diferencia
 
-*Mr. Brooks* 
+*Mr. Brooks*
 
 -------
 
@@ -1136,6 +1387,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Im'm very font of you because you're just my type.
+
+*Unknown*
+
+-------
+
 >Duplication is the primary enemy of a well-designed system.
 
 *Robert C. Martin (aka Uncle Bob)*
@@ -1160,7 +1417,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous. 
+>  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous.
 
 *Han Solo*
 
@@ -1198,11 +1455,23 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > El que va a mear y no se pee, es como el que va colegio y no lee.
 
-*Excompañero de trabajo, jubilado**
+*Excompañero de trabajo, jubilado*
 
 -------
 
 > Ley del software: si aprenden a usarlo, saca otra versión.
+
+*Anónimo*
+
+-------
+
+>I'm such a geek, and have always been a real nerd.
+
+*Aisha Tyler*
+
+-------
+
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito. 
 
 *Anónimo*
 
@@ -1247,7 +1516,7 @@ But I'm not gonna lie down until I get there.
 
 > I know HTML (How To Meet Ladies)
 
-*Erlich Bachman*	
+*Erlich Bachman*
 
 -------
 
@@ -1380,3 +1649,9 @@ But I'm not gonna lie down until I get there.
 > Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
 
 *Stanley Kubrick*
+
+-------
+
+> Shut up! And take my money
+
+*Philip J. Fry*
