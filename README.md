@@ -1297,6 +1297,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Im'm very font of you because you're just my type.
+
+*Unknown*
+
+-------
+
 >Duplication is the primary enemy of a well-designed system.
 
 *Robert C. Martin (aka Uncle Bob)*
