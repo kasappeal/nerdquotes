@@ -239,6 +239,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Git es como la vida misma, si has hecho push, por mucho revert que hagas, en el log siempre queda.
+
+*Daniel Villalba*
+
+-------
+
 > Be nice to nerds. Chances are you'll end up working for one.
 
 *Bill Gates*
