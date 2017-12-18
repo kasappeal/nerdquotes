@@ -1169,6 +1169,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Siempre ha sido y siempre será demasiado tare
+
+*Dr Manhathan*
+
+-------
+
 > Hasta el infinito y más allá!
 
 *Buzz Lightyear*
