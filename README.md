@@ -374,6 +374,12 @@ sino por ese tesoro
 
 -------
 
+> Si Chuck Norris llega tarde, más le vale al tiempo ir más despacio.
+
+*Albert Einstein*
+
+-------
+
 > I have changed my passwords to "incorrect", so now I will never forget them u.u
 
 *Mr Caralibro Creator*
