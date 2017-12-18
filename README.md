@@ -231,6 +231,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> It's a trap!
+
+*Almirante Ackbar*
+
+-------
+
 > Como sigan con estos precios, el próximo producto de Apple será la **iPoteca**
 
 *Anónimo*
