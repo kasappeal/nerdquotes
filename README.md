@@ -96,6 +96,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hijo mío, la felicidad está hecha de pequeñas cosas: Un pequeño yate, una pequeña mansión, una pequeña fortuna.
+
+*Groucho marx by fpayan*
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
