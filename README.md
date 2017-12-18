@@ -1564,3 +1564,9 @@ But I'm not gonna lie down until I get there.
 > Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
 
 *Stanley Kubrick*
+
+-------
+
+> Shut up! And take my money
+
+*Philip J. Fry*
