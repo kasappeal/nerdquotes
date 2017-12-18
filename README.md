@@ -51,6 +51,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
+> Sólo hay 10 tipos de personas, las que saben programar y las que no.
+
+*Super Sayan Over9000*
+-------
+
 > No reírse de nada es de tontos, reírse de todo es de estúpidos
 
 *Groucho marx*
@@ -84,13 +90,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>127.0.0.1, sweet 127.0.0.1
+
+*Any developer*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
 
 ------
 
-> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola. 
+> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola.
 
 *Swift Norris*
 
@@ -107,8 +119,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Matt Groening*
 
 -------
+>"Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
 
->El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
+*Jeremy S. Anderson*
+
+-------
+
+**-->>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
 
@@ -162,7 +179,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> The drama nerd comes out in me when I'm in a theater. 
+> The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
 
@@ -195,6 +212,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
+
+-------
+
+> Be nice to nerds. Chances are you'll end up working for one.
+
+*Bill Gates*
 
 -------
 
@@ -276,6 +299,18 @@ sino por ese tesoro
 > El hardware es lo que hace a una máquina rápida; el software es lo que hace que una máquina rápida se vuelva lenta
 
 *Craig Bruce*
+
+-------
+
+> ¡Qué horrible pesadilla! ¡Unos y ceros por todas partes! Hasta me pareció ver un 2.
+
+*Bender B. Rodríguez*
+
+------
+
+> Si ves que tardo más de cinco minutos en regresar; simplemente espera un poco más.
+
+*Ace Ventura, detective de mascotas*
 
 -------
 
@@ -380,7 +415,7 @@ sino por ese tesoro
 
 -------
 
-> What do you call a programmer from Finland? Nerdic. :D 
+> What do you call a programmer from Finland? Nerdic. :D
 
 *Anonymous*
 
@@ -1279,6 +1314,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Im'm very font of you because you're just my type.
+
+*Unknown*
+
+-------
+
 >Duplication is the primary enemy of a well-designed system.
 
 *Robert C. Martin (aka Uncle Bob)*
@@ -1341,7 +1382,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > El que va a mear y no se pee, es como el que va colegio y no lee.
 
-*Excompañero de trabajo, jubilado**
+*Excompañero de trabajo, jubilado*
 
 -------
 
@@ -1354,6 +1395,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 >I'm such a geek, and have always been a real nerd.
 
 *Aisha Tyler*
+
+-------
+
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito. 
+
+*Anónimo*
 
 -------
 
@@ -1529,3 +1576,9 @@ But I'm not gonna lie down until I get there.
 > Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
 
 *Stanley Kubrick*
+
+-------
+
+> Shut up! And take my money
+
+*Philip J. Fry*
