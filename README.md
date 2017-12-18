@@ -203,6 +203,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+> Being a nerd is not always a bad thing. It's actually cool to be a nerd. 
+
+*Grizz Chapman*
+
+-------
+
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
