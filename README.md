@@ -207,6 +207,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Max Brooks*
 
+-------
+
+> Ya sé que te da miedo decepcionarme, pero espero que te consuele saber que mis expectativas sobre ti son muy pobres.
+
+*Sheldon Cooper*
+
 ------
 
 > Being a nerd is not always a bad thing. It's actually cool to be a nerd. 
