@@ -219,6 +219,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Alberto Casero*
 
+------
+
+> I'm a nerd at heart.
+
+*Hope Solo*
+
 -------
 
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
