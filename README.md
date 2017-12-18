@@ -361,6 +361,12 @@ sino por ese tesoro
 
 -------
 
+> Era ese tipo de persona que se pasa su vida haciendo cosas que detesta para conseguir dinero que no necesita y comprar cosas que no quiere para impresionar a gente que odia.
+
+*Emile Henry Gauvreay*
+
+-------
+
 > RHAWKARG
 
 *chewbacca*
