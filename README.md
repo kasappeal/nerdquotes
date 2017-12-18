@@ -191,6 +191,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+*John F. Woods*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
