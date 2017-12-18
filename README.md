@@ -51,6 +51,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
+> Sólo hay 10 tipos de personas, las que saben programar y las que no.
+
+*Super Sayan Over9000*
+-------
+
 > No reírse de nada es de tontos, reírse de todo es de estúpidos
 
 *Groucho marx*
@@ -84,13 +90,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>127.0.0.1, sweet 127.0.0.1
+
+*Any developer*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
 
 ------
 
-> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola. 
+> Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola.
 
 *Swift Norris*
 
@@ -107,8 +119,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Matt Groening*
 
 -------
+>"Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
 
->El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
+*Jeremy S. Anderson*
+
+-------
+
+**-->>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
 
@@ -162,7 +179,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> The drama nerd comes out in me when I'm in a theater. 
+> The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
 
@@ -171,6 +188,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
 
 *Homer Simpson*
+
+-------
+
+> Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+*John F. Woods*
 
 -------
 
@@ -184,11 +207,29 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Max Brooks*
 
+-------
+
+> Ya sé que te da miedo decepcionarme, pero espero que te consuele saber que mis expectativas sobre ti son muy pobres.
+
+*Sheldon Cooper*
+
 ------
+
+> Being a nerd is not always a bad thing. It's actually cool to be a nerd. 
+
+*Grizz Chapman*
+
+-------
 
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
+
+------
+
+> I'm a nerd at heart.
+
+*Hope Solo*
 
 -------
 
@@ -199,17 +240,43 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Git es como la vida misma, si has hecho push, por mucho revert que hagas, en el log siempre queda.
+
 *Daniel Villalba*
 
 -------
+
+> Be nice to nerds. Chances are you'll end up working for one.
+
+*Bill Gates*
+
+-------
+
 > The biggest issue on software team is making sure everyone understands what everyone else is doing.
+
+-------
+
+> It's a trap!
+
+*Almirante Ackbar*
 
 -------
 
 > Como sigan con estos precios, el próximo producto de Apple será la **iPoteca**
 
 *Anónimo*
+
 -------
+
+> Ok, ahora al plan B, sea lo que sea.
+
+*Son Goku*
+
+-------
+-------
+
+> Mostly, nothing's really changed. I'm still the dorky nerd that I always was
+
+*Beverly mitchell*
 
 > Nerds are far more interesting human in later life.
 
@@ -283,6 +350,18 @@ sino por ese tesoro
 
 -------
 
+> ¡Qué horrible pesadilla! ¡Unos y ceros por todas partes! Hasta me pareció ver un 2.
+
+*Bender B. Rodríguez*
+
+------
+
+> Si ves que tardo más de cinco minutos en regresar; simplemente espera un poco más.
+
+*Ace Ventura, detective de mascotas*
+
+-------
+
 > Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas.
 
 *Linus Torvalds*
@@ -301,6 +380,18 @@ sino por ese tesoro
 
 -------
 
+> Si Chuck Norris llega tarde, más le vale al tiempo ir más despacio.
+
+*Albert Einstein*
+
+-------
+
+> I have changed my passwords to "incorrect", so now I will never forget them u.u
+
+*Mr Caralibro Creator*
+
+-------
+
 > La disciplina, tarde o temprano,vencerá a la inteligencia.
 
 *Yokoi Kenji*
@@ -313,9 +404,21 @@ sino por ese tesoro
 
 -------
 
+> Era ese tipo de persona que se pasa su vida haciendo cosas que detesta para conseguir dinero que no necesita y comprar cosas que no quiere para impresionar a gente que odia.
+
+*Emile Henry Gauvreay*
+
+-------
+
 > RHAWKARG
 
 *chewbacca*
+
+-------
+
+> Ten en cuenta que tu enfoque determina tu realidad
+
+*Qui-Gon Jinn*
 
 -------
 
@@ -384,7 +487,7 @@ sino por ese tesoro
 
 -------
 
-> What do you call a programmer from Finland? Nerdic. :D 
+> What do you call a programmer from Finland? Nerdic. :D
 
 *Anonymous*
 
@@ -1007,6 +1110,13 @@ Segmentation fault [core dumped]
 *Anonimo*
 
 -------
+-------
+
+>Bienvenido a mi casa, entre libremente, salga sin novedad, y deje un poco de la felicidad que trae consigo.
+
+*Drácula*
+
+-------
 >La física es el sistema operativo del Universo
 
 *Cinstein*
@@ -1283,6 +1393,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Im'm very font of you because you're just my type.
+
+*Unknown*
+
+-------
+
 >Duplication is the primary enemy of a well-designed system.
 
 *Robert C. Martin (aka Uncle Bob)*
@@ -1345,11 +1461,23 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 > El que va a mear y no se pee, es como el que va colegio y no lee.
 
-*Excompañero de trabajo, jubilado**
+*Excompañero de trabajo, jubilado*
 
 -------
 
 > Ley del software: si aprenden a usarlo, saca otra versión.
+
+*Anónimo*
+
+-------
+
+>I'm such a geek, and have always been a real nerd.
+
+*Aisha Tyler*
+
+-------
+
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito. 
 
 *Anónimo*
 
@@ -1527,3 +1655,9 @@ But I'm not gonna lie down until I get there.
 > Pienso que el gran error en las escuelas es tratar de enseñar a los niños usando el miedo como motivación.
 
 *Stanley Kubrick*
+
+-------
+
+> Shut up! And take my money
+
+*Philip J. Fry*
