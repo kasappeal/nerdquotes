@@ -192,6 +192,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El **Tetris** es un claro ejemplo de que los errores se acumulan, los triunfos desaparecen y tener un palo largo ayuda mucho.
+
+*Domingo Fiesta Segura*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
