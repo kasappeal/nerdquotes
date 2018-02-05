@@ -348,6 +348,12 @@ sino por ese tesoro
 
 -------
 
+> Todo gran poder conlleva una gran responsabilidad 
+
+*Tio Ben*
+
+-------
+
 > El hardware es lo que hace a una máquina rápida; el software es lo que hace que una máquina rápida se vuelva lenta
 
 *Craig Bruce*
