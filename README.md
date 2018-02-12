@@ -228,6 +228,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Sheldon Cooper*
 
 -------
+> Hijo mío, la felicidad está hecha de pequeñas cosas, un pequeño yate, una pequeña mansión, una pequeña fortuna.
+
+*Groucho Marx*
+
+------
 
 > Un friki es un tipo que sabe que la normalidad es una estafa.
 
