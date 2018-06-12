@@ -198,7 +198,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 *John F. Woods*
+-------
 
+> Alberto, nunca entenderé a las mujeres... Mi novia me mandó a la compra y me dijo: "Trae 6 huevos y si hay patatas, trae 9". Había patatas, pero se cabreó conmigo cuando vine solo con 9 huevos.
+
+*Fulljoke Developer*
 -------
 
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
