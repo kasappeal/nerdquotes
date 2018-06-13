@@ -183,6 +183,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La historia del nodo Positivo y el nodo Negativo era tranquila hasta que se hizo un merge y saltaron chispas.
+
+*Git el chisposo*
+
+-------
+
 > The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
