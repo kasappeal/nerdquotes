@@ -1078,6 +1078,12 @@ Segmentation fault [core dumped]
 
 -------
 
+>Without requirements or design, programming is the art of adding bugs to an empty text file. 
+
+*Louis Srygley*
+
+-------
+
 >I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
 
 *Elena Nito Del Bosque*
