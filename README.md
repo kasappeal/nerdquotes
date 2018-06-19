@@ -219,7 +219,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-> Being a nerd is not always a bad thing. It's actually cool to be a nerd. 
+> Being a nerd is not always a bad thing. It's actually cool to be a nerd.
 
 *Grizz Chapman*
 
@@ -359,7 +359,7 @@ sino por ese tesoro
 
 -------
 
-> Todo gran poder conlleva una gran responsabilidad 
+> Todo gran poder conlleva una gran responsabilidad
 
 *Tio Ben*
 
@@ -1006,6 +1006,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Si le das a alguien un programa, lo frustrarás un día. Si le enseñas a programar, lo frustrarás toda la vida.
+
+*Anónimo*
+
+-------
+
 > Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.
 
 *Dr. Sheldon Cooper*
@@ -1504,7 +1510,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
-> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito. 
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito.
 
 *Anónimo*
 
