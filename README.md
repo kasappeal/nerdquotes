@@ -177,6 +177,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, 
+> y dejan que el resto del mundo las copie.
+
+*Linus Torvald*
+
+-------
+
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
