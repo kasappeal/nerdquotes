@@ -183,6 +183,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "No soy un profeta o un hombre de piedra, soy solo un mortal con un potencial de Superman"
+
+*David Bowie*
+
+-------
+
 > The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
