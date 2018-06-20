@@ -169,6 +169,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Seymore Cray*, sobre la memoria virtual
 
+------
+
+> I am having nightmares that I forgot to back-up my systems.
+
+*Richard Hendricks, Sillicon Valley*
+
 -------
 
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
