@@ -395,6 +395,12 @@ sino por ese tesoro
 
 -------
 
+> Dos no pelean si conflictos no tienen.
+
+*Refranero español*
+
+-------
+
 > He fracasado una y otra vez en mi vida y es por eso que tengo exito
 
 *Your Majesty Michael Air Jordan*
