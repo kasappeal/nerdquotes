@@ -176,6 +176,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Bender*
 
 -------
+> No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
+ 
+*Lisa Simpson*
+
+-------
 
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
