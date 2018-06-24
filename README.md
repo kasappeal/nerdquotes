@@ -214,6 +214,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ok, ahora al plan C, sea lo que sea.
+
+*Son Gohan*
+
+-------
+
 > Nerds are far more interesting human in later life.
 
 *Mari Maroon*
