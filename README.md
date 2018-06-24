@@ -1046,6 +1046,12 @@ Segmentation fault [core dumped]
 
 *Gitcartes*
 
+----------
+
+> *Un Repo para gobernarlos a todos, un CheckOut para encontrarlos, un Reset Hard para atraerlos a todos y atarlos en las Tinieblas.*
+
+**Daniel Rodríguez**
+
 -------
 
 > Be nice to nerds. Chances are you'll end up working for one
