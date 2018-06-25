@@ -300,6 +300,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un gran Poder conlleva una gran Responsabilidad....!!!
+
+*El tío Ben (Spiderman)*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
