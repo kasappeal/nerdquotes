@@ -211,6 +211,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La única fuente de energía capaz de generar 1.21 gigawatts es un rayo
+
+*Doc Emmett Brown*
+
+-------
+
 > The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
