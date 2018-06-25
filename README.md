@@ -257,6 +257,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Never trust a computer you can't throw out a window.
+
+*Steve Wozniak*
+
+-------
+
 > Como siempre: lo urgente no deja tiempo para lo importante.
 
 *Mafalda*
