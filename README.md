@@ -169,6 +169,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Seymore Cray*, sobre la memoria virtual
 
+------
+
+> To err is human, but to really foul things up you need a computer. 
+
+*Paul R. Ehrlich* 
+
 -------
 
 > I'm just a big old nerd. I'm not that cool guy at all. 
