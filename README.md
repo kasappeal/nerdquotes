@@ -194,6 +194,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Bender*
 
 -------
+> No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
+ 
+*Lisa Simpson*
+
+-------
 
 > Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, 
 > y dejan que el resto del mundo las copie.
