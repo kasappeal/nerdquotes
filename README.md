@@ -201,6 +201,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Luke, I am your father.
+
+*Darth Vader*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
