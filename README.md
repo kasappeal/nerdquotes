@@ -1095,6 +1095,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Si le das a alguien un programa, lo frustrarás un día. Si le enseñas a programar, lo frustrarás toda la vida.
+
+*Anónimo*
+
+-------
+
 > Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.
 
 *Dr. Sheldon Cooper*
