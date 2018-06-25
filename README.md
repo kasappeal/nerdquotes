@@ -1303,6 +1303,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Crom, jamás te había rezado antes, no sirvo para ello, nadie, ni siquiera tú recordarás si fuimos hombres buenos o malos, por qué luchamos o por qué morimos, no, lo único que importa es que dos se enfrentan a muchos, eso es lo que importa, el valor te agrada Crom, concédeme pues una petición, concédeme la venganza, y si no me escuchas ¡vete al infierno!
+
+*Conan el Bárbaro*
+
+-------
+
 > If you like nerds, raise your hand. If you don't, raise your standards.
 
 *Violet Haberdasher*
