@@ -235,6 +235,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm a comic nerd. I'm a former serious collector for much of my childhood and early teen years I wanted to draw underground comics.
+
+*Anthony Bourdain*
+
+-------
+
 > Ya sé que te da miedo decepcionarme, pero espero que te consuele saber que mis expectativas sobre ti son muy pobres.
 
 *Sheldon Cooper*
