@@ -169,6 +169,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Seymore Cray*, sobre la memoria virtual
 
+------
+
+> To err is human, but to really foul things up you need a computer. 
+
+*Paul R. Ehrlich* 
+
+-------
+
+> I'm just a big old nerd. I'm not that cool guy at all. 
+
+*Guillermo Diaz*
+
 -------
 
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
@@ -180,6 +192,28 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+-------
+
+> En informática todo son 0 y 1, tan sólo se trata de ordenarlos
+
+*KUBIAT*
+-------
+
+> La historia del nodo Positivo y el nodo Negativo era tranquila hasta que se hizo un merge y saltaron chispas.
+
+*Git el chisposo*
+
+-------
+
+> La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos.
+
+*Alan Kay*
+
+-------
+
+> La única fuente de energía capaz de generar 1.21 gigawatts es un rayo
+
+*Doc Emmett Brown*
 
 -------
 
@@ -198,6 +232,16 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 *John F. Woods*
+-------
+
+> Alberto, nunca entenderé a las mujeres... Mi novia me mandó a la compra y me dijo: "Trae 6 huevos y si hay patatas, trae 9". Había patatas, pero se cabreó conmigo cuando vine solo con 9 huevos.
+
+*Fulljoke Developer*
+-------
+
+> Luke, I am your father.
+
+*Darth Vader*
 
 -------
 
@@ -213,9 +257,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Como siempre: lo urgente no deja tiempo para lo importante.
+
+*Mafalda*
+
+-------
+
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
+
+-------
+
+> I'm a comic nerd. I'm a former serious collector for much of my childhood and early teen years I wanted to draw underground comics.
+
+*Anthony Bourdain*
 
 -------
 
@@ -225,7 +281,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-> Being a nerd is not always a bad thing. It's actually cool to be a nerd. 
+> Being a nerd is not always a bad thing. It's actually cool to be a nerd.
 
 *Grizz Chapman*
 
@@ -365,7 +421,7 @@ sino por ese tesoro
 
 -------
 
-> Todo gran poder conlleva una gran responsabilidad 
+> Todo gran poder conlleva una gran responsabilidad
 
 *Tio Ben*
 
@@ -1066,6 +1122,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> All your commit are belong to us.
+
+*CATS*
+
+-------
+
 > La gente se inventa estadísticas con tal de demostrar algo, Kent, y eso lo sabe el 14% de la población.
 
 *Homero J. Simpson*
@@ -1114,6 +1176,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "Sin cambios, algo duerme dentro de nosotros y rara vez despierta. El dormidor debe despertar.""
+
+*Frank Herbert*
+
+-------
+
 >School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
 
 *Robert C. Martin (aka Uncle Bob)*
@@ -1135,6 +1203,12 @@ Segmentation fault [core dumped]
 >Quem é amigo de todo mundo é amigo de ninguém.
 
 *Anonimo*
+
+-------
+
+>Sa matao paco!
+
+*APM Fan*
 
 -------
 -------
@@ -1355,6 +1429,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Luis Enrique, tu padre es Amunike
+
+*Paulo Coelho*
+
+-------
+
 > Those are my Commits, and if you don't like them... Well I have others.
 
 *G.Marx*
@@ -1510,7 +1590,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
-> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito. 
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito.
 
 *Anónimo*
 
