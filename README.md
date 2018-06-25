@@ -171,6 +171,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
+> I am having nightmares that I forgot to back-up my systems.
+
+*Richard Hendricks, Sillicon Valley*
+
+------
+
 > To err is human, but to really foul things up you need a computer. 
 
 *Paul R. Ehrlich* 
