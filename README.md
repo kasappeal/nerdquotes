@@ -189,6 +189,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¡Como disfrutaría destripandote, Chaval!
+
+*Nicholas Cage (La Roca)*
+
+-------
+
 > A veces la ciencia es mucho más arte que ciencia, Morty. Mucha gente no entiende eso.
 
 *Rick Sánchez*
