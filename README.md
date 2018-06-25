@@ -263,6 +263,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Words are, in my not-so-humble opinion, our most inexhaustible source of magic.
+
+*Albus Dumbledore*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
