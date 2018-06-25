@@ -1783,3 +1783,11 @@ But I'm not gonna lie down until I get there.
 > Shut up! And take my money
 
 *Philip J. Fry*
+
+--------
+
+> Siempre debe haber dos, ni más ni menos. Un maestro y un aprendiz.
+
+*Yoda*
+
+---------
