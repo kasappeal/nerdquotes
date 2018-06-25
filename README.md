@@ -235,6 +235,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> !Puede que nos quiten la vida pero jamás nos quitarán la libertad¡
+
+*Willian Wallace*
+
+-------
+
 > “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
 
 *Homer Simpson*
