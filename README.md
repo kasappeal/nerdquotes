@@ -283,6 +283,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas
+
+*Linus Torvalds*
+
+-------
+
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 *John F. Woods*
