@@ -229,6 +229,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La situación era crítica y dimos un giro de 360°
+
+*Contralmirante Hugo Marquez*
+
+-------
+
 > The drama nerd comes out in me when I'm in a theater.
 
 *Philip Seymour Hoffman*
