@@ -1688,3 +1688,9 @@ But I'm not gonna lie down until I get there.
 > Shut up! And take my money
 
 *Philip J. Fry*
+
+------
+
+>No cuentes 10 cosas que vayas a hacer cuenta 1 que hayas echo.
+
+*Anxo Peres --- Alumno Joaquin Jimenez WEB V*
