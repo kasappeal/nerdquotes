@@ -171,6 +171,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
+
+-------
+
+> A film of my life would never happen!
+
+*Malorie Blackman*
+
 > La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
 
 *Seymore Cray*, sobre la memoria virtual
