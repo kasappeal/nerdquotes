@@ -1912,6 +1912,12 @@ But I'm not gonna lie down until I get there.
 
 *Philip J. Fry*
 
+-------
+
+>No cuentes 10 cosas que vayas a hacer, cuenta una que hayas echo bien. 
+
+*Joaquin Jimenez WEB V*
+
 --------
 
 > Siempre debe haber dos, ni más ni menos. Un maestro y un aprendiz.
