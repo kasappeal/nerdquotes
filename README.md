@@ -9,6 +9,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Tengo más hambre que el tamagochi de un sordo.
+
+*David Bernal Gonzalez*
+
+-------
+
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
@@ -165,9 +171,35 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
+
+-------
+
+> A film of my life would never happen!
+
+*Malorie Blackman*
+
 > La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
 
 *Seymore Cray*, sobre la memoria virtual
+
+------
+
+> I am having nightmares that I forgot to back-up my systems.
+
+*Richard Hendricks, Sillicon Valley*
+
+------
+
+> To err is human, but to really foul things up you need a computer. 
+
+*Paul R. Ehrlich* 
+
+-------
+
+> I'm just a big old nerd. I'm not that cool guy at all. 
+
+*Guillermo Diaz*
 
 -------
 
@@ -176,10 +208,68 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Bender*
 
 -------
+> No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
+ 
+*Lisa Simpson*
+
+-------
+
+> Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, 
+> y dejan que el resto del mundo las copie.
+
+*Linus Torvald*
+
+-------
+
+> ¡Como disfrutaría destripandote, Chaval!
+
+*Nicholas Cage (La Roca)*
+
+-------
+
+> A veces la ciencia es mucho más arte que ciencia, Morty. Mucha gente no entiende eso.
+
+*Rick Sánchez*
+
+-------
 
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+-------
+
+> En informática todo son 0 y 1, tan sólo se trata de ordenarlos
+
+*KUBIAT*
+-------
+
+> La historia del nodo Positivo y el nodo Negativo era tranquila hasta que se hizo un merge y saltaron chispas.
+
+*Git el chisposo*
+
+-------
+
+> La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos.
+
+*Alan Kay*
+
+-------
+
+> La única fuente de energía capaz de generar 1.21 gigawatts es un rayo
+
+*Doc Emmett Brown*
+
+-------
+
+> La situación era crítica y dimos un giro de 360°
+
+*Contralmirante Hugo Marquez*
+
+-------
+
+> "No soy un profeta o un hombre de piedra, soy solo un mortal con un potencial de Superman"
+
+*David Bowie*
 
 -------
 
@@ -189,15 +279,55 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> !Puede que nos quiten la vida pero jamás nos quitarán la libertad¡
+
+*Willian Wallace*
+
+-------
+
 > “Para Empezar Presionar Cualquier Tecla” ¿Dónde está la tecla “Cualquier”?
 
 *Homer Simpson*
 
 -------
 
+> Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas
+
+*Linus Torvalds*
+
+-------
+
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 *John F. Woods*
+-------
+
+> Alberto, nunca entenderé a las mujeres... Mi novia me mandó a la compra y me dijo: "Trae 6 huevos y si hay patatas, trae 9". Había patatas, pero se cabreó conmigo cuando vine solo con 9 huevos.
+
+*Fulljoke Developer*
+-------
+
+> Luke, I am your father.
+
+*Darth Vader*
+
+-------
+
+> Words are, in my not-so-humble opinion, our most inexhaustible source of magic.
+
+*Albus Dumbledore*
+
+-------
+
+> I think that everybody is kind of a nerd at heart.
+
+*Simon Helberg*
+
+-------
+
+> Un gran Poder conlleva una gran Responsabilidad....!!!
+
+*El tío Ben (Spiderman)*
 
 -------
 
@@ -207,9 +337,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Never trust a computer you can't throw out a window.
+
+*Steve Wozniak*
+
+-------
+
+> Como siempre: lo urgente no deja tiempo para lo importante.
+
+*Mafalda*
+
+-------
+
 > Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
+
+-------
+
+> I'm a comic nerd. I'm a former serious collector for much of my childhood and early teen years I wanted to draw underground comics.
+
+*Anthony Bourdain*
 
 -------
 
@@ -219,7 +367,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------
 
-> Being a nerd is not always a bad thing. It's actually cool to be a nerd. 
+> Being a nerd is not always a bad thing. It's actually cool to be a nerd.
 
 *Grizz Chapman*
 
@@ -287,6 +435,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Mostly, nothing's really changed. I'm still the dorky nerd that I always was
 
 *Beverly mitchell*
+
+> Ok, ahora al plan C, sea lo que sea.
+
+*Son Gohan*
+
+-------
 
 > Nerds are far more interesting human in later life.
 
@@ -359,7 +513,7 @@ sino por ese tesoro
 
 -------
 
-> Todo gran poder conlleva una gran responsabilidad 
+> Todo gran poder conlleva una gran responsabilidad
 
 *Tio Ben*
 
@@ -392,6 +546,12 @@ sino por ese tesoro
 > La física es el sistema operativo del Universo.
 
 *Luis Gómez Alonso*
+
+-------
+
+> Dos no pelean si conflictos no tienen.
+
+*Refranero español*
 
 -------
 
@@ -639,6 +799,9 @@ sino por ese tesoro
 *Sr. Miyagi*
 
 -------
+> El git me la ha liao'.
+
+*IronCrack Student*
 
 > Soy ateo, gracias a Dios.
 
@@ -952,6 +1115,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Tigre, tigre, fuego deslumbrante en las selvas de la noche ¿qué mano inmortal, qué ojo pudo trazar tu terrible simetría?
+
+*William Blake*
+
+-------
+
 >A**GIT**ar antes de **HUB**sar
 
 *House M.D.*
@@ -1006,6 +1175,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Si le das a alguien un programa, lo frustrarás un día. Si le enseñas a programar, lo frustrarás toda la vida.
+
+*Anónimo*
+
+-------
+
 > Scissors cuts paper, paper covers rock, rock crushes lizard, lizard poisons Spock, Spock smashes scissors, scissors decapitates lizard, lizard eats paper, paper disproves Spock, Spock vaporizes rock, and as it always has, rock crushes scissors.
 
 *Dr. Sheldon Cooper*
@@ -1046,6 +1221,12 @@ Segmentation fault [core dumped]
 
 *Gitcartes*
 
+----------
+
+> *Un Repo para gobernarlos a todos, un CheckOut para encontrarlos, un Reset Hard para atraerlos a todos y atarlos en las Tinieblas.*
+
+**Daniel Rodríguez**
+
 -------
 
 > Be nice to nerds. Chances are you'll end up working for one
@@ -1057,6 +1238,12 @@ Segmentation fault [core dumped]
 > I was a nerd growing up, and I'm a little antisocial and awkward.
 
 *Pawel Walicki*
+
+-------
+
+> All your commit are belong to us.
+
+*CATS*
 
 -------
 
@@ -1075,6 +1262,12 @@ Segmentation fault [core dumped]
 > You don't have to be a nerd or a programmer or a network engineer to make a difference
 
 *Rafa Navarro*
+
+-------
+
+>Without requirements or design, programming is the art of adding bugs to an empty text file. 
+
+*Louis Srygley*
 
 -------
 
@@ -1108,9 +1301,21 @@ Segmentation fault [core dumped]
 
 -------
 
+> "Sin cambios, algo duerme dentro de nosotros y rara vez despierta. El dormidor debe despertar.""
+
+*Frank Herbert*
+
+-------
+
 >School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
 
 *Robert C. Martin (aka Uncle Bob)*
+
+-------
+
+> "Virgulilla, virgulilla, tan dentro del alma mía..."
+
+*David Github*
 
 -------
 
@@ -1129,6 +1334,12 @@ Segmentation fault [core dumped]
 >Quem é amigo de todo mundo é amigo de ninguém.
 
 *Anonimo*
+
+-------
+
+>Sa matao paco!
+
+*APM Fan*
 
 -------
 -------
@@ -1175,6 +1386,12 @@ Segmentation fault [core dumped]
 > °(((=((===°°°(((::::::::::::::::::::::::::::::::::::::::::::::::::
 
 *Anakin Skywalker pedo en una whiskeria de Tatooine*
+
+-------
+
+> Crom, jamás te había rezado antes, no sirvo para ello, nadie, ni siquiera tú recordarás si fuimos hombres buenos o malos, por qué luchamos o por qué morimos, no, lo único que importa es que dos se enfrentan a muchos, eso es lo que importa, el valor te agrada Crom, concédeme pues una petición, concédeme la venganza, y si no me escuchas ¡vete al infierno!
+
+*Conan el Bárbaro*
 
 -------
 
@@ -1349,6 +1566,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> Luis Enrique, tu padre es Amunike
+
+*Paulo Coelho*
+
+-------
+
 > Those are my Commits, and if you don't like them... Well I have others.
 
 *G.Marx*
@@ -1504,7 +1727,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
-> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito. 
+> La vida sería más fácil si todos tuviéramos un ⌘+Z infinito.
 
 *Anónimo*
 
@@ -1694,3 +1917,17 @@ But I'm not gonna lie down until I get there.
 >No cuentes 10 cosas que vayas a hacer, cuenta una que hayas echo bien. 
 
 *Joaquin Jimenez WEB V*
+
+--------
+
+> Siempre debe haber dos, ni más ni menos. Un maestro y un aprendiz.
+
+*Yoda*
+
+---------
+
+>Si la vida te da limones. Haz Limonada y Planta Limoneros.
+
+*Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
+
+---------
