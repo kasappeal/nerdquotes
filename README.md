@@ -1019,6 +1019,12 @@ sino por ese tesoro
 
 -------
 
+> Uno reconoce que todo no se resuelve con violencia hasta que se posa un mosquito en los testículos
+
+*Lecciones de la vida*
+
+-------
+
 > If the automobile had followed the same development cycle as the computer,
 > a Rolls-Royce would today cost $100, get a million miles per gallon,
 > and explode once a year, killing everyone inside.”
