@@ -201,6 +201,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Guillermo Diaz*
 
+
+-------
+
+> Hasta la vista, baby.
+
+*Terminator*
+
 -------
 
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
