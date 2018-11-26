@@ -221,6 +221,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Triple voltereta y nachos por la jeta!!
+
+*Finn el Humano*
+
+-------
+
 > ¡Como disfrutaría destripandote, Chaval!
 
 *Nicholas Cage (La Roca)*
