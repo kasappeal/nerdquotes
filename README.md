@@ -221,6 +221,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I've got a fever, and the only cure is more dead angels.
+*Bayonetta*
+
+-------
+
 > ¡Como disfrutaría destripandote, Chaval!
 
 *Nicholas Cage (La Roca)*
