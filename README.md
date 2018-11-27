@@ -214,6 +214,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> They’re just robots, Morty! It’s OK to shoot them! They’re robots!
+
+*Rick Sanchez*
+
+-------
+
 > Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, 
 > y dejan que el resto del mundo las copie.
 
