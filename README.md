@@ -1295,6 +1295,12 @@ Segmentation fault [core dumped]
 
 -------
 
+>“All the geniuses and greats are really just nerds with experience.”
+ 
+*A.D. Posey*
+
+-------
+
 > "Si intentas matar al rey, no falles."
 
 *Omar Little*
