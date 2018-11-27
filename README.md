@@ -203,6 +203,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> `Array(16).join('WAT'-1)+'Batman!'`
+
+*The Dark Coder*
+
+-------
+
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
