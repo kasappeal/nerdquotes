@@ -221,8 +221,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> I've got a fever, and the only cure is more dead angels.
-*Bayonetta*
+> I've got a bugs, and the only cure is more coffee.
+
+*Codeyonetta*
 
 -------
 
