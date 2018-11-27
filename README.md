@@ -1069,6 +1069,12 @@ sino por ese tesoro
 
 -------
 
+> Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows 8.
+
+*Paco RAM*
+
+-------
+
 > La blasfemia es el unico lenguaje que de verdad conocen todos los programadores.
 
 *Virgulilla Atormentada*
