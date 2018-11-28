@@ -227,6 +227,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> May the force be with you.
+
+*obi wan kenobi*
+
+-------
+
 > A veces la ciencia es mucho más arte que ciencia, Morty. Mucha gente no entiende eso.
 
 *Rick Sánchez*
