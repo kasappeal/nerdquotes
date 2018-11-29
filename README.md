@@ -208,6 +208,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Bender*
 
 -------
+
+> "Padre, lo de wikileaks", le dice la hija al padre.
+ 
+*Ignatius Farray*
+
+-------
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
  
 *Lisa Simpson*
