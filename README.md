@@ -233,6 +233,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Our actions may be impeded... but there can be no impeding to our intentions or dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.
+
+*Marcus Aurelius*
+
+-------
+
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
