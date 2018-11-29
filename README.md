@@ -214,6 +214,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> If my calculations are correct, when this baby hits eighty-eight miles per hour... you're gonna see some serious shit.
+
+*Dr. Emmett Brown*
+
+-------
+
 > Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, 
 > y dejan que el resto del mundo las copie.
 
