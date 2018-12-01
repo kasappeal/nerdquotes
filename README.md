@@ -233,6 +233,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar cuando se mira lejos.
+
+*José Ortega y Gasset*
+
+-------
+
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
