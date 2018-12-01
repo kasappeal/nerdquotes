@@ -196,6 +196,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Paul R. Ehrlich* 
 
 -------
+  
+> Me sorprende la cantidad de gente que se llama sdfsdf.  
+
+*azerty*
+
+-------
 
 > I'm just a big old nerd. I'm not that cool guy at all. 
 
