@@ -199,7 +199,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > Windows XP es Multitarea: está preparado para que varios programas fallen simultáneamente.
 
-* Sergio Suárez
+*Sergio Suárez*
 
 -------
 
