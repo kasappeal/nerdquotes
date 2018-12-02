@@ -207,6 +207,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Bender*
 
+---------
+
+>Live life, don't let life live You!
+
+*Kace*
+
 -------
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
  
