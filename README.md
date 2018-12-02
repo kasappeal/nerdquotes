@@ -189,6 +189,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Richard Hendricks, Sillicon Valley*
 
+-------
+
+> El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
+> 
+> *Sr. Justo Emproblemas*
+
 ------
 
 > To err is human, but to really foul things up you need a computer. 
