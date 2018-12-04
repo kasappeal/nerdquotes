@@ -192,8 +192,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
-> 
-> *Sr. Justo Emproblemas*
+ 
+*Sr. Justo Emproblemas*
 
 ------
 
