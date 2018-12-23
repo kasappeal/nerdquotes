@@ -197,6 +197,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Para empezar presionar cualquier tecla ¿Dónde está la tecla “cualquier”?
+
+*Homer Simpson*
+
+-------
+
 > I'm just a big old nerd. I'm not that cool guy at all. 
 
 *Guillermo Diaz*
