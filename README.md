@@ -287,6 +287,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Our actions may be impeded... but there can be no impeding to our intentions or dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.
+
+*Marcus Aurelius*
+
+-------
+
 > Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar cuando se mira lejos.
 
 *José Ortega y Gasset*
@@ -296,11 +302,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
 -------
 
 > En informática todo son 0 y 1, tan sólo se trata de ordenarlos
 
 *KUBIAT*
+
 -------
 
 > La historia del nodo Positivo y el nodo Negativo era tranquila hasta que se hizo un merge y saltaron chispas.
