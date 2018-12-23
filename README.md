@@ -1237,6 +1237,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Dios crea al dinosaurio. Dios destruye al dinosaurio. Dios crea al hombre. El hombre destruye a Dios. El hombre crea al dinosaurio. El dinosaurio se come al hombre… **la mujer hereda la tierra.**
+
+*Jurassic Park* - Ian Malcolm & Ellie Sattler conversation
+
+-------
+
 > Corrompido por el lado oscuro, el joven Skywalker ha sido. El muchacho que adiestraste desaparecido ha… consumido, por Darth Vader.
 
 *Yoda a Obi-Wan Kenobi*
