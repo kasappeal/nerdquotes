@@ -290,6 +290,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>El espacio... parece extenderse sin límites. Hasta que llegas al final y aparece un mono lanzándote barriles.
+
+*Fry*
+
+-------
+
 > La inspiración existe, pero tiene que encontrarte trabajando
 
 *Pablo Picasso*
