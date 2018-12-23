@@ -1279,6 +1279,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> **Programmer:** La informática es determinista.
+
+*Anónimo*
+
+-------
+
 > Innovation distinguishes between a leader and a follower.
 
 *Steve Jobs*
