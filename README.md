@@ -44,6 +44,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Truman Capote*
 
 -------
+> Incluso en un torbellino de irrealidad factible, la música suena imperturbable
+
+*Pablo García*
+
+-------
 
 > 最尷尬的將是第一個
 
@@ -189,11 +194,29 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Richard Hendricks, Sillicon Valley*
 
+-------
+
+> El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
+ 
+*Sr. Justo Emproblemas*
+
 ------
 
 > To err is human, but to really foul things up you need a computer. 
 
 *Paul R. Ehrlich* 
+
+------
+
+> Lo importante no es saber, si no tener el teléfono del que sabe.
+
+*Pablo López (ni el cantante, ni el portero)*
+
+-------
+
+>Para empezar presionar cualquier tecla ¿Dónde está la tecla “cualquier”?
+
+*Homer Simpson*
 
 -------
 
@@ -201,16 +224,41 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Guillermo Diaz*
 
+
+-------
+
+> Hasta la vista, baby.
+
+*Terminator*
+
 -------
 
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
 
+---------
+
+>Live life, don't let life live You!
+
+*Kace*
+
+-------
+
+> "Padre, lo de wikileaks", le dice la hija al padre.
+ 
+*Ignatius Farray*
+
 -------
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
  
 *Lisa Simpson*
+
+-------
+
+> If my calculations are correct, when this baby hits eighty-eight miles per hour... you're gonna see some serious shit.
+
+*Dr. Emmett Brown*
 
 -------
 
@@ -227,6 +275,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> May the force be with you.
+
+*obi wan kenobi*
+
+-------
+
 > A veces la ciencia es mucho más arte que ciencia, Morty. Mucha gente no entiende eso.
 
 *Rick Sánchez*
@@ -239,14 +293,22 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar cuando se mira lejos.
+
+*José Ortega y Gasset*
+
+-------
+
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
 -------
 
 > En informática todo son 0 y 1, tan sólo se trata de ordenarlos
 
 *KUBIAT*
+
 -------
 
 > La historia del nodo Positivo y el nodo Negativo era tranquila hasta que se hizo un merge y saltaron chispas.
@@ -1298,6 +1360,12 @@ Segmentation fault [core dumped]
 >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 *Martin Fowler*
+
+-------
+
+>“All the geniuses and greats are really just nerds with experience.”
+ 
+*A.D. Posey*
 
 -------
 
