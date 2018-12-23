@@ -44,6 +44,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Truman Capote*
 
 -------
+> Incluso en un torbellino de irrealidad factible, la música suena imperturbable
+
+*Pablo García*
+
+-------
 
 > 最尷尬的將是第一個
 
