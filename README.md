@@ -200,6 +200,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Paul R. Ehrlich* 
 
+------
+
+> Lo importante no es saber, si no tener el teléfono del que sabe.
+
+*Pablo López (ni el cantante, ni el portero)*
+
 -------
 
 >Para empezar presionar cualquier tecla ¿Dónde está la tecla “cualquier”?
