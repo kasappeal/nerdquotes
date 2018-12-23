@@ -274,6 +274,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>No me vas a creer, porque casi nunca pasa, pero cometí un error.
+
+*Rick*
+
+-------
+
 > If my calculations are correct, when this baby hits eighty-eight miles per hour... you're gonna see some serious shit.
 
 *Dr. Emmett Brown*
