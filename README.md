@@ -290,6 +290,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La inspiración existe, pero tiene que encontrarte trabajando
+
+*Pablo Picasso*
+
+-------
+
 > Sometimes life hits you in the head with a brick. Don't lose faith.
 
 *Steve Jobs*
