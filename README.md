@@ -188,6 +188,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Seymore Cray*, sobre la memoria virtual
 
+-------
+
+> Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
+
+*Geek Programmer Anonymous*
+
 ------
 
 > I am having nightmares that I forgot to back-up my systems.
