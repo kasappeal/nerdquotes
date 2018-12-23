@@ -44,6 +44,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Truman Capote*
 
 -------
+> Incluso en un torbellino de irrealidad factible, la música suena imperturbable
+
+*Pablo García*
+
+-------
 
 > 最尷尬的將是第一個
 
@@ -183,11 +188,23 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Seymore Cray*, sobre la memoria virtual
 
+-------
+
+> Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
+
+*Geek Programmer Anonymous*
+
 ------
 
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
+
+-------
+
+> El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
+ 
+*Sr. Justo Emproblemas*
 
 ------
 
@@ -195,17 +212,60 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Paul R. Ehrlich* 
 
+------
+
+> Lo importante no es saber, si no tener el teléfono del que sabe.
+
+*Pablo López (ni el cantante, ni el portero)*
+
+-------
+
+>Para empezar presionar cualquier tecla ¿Dónde está la tecla “cualquier”?
+
+*Homer Simpson*
+
+-------
+
+> Windows XP es Multitarea: está preparado para que varios programas fallen simultáneamente.
+
+*Sergio Suárez*
+
+-------
+  
+> Me sorprende la cantidad de gente que se llama sdfsdf.  
+
+*azerty*
+
 -------
 
 > I'm just a big old nerd. I'm not that cool guy at all. 
 
 *Guillermo Diaz*
 
+
+-------
+
+> Hasta la vista, baby.
+
+*Terminator*
+
 -------
 
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
+
+---------
+
+>Live life, don't let life live You!
+
+*Kace*
+
+-------
+
+> "Padre, lo de wikileaks", le dice la hija al padre.
+ 
+*Ignatius Farray*
 
 -------
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
@@ -220,10 +280,28 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No me vas a creer, porque casi nunca pasa, pero cometí un error.
+
+*Rick*
+
+-------
+
+> If my calculations are correct, when this baby hits eighty-eight miles per hour... you're gonna see some serious shit.
+
+*Dr. Emmett Brown*
+
+-------
+
 > Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, 
 > y dejan que el resto del mundo las copie.
 
 *Linus Torvald*
+
+-------
+
+> Triple voltereta y nachos por la jeta!!
+
+*Finn el Humano*
 
 -------
 
@@ -233,20 +311,40 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> May the force be with you.
+
+*obi wan kenobi*
+
+-------
+
 > A veces la ciencia es mucho más arte que ciencia, Morty. Mucha gente no entiende eso.
 
 *Rick Sánchez*
 
 -------
 
+> Our actions may be impeded... but there can be no impeding to our intentions or dispositions. Because we can accommodate and adapt. The mind adapts and converts to its own purposes the obstacle to our acting. The impediment to action advances action. What stands in the way becomes the way.
+
+*Marcus Aurelius*
+
+-------
+
+> Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar cuando se mira lejos.
+
+*José Ortega y Gasset*
+
+-------
+
 > Un mago nunca llega tarde, ni pronto, llega exactamente cuando se lo propone.
 
 *Gandalf el Gris (J.R.R. Tolkien, ESDLA: LCDA)*
+
 -------
 
 > En informática todo son 0 y 1, tan sólo se trata de ordenarlos
 
 *KUBIAT*
+
 -------
 
 > La historia del nodo Positivo y el nodo Negativo era tranquila hasta que se hizo un merge y saltaron chispas.
@@ -1025,6 +1123,12 @@ sino por ese tesoro
 
 -------
 
+> Uno reconoce que todo no se resuelve con violencia hasta que se posa un mosquito en los testículos
+
+*Lecciones de la vida*
+
+-------
+
 > If the automobile had followed the same development cycle as the computer,
 > a Rolls-Royce would today cost $100, get a million miles per gallon,
 > and explode once a year, killing everyone inside.”
@@ -1072,6 +1176,12 @@ sino por ese tesoro
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
+
+-------
+
+> Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows 8.
+
+*Paco RAM*
 
 -------
 
@@ -1148,6 +1258,12 @@ Segmentation fault [core dumped]
 > **Programmer:** Anoche soñé que la ***fuerza*** estaba conmigo y no, era mi novia que me puso la pierna encima.
 
 *Canario con sueño*
+
+-------
+
+> Dios crea al dinosaurio. Dios destruye al dinosaurio. Dios crea al hombre. El hombre destruye a Dios. El hombre crea al dinosaurio. El dinosaurio se come al hombre… **la mujer hereda la tierra.**
+
+*Jurassic Park* - Ian Malcolm & Ellie Sattler conversation
 
 -------
 
@@ -1298,6 +1414,12 @@ Segmentation fault [core dumped]
 >“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 *Martin Fowler*
+
+-------
+
+>“All the geniuses and greats are really just nerds with experience.”
+ 
+*A.D. Posey*
 
 -------
 
