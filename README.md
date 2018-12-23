@@ -226,6 +226,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Windows XP es Multitarea: está preparado para que varios programas fallen simultáneamente.
+
+*Sergio Suárez*
+
+-------
+
 > I'm just a big old nerd. I'm not that cool guy at all. 
 
 *Guillermo Diaz*
