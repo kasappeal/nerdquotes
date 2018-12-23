@@ -327,6 +327,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I've got a bugs, and the only cure is more coffee.
+
+*Codeyonetta*
+
+-------
+
 > Triple voltereta y nachos por la jeta!!
 
 *Finn el Humano*
