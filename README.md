@@ -242,6 +242,16 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Guillermo Diaz*
 
+---------
+
+> 1969:
+-what're you doing with that 2KB of RAM?
+-sending people to the moon
+2017:
+-what're you doing with that 1.5GB of RAM?
+-running Slack
+
+*I Am Devloper*
 
 -------
 
