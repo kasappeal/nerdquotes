@@ -237,6 +237,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Bender*
 
+---------
+
+>Live life, don't let life live You!
+
+*Kace*
+
 -------
 
 > "Padre, lo de wikileaks", le dice la hija al padre.
