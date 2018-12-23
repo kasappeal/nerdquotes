@@ -274,7 +274,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->No me vas a creer, porque casi nunca pasa, pero cometí un error.
+> Sometimes life hits you in the head with a brick. Don't lose faith.
+
+*Steve Jobs*
+
+-------
+
+> No me vas a creer, porque casi nunca pasa, pero cometí un error.
 
 *Rick*
 
