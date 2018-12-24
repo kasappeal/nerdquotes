@@ -290,6 +290,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> They’re just robots, Morty! It’s OK to shoot them! They’re robots!
+
+*Rick Sanchez*
+
+--------
+
 >El espacio... parece extenderse sin límites. Hasta que llegas al final y aparece un mono lanzándote barriles.
 
 *Fry*
