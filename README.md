@@ -187,6 +187,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Seymore Cray*, sobre la memoria virtual
 
 -------
+La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
+
+------
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
 
