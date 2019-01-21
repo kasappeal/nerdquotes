@@ -200,6 +200,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No se puede requetefinalizar un refinal
+*Lloyd*
+
+-------
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
