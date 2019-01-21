@@ -204,6 +204,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Lloyd*
 
 -------
+
+> MS-DOS loading... Please insert disk 2.
+
+*Felix Pacheco*
+
+-------
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
