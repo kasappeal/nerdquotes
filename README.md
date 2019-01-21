@@ -23,7 +23,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > Bienaventurados los pesimistas por que ellos hacen backups
 
-*Anonimus homosapiens
+*Anonimus homosapiens*
 
 -------
 
@@ -33,7 +33,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Try Not, Do,  or do not… there is no try.
+> Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
 
@@ -62,18 +62,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-
 > Sólo hay 10 tipos de personas, las que saben programar y las que no.
 
 *Super Sayan Over9000*
+
 -------
 
 > No reírse de nada es de tontos, reírse de todo es de estúpidos
 
 *Groucho marx*
-
-
-
 
 -------
 
@@ -111,11 +108,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Groucho marx by fpayan*
 
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
 
-------
+-------
 
 > Ojalá hicieran lavadoras con Windows como sistema operativo para que la ropa se colgase sola.
 
@@ -134,13 +133,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Matt Groening*
 
 -------
->"Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
+
+> "Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
 
 *Jeremy S. Anderson*
 
 -------
 
-**-->>El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
+> El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
 
@@ -152,7 +152,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Big Brother is watching you.
+> Big Brother is watching you.
 
 *George Orwell*
 
@@ -176,13 +176,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-
-
--------
-
 > A film of my life would never happen!
 
 *Malorie Blackman*
+
+-------
 
 > La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
 
@@ -190,11 +188,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
+
+*Sheldon Cooper*
+
+-------
+
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
 
-------
+-------
+
 > No se puede requetefinalizar un refinal
 *Lloyd*
 
@@ -223,7 +228,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Para empezar presionar cualquier tecla ¿Dónde está la tecla “cualquier”?
+> Para empezar presionar cualquier tecla ¿Dónde está la tecla “cualquier”?
 
 *Homer Simpson*
 
@@ -287,6 +292,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Ignatius Farray*
 
 -------
+
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
  
 *Lisa Simpson*
@@ -299,7 +305,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
->El espacio... parece extenderse sin límites. Hasta que llegas al final y aparece un mono lanzándote barriles.
+> El espacio... parece extenderse sin límites. Hasta que llegas al final y aparece un mono lanzándote barriles.
 
 *Fry*
 
@@ -329,8 +335,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, 
-> y dejan que el resto del mundo las copie.
+> Los hombres de verdad no hacen copias de seguridad. Publican las cosas en servidores *FTP* públicos, y dejan que el resto del mundo las copie.
 
 *Linus Torvald*
 
@@ -447,11 +452,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Always code as if the guy who ends up maintaining your code will be a violent psychopath who knows where you live.
 
 *John F. Woods*
+
 -------
 
 > Alberto, nunca entenderé a las mujeres... Mi novia me mandó a la compra y me dijo: "Trae 6 huevos y si hay patatas, trae 9". Había patatas, pero se cabreó conmigo cuando vine solo con 9 huevos.
 
 *Fulljoke Developer*
+
 -------
 
 > Luke, I am your father.
@@ -583,11 +590,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Son Goku*
 
 -------
--------
 
 > Mostly, nothing's really changed. I'm still the dorky nerd that I always was
 
 *Beverly mitchell*
+
+-------
 
 > Ok, ahora al plan C, sea lo que sea.
 
@@ -598,7 +606,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Nerds are far more interesting human in later life.
 
 *Mari Maroon*
+
 -------
+
 > –¡Cuenta con mi espada! –¡Cuenta con mi arco! –¡Cuenta con mi hacha! –¡CUENTA NARANJA! –No, Ing Direct, tú no vienes.
 
 *Gandalf El Gris*
@@ -764,7 +774,6 @@ sino por ese tesoro
 >Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
-
 
 -------
 
@@ -939,22 +948,25 @@ sino por ese tesoro
 
 *Richard Stallman*
 
-------
+-------
 
 > Better to be a nerd than one of the herd!
 
 *Mandy Hale*
 
-------
+-------
 
 > Hombre que poder cazar mosca con palillos consigue lo que quiere.
 
 *Sr. Miyagi*
 
 -------
+
 > El git me la ha liao'.
 
 *IronCrack Student*
+
+-------
 
 > Soy ateo, gracias a Dios.
 
@@ -1130,7 +1142,7 @@ sino por ese tesoro
 
 -------
 
->¡Stephen Hawking!, ¿No fue usted el que inventó la gravedad?
+> ¡Stephen Hawking!, ¿No fue usted el que inventó la gravedad?
 
 *Philip J. Fry*
 
@@ -1154,13 +1166,13 @@ sino por ese tesoro
 
 ------
 
->Si ya saben como programo..., **¿Para qué me invitaaan!?**
+> Si ya saben como programo..., **¿Para qué me invitaaan!?**
 
 *the sleepless*
 
 ------
 
->A quien madruga una taza de Java le ayuda!
+> A quien madruga una taza de Java le ayuda!
 
 *Nesspreso*
 
@@ -1216,7 +1228,7 @@ sino por ese tesoro
 
 -------
 
->Penny, todo es mejor con bluetooth.
+> Penny, todo es mejor con bluetooth.
 
 *Sheldon Cooper*
 
@@ -1400,9 +1412,9 @@ Segmentation fault [core dumped]
 
 ----------
 
-> *Un Repo para gobernarlos a todos, un CheckOut para encontrarlos, un Reset Hard para atraerlos a todos y atarlos en las Tinieblas.*
+> "Un Repo para gobernarlos a todos, un CheckOut para encontrarlos, un Reset Hard para atraerlos a todos y atarlos en las Tinieblas."
 
-**Daniel Rodríguez**
+*Daniel Rodríguez*
 
 -------
 
@@ -1442,19 +1454,19 @@ Segmentation fault [core dumped]
 
 -------
 
->Without requirements or design, programming is the art of adding bugs to an empty text file. 
+> Without requirements or design, programming is the art of adding bugs to an empty text file. 
 
 *Louis Srygley*
 
 -------
 
->I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
+> I think if I did do something in another genre, it would be science fiction; I'm a big sci fi nerd.
 
 *Elena Nito Del Bosque*
 
 -------
 
->Real Programmers always confuse Christmas and Halloween because Oct31 == Dec25.
+> Real Programmers always confuse Christmas and Halloween because Oct31 == Dec25.
 
 *Brad Pyth-on*
 
@@ -1466,13 +1478,13 @@ Segmentation fault [core dumped]
 
 -------
 
->“Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+> “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
 
 *Martin Fowler*
 
 -------
 
->“All the geniuses and greats are really just nerds with experience.”
+> “All the geniuses and greats are really just nerds with experience.”
  
 *A.D. Posey*
 
@@ -1490,7 +1502,7 @@ Segmentation fault [core dumped]
 
 -------
 
->School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
+> School can teach the theory of computer programming. But school does not, and cannot teach the discipline, practice, and skill of being a craftsman. Those things are acquired through years of personal tutelage and mentoring.
 
 *Robert C. Martin (aka Uncle Bob)*
 
@@ -1502,37 +1514,37 @@ Segmentation fault [core dumped]
 
 -------
 
->Los informaticos frikis también somos de **Oliver & Benji**
+> Los informaticos frikis también somos de **Oliver & Benji**
 
 *Luis Aparicio*
 
 -------
 
->I loved school. I studied like crazy. I was a Class A nerd.
+> I loved school. I studied like crazy. I was a Class A nerd.
 
 *Maya Lin*
 
 -------
 
->Quem é amigo de todo mundo é amigo de ninguém.
+> Quem é amigo de todo mundo é amigo de ninguém.
 
 *Anonimo*
 
 -------
 
->Sa matao paco!
+> Sa matao paco!
 
 *APM Fan*
 
 -------
--------
 
->Bienvenido a mi casa, entre libremente, salga sin novedad, y deje un poco de la felicidad que trae consigo.
+> Bienvenido a mi casa, entre libremente, salga sin novedad, y deje un poco de la felicidad que trae consigo.
 
 *Drácula*
 
 -------
->La física es el sistema operativo del Universo
+
+> La física es el sistema operativo del Universo
 
 *Cinstein*
 
@@ -1556,7 +1568,7 @@ Segmentation fault [core dumped]
 
 ------
 
-> Dios es real, a menos que se declare como entero
+> Dios es real, a menos que se declare como entero.
 
 *Oido por ahí*
 
@@ -1611,7 +1623,6 @@ Segmentation fault [core dumped]
 > Si sacrificamos nuestro código, incluso por la victoria, podemos perder lo que es más importante, nuestro honor.
 
 *Obi-Wan*
-
 
 -------
 
@@ -1713,7 +1724,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->  “Be nice to nerds. You may end up working for them. We all could.”
+> “Be nice to nerds. You may end up working for them. We all could.”
 
 *Charles J. Sykes*
 
@@ -1832,7 +1843,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->Duplication is the primary enemy of a well-designed system.
+> Duplication is the primary enemy of a well-designed system.
 
 *Robert C. Martin (aka Uncle Bob)*
 
@@ -1856,7 +1867,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->  I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous.
+> I use them for smuggling. I never thought I'd be smuggling myself in them. This is ridiculous.
 
 *Han Solo*
 
@@ -1868,7 +1879,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->En el día más brillante, en la noche más oscura, ningún mal escapará de mi vista. Que aquéllos que adoran el poder del mal. teman mi poder: La luz de linterna verde
+> En el día más brillante, en la noche más oscura, ningún mal escapará de mi vista. Que aquéllos que adoran el poder del mal. teman mi poder: La luz de linterna verde
 
 *Green Lanterns*
 
@@ -1904,7 +1915,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->I'm such a geek, and have always been a real nerd.
+> I'm such a geek, and have always been a real nerd.
 
 *Aisha Tyler*
 
@@ -1971,7 +1982,7 @@ But I'm not gonna lie down until I get there.
 
 -------
 
->La autoperfección es simple masturbación.
+> La autoperfección es simple masturbación.
 
 *Tyler Durden*
 
@@ -2097,7 +2108,7 @@ But I'm not gonna lie down until I get there.
 
 -------
 
->No cuentes 10 cosas que vayas a hacer, cuenta una que hayas echo bien. 
+> No cuentes 10 cosas que vayas a hacer, cuenta una que hayas echo bien. 
 
 *Joaquin Jimenez WEB V*
 
@@ -2109,7 +2120,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
->Si la vida te da limones. Haz Limonada y Planta Limoneros.
+> Si la vida te da limones. Haz Limonada y Planta Limoneros.
 
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
