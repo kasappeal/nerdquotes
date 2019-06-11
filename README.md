@@ -1295,6 +1295,11 @@ Segmentation fault [core dumped]
 
 -------
 
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+*A web designer*
+-------
+
 > *Strength* does not come from winning. Your struggles develop your *strengths*. When you go through hardships and decide not to surrender, that is *strength*.
 
 *Arnaldo Chuacheneguer*
