@@ -200,7 +200,11 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
+------
 
+> ¡¡Noo pueedees pasaaar!!
+
+*Gandalf el Gris
 -------
 
 > No se puede requetefinalizar un refinal
