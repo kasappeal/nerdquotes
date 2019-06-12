@@ -191,7 +191,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
-> Un Git es el orden del caos, siempre encontrarás algún commit de aquello que parecía perdido.
+> Git es el orden del caos, siempre encontrarás algún commit de aquello que parecía perdido.
 
 *Man For*
 
