@@ -189,6 +189,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
+-------
+
+> Un Git es el orden del caos, siempre encontrarás algún commit de aquello que parecía perdido.
+
+*Man For*
+
 ------
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
