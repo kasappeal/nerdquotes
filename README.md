@@ -1301,6 +1301,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> A nerd will be a nerd all his life.
+
+*John Hughes*
+
+-------
+
 > "La capacidad de hablar no te hace inteligente"
 
 *Qui Gon Jinn*
