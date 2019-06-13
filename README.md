@@ -219,6 +219,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Un proyecto de miles de commits, empieza con un simple commit.
+
+*Lao Git*
+
+-------
+
 > Serpientes, ¿por qué tenían que ser serpientes?
 
 *Indiana Jones*
