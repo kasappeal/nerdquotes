@@ -182,6 +182,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¡Besa mi brillante culo metálico!
+
+*Bender Rodríguez* from Futurama
+
+-------
+
 > La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
 
 *Seymore Cray*, sobre la memoria virtual
