@@ -213,6 +213,11 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Felix Pacheco*
 
 -------
+> Programa siempre como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives.
+
+*Martin Golding*
+
+-------
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
