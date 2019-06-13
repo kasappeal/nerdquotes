@@ -208,6 +208,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> A nerd can call another nerd a nerd.
+
+*Travis Scott*
+
+-------
+
 > MS-DOS loading... Please insert disk 2.
 
 *Felix Pacheco*
