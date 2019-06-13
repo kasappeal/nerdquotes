@@ -225,6 +225,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
+
+*Jessica Pare*
+
+-------
+
 > El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
  
 *Sr. Justo Emproblemas*
