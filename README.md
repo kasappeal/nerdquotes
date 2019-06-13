@@ -219,6 +219,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> El aliento de mi gato huele a comida de gato.
+
+*Ralph Wiggum*
+
+-------
+
 > Serpientes, ¿por qué tenían que ser serpientes?
 
 *Indiana Jones*
