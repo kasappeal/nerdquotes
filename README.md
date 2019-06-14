@@ -33,6 +33,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
+
+*Petter Griffin*
+
+-------
+
 > Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
