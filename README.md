@@ -1127,6 +1127,12 @@ sino por ese tesoro
 
 -------
 
+> Bite my shiny metal ass!
+
+*Bender Rodríguez* from Futurama
+
+-------
+
 > Si pudieras patear el trasero al responsable de casi todos tus problemas, no podrías sentarte en un mes.
 
 *Theodore Roosevelt*
