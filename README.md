@@ -207,7 +207,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Lloyd*
 
 -------
+>Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo. 
+Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador? 
+La Esperanza.
+*"The Sandman" (1989) - Neil Gaiman*
 
+-------
 > MS-DOS loading... Please insert disk 2.
 
 *Felix Pacheco*
