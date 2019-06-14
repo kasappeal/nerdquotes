@@ -208,6 +208,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+>Carreteras!? Adonde vamos no necesitamos carreteras.
+
+*Dr Emmet L.Brown*
+
+-------
+
 > MS-DOS loading... Please insert disk 2.
 
 *Felix Pacheco*
