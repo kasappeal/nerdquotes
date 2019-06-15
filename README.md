@@ -208,6 +208,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Runnig to the future ...
+
+*Yo mismo*
+
+-------
+
 > MS-DOS loading... Please insert disk 2.
 
 *Felix Pacheco*
