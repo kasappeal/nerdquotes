@@ -1273,6 +1273,12 @@ sino por ese tesoro
 
 -------
 
+> No nos toca a nosotros decidir qué historias de usuario programar, sólo podemos elegir qué MVP desarrollar con la metodología SCRUM que se nos ha dado.
+
+*Gandalf el #888*
+
+-------
+
 >**Swift** is comming
 
 *John Swift*
