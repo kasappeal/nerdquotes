@@ -1279,6 +1279,12 @@ sino por ese tesoro
 
 -------
 
+> El fracaso es aquí una opción. Si las cosas no fallan es que no estás innovando lo suficiente.
+
+*Elon Musk*
+
+-------
+
 > “No me voy porque no pueda matarte, me voy porque soy capaz.”
 
 *Lara Croft*
