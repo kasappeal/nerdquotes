@@ -2140,3 +2140,6 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
+> Cuando un tonto sigue un camino y el camino se acaba, el tonto sigue...
+*(Anónimo)*
