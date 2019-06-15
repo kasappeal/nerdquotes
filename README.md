@@ -225,6 +225,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Las personas olvidarán lo que dijiste y lo que hiciste, pero nunca olvidarán cómo las hiciste sentir
+
+*Jorge Martín*
+
+-------
+
 > El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
  
 *Sr. Justo Emproblemas*
