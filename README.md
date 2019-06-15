@@ -218,7 +218,11 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Richard Hendricks, Sillicon Valley*
 
 -------
+> Cuando un tonto sigue un camino y el camino se acaba, el tonto sigue...
 
+*(Anónimo)*
+
+-------
 > Serpientes, ¿por qué tenían que ser serpientes?
 
 *Indiana Jones*
@@ -2141,5 +2145,3 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> Cuando un tonto sigue un camino y el camino se acaba, el tonto sigue...
-*(Anónimo)*
