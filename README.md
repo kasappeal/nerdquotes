@@ -189,6 +189,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
+-------
+
+> Solo existen 10 tipos de personas, las que saben binario y las que no.
+
+*Blogger de Niro*
+
 ------
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
