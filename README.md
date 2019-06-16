@@ -219,6 +219,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> El código es como un jardín, debes regarlo y mantenerlo todos los días, para que siempre este verde. Es decir debes nunca debes dejar de manter tu código si quieres que este actualizado y sin errores.
+
+*JF. Vega
+
+-------
+
 > Serpientes, ¿por qué tenían que ser serpientes?
 
 *Indiana Jones*
