@@ -225,6 +225,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> I have a dream.
+
+*Martin Luther King*
+
+-------
+
 > El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
  
 *Sr. Justo Emproblemas*
