@@ -189,6 +189,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------------------
 > Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
+
 *Dean Kamen*	
 
 -------
