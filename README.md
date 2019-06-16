@@ -1301,6 +1301,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "La rata simboliza lo que es obvio."
+
+*Ralph Wiggum*
+
+-------
+
 > "La capacidad de hablar no te hace inteligente"
 
 *Qui Gon Jinn*
