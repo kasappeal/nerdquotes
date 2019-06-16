@@ -200,7 +200,11 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
+-------
 
+ > Primero resuelve el problema, despues escribe el código.
+
+ *John Johnson* *Jorge Vizuete*
 -------
 
 > No se puede requetefinalizar un refinal
