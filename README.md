@@ -225,6 +225,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Quien a buen repo se arrima, buenos branches le cobijan
+
+*Pepales*
+
+-------
+
 > El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
  
 *Sr. Justo Emproblemas*
