@@ -197,6 +197,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Que la fuerza te acompañe
+
+*Jorge RUiz Martinez*
+
+---------
+
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
@@ -2140,3 +2146,5 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
+
