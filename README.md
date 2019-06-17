@@ -33,6 +33,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>heramos pocos y pario la abuela.
+
+*Alejandro S.*
+
+--------
+
 > Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
