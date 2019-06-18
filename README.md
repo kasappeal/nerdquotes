@@ -203,6 +203,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
+
+*Carlos Jáuregui*
+
+-------
+
 > No se puede requetefinalizar un refinal
 *Lloyd*
 
