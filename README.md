@@ -221,6 +221,14 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+>Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo. 
+Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador? 
+La Esperanza.
+
+*"The Sandman" (1989) - Neil Gaiman*
+
+-------
+
 > He privatizado exitosamente la paz mundial.
 
 *Tony Stark - Iron Man*
