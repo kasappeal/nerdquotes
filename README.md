@@ -219,6 +219,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Felix Pacheco*
 
 -------
+
+> Siempre con los ganadores, no se equivoque.
+
+*Miguel Gutierrez Díaz*
+
+-------
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
