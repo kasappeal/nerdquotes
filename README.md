@@ -33,6 +33,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
+
+*Petter Griffin*
+
+-------
+
 > Nunca confíes en un ordenador que no puedas lanzar por la ventana.
 
 *Steve Wosniak*
