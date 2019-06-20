@@ -1,4 +1,4 @@
-# nerdquotes
+﻿# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
@@ -30,6 +30,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
+
+-------
+
+> Nunca confíes en un ordenador que no puedas lanzar por la ventana.
+
+*Steve Wosniak*
 
 -------
 
@@ -213,12 +219,22 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Felix Pacheco*
 
 -------
+
+> Siempre con los ganadores, no se equivoque.
+
+*Miguel Gutierrez Díaz*
+
+-------
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
 
 -------
+> Cuando un tonto sigue un camino y el camino se acaba, el tonto sigue...
 
+*(Anónimo)*
+
+-------
 > Serpientes, ¿por qué tenían que ser serpientes?
 
 *Indiana Jones*
@@ -1037,6 +1053,12 @@ sino por ese tesoro
 
 -------
 
+>Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
+
+*Arwen Skywalker*
+
+-------
+
 > Entré en una discoteca, soy timido y me asusté, **pibitas** que con quince años y los chavales también, hablaban de cosas raras de lo cual no me enteré, les diré lo que decían les diré lo que decían por si saben lo que es...
 
 **La mandanga**, *El Fary*
@@ -1304,6 +1326,12 @@ Segmentation fault [core dumped]
 > "La rata simboliza lo que es obvio."
 
 *Ralph Wiggum*
+
+-------
+
+> A nerd will be a nerd all his life.
+
+*John Hughes*
 
 -------
 
@@ -2146,3 +2174,4 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
