@@ -234,6 +234,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> El miedo es el camino hacia el Lado Oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento. Veo mucho miedo en ti.
+
+*Maestro Yoda*
+
+-------
+
 > ¿Porque un murcielago? Porque me dan miedo... mis enemigos, compartiran mi miedo.
 
 *Bruce Wayne*
