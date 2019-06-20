@@ -223,6 +223,11 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > El hardware es lo que puedes patear, y el software, lo que puedes maldecir.
 
 *Jacobo Morales*
+-------
+
+> Come to the dart side
+
+*David Benitez*
 
 -------
 
