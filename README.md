@@ -234,6 +234,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> ¿Porque un murcielago? Porque me dan miedo... mis enemigos, compartiran mi miedo.
+
+*Bruce Wayne*
+
+-------
+
 > No se puede requetefinalizar un refinal
 
 *Lloyd*
