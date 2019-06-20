@@ -1323,6 +1323,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "La rata simboliza lo que es obvio."
+
+*Ralph Wiggum*
+
+-------
+
 > A nerd will be a nerd all his life.
 
 *John Hughes*
