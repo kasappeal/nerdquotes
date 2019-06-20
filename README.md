@@ -245,6 +245,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Programa siempre como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives.
+
+*Martin Golding*
+
+-------
+
 > Siempre con los ganadores, no se equivoque.
 
 *Miguel Gutierrez Díaz*
