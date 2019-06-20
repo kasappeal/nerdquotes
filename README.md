@@ -277,6 +277,12 @@ La Esperanza.
 
 -------
 
+> El aliento de mi gato huele a comida de gato.
+
+*Ralph Wiggum*
+
+-------
+
 > Un proyecto de miles de commits, empieza con un simple commit.
 
 *Lao Git*
