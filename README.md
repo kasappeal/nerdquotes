@@ -290,6 +290,12 @@ La Esperanza.
 
 -------
 
+> El código es como un jardín, debes regarlo y mantenerlo todos los días, para que siempre este verde. Es decir debes nunca debes dejar de manter tu código si quieres que este actualizado y sin errores.
+
+*JF. Vega
+
+-------
+
 > El aliento de mi gato huele a comida de gato.
 
 *Ralph Wiggum*
