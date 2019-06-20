@@ -257,6 +257,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Un proyecto de miles de commits, empieza con un simple commit.
+
+*Lao Git*
+
+-------
+
 > Cuando un tonto sigue un camino y el camino se acaba, el tonto sigue...
 
 *(Anónimo)*
