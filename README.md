@@ -231,7 +231,11 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
+-------
 
+ > Primero resuelve el problema, despues escribe el código.
+
+ *John Johnson* *Jorge Vizuete*
 -------
 
 > El miedo es el camino hacia el Lado Oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento. Veo mucho miedo en ti.
