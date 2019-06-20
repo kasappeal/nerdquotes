@@ -1371,6 +1371,12 @@ sino por ese tesoro
 
 ------
 
+> Los programadores del mañana son los **magos** del futuro.
+
+*Gabe Newell*
+
+------
+
 > A quien madruga una taza de Java le ayuda!
 
 *Nesspreso*
