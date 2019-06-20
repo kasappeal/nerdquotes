@@ -1505,6 +1505,12 @@ Segmentation fault [core dumped]
 
 *Gitcartes*
 
+-------
+
+> "Empty your memory, with a free()… like a pointer! If you cast a pointer to an integer, it becomes the integer, if you cast a pointer to a struct, it becomes the struct… The pointer can crash…, and can Overflow… Be a pointer my friend…"
+
+*Isma Lee. Alumno WEB VII* 
+
 ----------
 
 > "Un Repo para gobernarlos a todos, un CheckOut para encontrarlos, un Reset Hard para atraerlos a todos y atarlos en las Tinieblas."
