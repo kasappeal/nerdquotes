@@ -193,7 +193,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Seymore Cray*, sobre la memoria virtual
 
 -------
+
 La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
+
+-------
+
+> Git es el orden del caos, siempre encontrarás algún commit de aquello que parecía perdido.
+
+*Man For*
 
 -------
 
