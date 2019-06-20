@@ -314,6 +314,12 @@ La Esperanza.
 
 -------
 
+> Las personas olvidarán lo que dijiste y lo que hiciste, pero nunca olvidarán cómo las hiciste sentir
+
+*Jorge Martín*
+
+-------
+
 > Quien a buen repo se arrima, buenos branches le cobijan
 
 *Pepales*
