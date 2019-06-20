@@ -221,6 +221,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> He privatizado exitosamente la paz mundial.
+
+*Tony Stark - Iron Man*
+
+-------
+
 > A nerd can call another nerd a nerd.
 
 *Travis Scott*
