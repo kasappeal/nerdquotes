@@ -1,4 +1,4 @@
-# nerdquotes
+﻿# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
@@ -30,6 +30,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
+
+-------
+
+> "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
+
+*Petter Griffin*
+
+-------
+
+> Nunca confíes en un ordenador que no puedas lanzar por la ventana.
+
+*Steve Wosniak*
 
 -------
 
@@ -182,12 +194,31 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> En el mundo hay tres clases de personas: las que saben contar y las que no.
+
+*Homer Simpson*
+
+-------
+
 > La memoria es como un orgasmo: es mucho mejor cuando no tienes que simularla.
 
 *Seymore Cray*, sobre la memoria virtual
 
 -------
+
 La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
+
+-------
+
+> Git es el orden del caos, siempre encontrarás algún commit de aquello que parecía perdido.
+
+*Man For*
+
+-------
+
+> Solo existen 10 tipos de personas, las que saben binario y las que no.
+
+*Blogger de Niro*
 
 ------
 
@@ -204,6 +235,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 -------
 
 > No se puede requetefinalizar un refinal
+
 *Lloyd*
 
 -------
@@ -214,14 +246,89 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+>Carreteras!? Adonde vamos no necesitamos carreteras.
+
+*Dr Emmet L.Brown*
+
+-------
+
+>Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo. 
+Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador? 
+La Esperanza.
+
+*"The Sandman" (1989) - Neil Gaiman*
+
+-------
+
+> He privatizado exitosamente la paz mundial.
+
+*Tony Stark - Iron Man*
+
+-------
+
+> A nerd can call another nerd a nerd.
+
+*Travis Scott*
+
+-------
+
+> El hardware es lo que puedes patear, y el software, lo que puedes maldecir.
+
+*Jacobo Morales*
+
+-------
+
+> Come to the dart side
+
+*David Benitez*
+
+-------
+
 > MS-DOS loading... Please insert disk 2.
 
 *Felix Pacheco*
 
 -------
+
+> Programa siempre como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives.
+
+*Martin Golding*
+
+-------
+
+> Siempre con los ganadores, no se equivoque.
+
+*Miguel Gutierrez Díaz*
+
+-------
+
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
+
+-------
+
+> El código es como un jardín, debes regarlo y mantenerlo todos los días, para que siempre este verde. Es decir debes nunca debes dejar de manter tu código si quieres que este actualizado y sin errores.
+
+*JF. Vega
+
+-------
+
+> El aliento de mi gato huele a comida de gato.
+
+*Ralph Wiggum*
+
+-------
+
+> Un proyecto de miles de commits, empieza con un simple commit.
+
+*Lao Git*
+
+-------
+
+> Cuando un tonto sigue un camino y el camino se acaba, el tonto sigue...
+
+*(Anónimo)*
 
 -------
 
@@ -231,9 +338,45 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Las personas olvidarán lo que dijiste y lo que hiciste, pero nunca olvidarán cómo las hiciste sentir
+
+*Jorge Martín*
+
+-------
+
+> Quien a buen repo se arrima, buenos branches le cobijan
+
+*Pepales*
+
+-------
+
+> I have a dream.
+
+*Martin Luther King*
+
+-------
+
+> I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
+
+*Jessica Pare*
+
+-------
+
+> ¿Quieres saber la diferencia entre un maestro y un aprendiz? El maestro ha fallado más veces de las que el principiante lo ha intentado.
+
+*Yoda*
+
+-------
+
 > El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
  
 *Sr. Justo Emproblemas*
+
+-------
+
+> Moo'. Are you happy now?
+ 
+*Tauren male*
 
 ------
 
@@ -1043,6 +1186,12 @@ sino por ese tesoro
 
 -------
 
+>Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
+
+*Arwen Skywalker*
+
+-------
+
 > Entré en una discoteca, soy timido y me asusté, **pibitas** que con quince años y los chavales también, hablaban de cosas raras de lo cual no me enteré, les diré lo que decían les diré lo que decían por si saben lo que es...
 
 **La mandanga**, *El Fary*
@@ -1279,6 +1428,12 @@ sino por ese tesoro
 
 -------
 
+> No nos toca a nosotros decidir qué historias de usuario programar, sólo podemos elegir qué MVP desarrollar con la metodología SCRUM que se nos ha dado.
+
+*Gandalf el #888*
+
+-------
+
 >**Swift** is comming
 
 *John Swift*
@@ -1301,9 +1456,26 @@ Segmentation fault [core dumped]
 
 -------
 
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+
+*A web designer*
+-------
+
 > *Strength* does not come from winning. Your struggles develop your *strengths*. When you go through hardships and decide not to surrender, that is *strength*.
 
 *Arnaldo Chuacheneguer*
+
+-------
+
+> "La rata simboliza lo que es obvio."
+
+*Ralph Wiggum*
+
+-------
+
+> A nerd will be a nerd all his life.
+
+*John Hughes*
 
 -------
 
@@ -1430,6 +1602,12 @@ Segmentation fault [core dumped]
 > "Primero mergeo, luego commiteo"
 
 *Gitcartes*
+
+-------
+
+> "Empty your memory, with a free()… like a pointer! If you cast a pointer to an integer, it becomes the integer, if you cast a pointer to a struct, it becomes the struct… The pointer can crash…, and can Overflow… Be a pointer my friend…"
+
+*Isma Lee. Alumno WEB VII* 
 
 ----------
 
@@ -2146,3 +2324,4 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
