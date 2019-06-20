@@ -1,4 +1,4 @@
-# nerdquotes
+﻿# nerdquotes
 A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
@@ -1038,6 +1038,12 @@ sino por ese tesoro
 > Ni commit ni comat, o limpias tu habitación ya o veras lo que es un commit.
 
 *La madre de cualquier friki con la cara llena de granos*
+
+-------
+
+>Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
+
+*Arwen Skywalker*
 
 -------
 
