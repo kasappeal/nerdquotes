@@ -216,24 +216,26 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 -------
 
 > No se puede requetefinalizar un refinal
+
 *Lloyd*
+
+-------
+
+> A nerd can call another nerd a nerd.
+
+*Travis Scott*
 
 -------
 
 > El hardware es lo que puedes patear, y el software, lo que puedes maldecir.
 
 *Jacobo Morales*
+
 -------
 
 > Come to the dart side
 
 *David Benitez*
-
--------
-
-> El hardware es lo que puedes patear, y el software, lo que puedes maldecir.
-
-*Jacobo Morales*
 
 -------
 
@@ -248,16 +250,19 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Miguel Gutierrez Díaz*
 
 -------
+
 > I am having nightmares that I forgot to back-up my systems.
 
 *Richard Hendricks, Sillicon Valley*
 
 -------
+
 > Cuando un tonto sigue un camino y el camino se acaba, el tonto sigue...
 
 *(Anónimo)*
 
 -------
+
 > Serpientes, ¿por qué tenían que ser serpientes?
 
 *Indiana Jones*
