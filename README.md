@@ -275,6 +275,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
+
+*Jessica Pare*
+
+-------
+
 > ¿Quieres saber la diferencia entre un maestro y un aprendiz? El maestro ha fallado más veces de las que el principiante lo ha intentado.
 
 *Yoda*
