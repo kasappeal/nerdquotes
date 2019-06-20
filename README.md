@@ -354,6 +354,12 @@ La Esperanza.
  
 *Sr. Justo Emproblemas*
 
+-------
+
+> Moo'. Are you happy now?
+ 
+*Tauren male*
+
 ------
 
 > To err is human, but to really foul things up you need a computer. 
