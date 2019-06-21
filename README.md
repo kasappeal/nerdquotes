@@ -1129,7 +1129,7 @@ sino por ese tesoro
 
 > Bite my shiny metal ass!
 
-*Bender Rodríguez* from Futurama
+*Bender Rodríguez* from Futurama.
 
 -------
 
