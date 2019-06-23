@@ -1279,6 +1279,12 @@ sino por ese tesoro
 
 -------
 
+> “Las cosas no se hacen siguiendo caminos distintos para que no sean iguales, sino para que sean mejores".
+
+*Elon Musk*
+
+-------
+
 > “No me voy porque no pueda matarte, me voy porque soy capaz.”
 
 *Lara Croft*
