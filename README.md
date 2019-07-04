@@ -1,3 +1,4 @@
+
 # nerdquotes
 
 A nerd quotes's repository to have fun and learn git flows with Github!
@@ -547,6 +548,12 @@ La Esperanza.
 > If my calculations are correct, when this baby hits eighty-eight miles per hour... you're gonna see some serious shit.
 
 *Dr. Emmett Brown*
+
+-------
+
+> Be nice to nerds, you might end up working for them.
+
+*Charles J. Sykes*
 
 -------
 
