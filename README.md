@@ -202,6 +202,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Life is 10% what happens to you and 90% how you react to it.
+
+*Charles R. Swindoll*
+
+-------
+
 > En el mundo hay tres clases de personas: las que saben contar y las que no.
 
 *Homer Simpson*
