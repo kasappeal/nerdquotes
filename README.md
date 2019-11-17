@@ -527,6 +527,12 @@ La Esperanza.
 
 -------
 
+> When you're dealing with **serious _subjects_**, there is a pressure to be ~~absolutely~~ sure that you **know what you're _doing_**.
+
+*John Oliver*
+
+-------
+
 > They’re just robots, Morty! It’s OK to shoot them! They’re robots!
 
 *Rick Sanchez*
