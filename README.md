@@ -491,6 +491,12 @@ La Esperanza.
 
 -------
 
+> Mec Mec! 
+
+*El correcaminos*
+
+-------
+
 > Hasta la vista, baby.
 
 *Terminator*
