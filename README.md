@@ -97,7 +97,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > ¿Qué es lo mejor de la vida?
  Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
  
- *Conan el Bárbaro
+ *Conan el Bárbaro*
 
 -------
 
