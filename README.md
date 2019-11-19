@@ -128,6 +128,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Groucho marx by fpayan*
 
+------
+
+> Son los geeks los que quieren que haga commit el admin, y es el admin el que quiere que los pull request de los geeks hagan commit en el repo del admin.
+
+*Geekiano Rajoy*
+
 -------
 
 > Se te entiende menos que una psicofonía de Chewbacca.
