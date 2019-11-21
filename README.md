@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si queremos conquistar las estrellas debemos hacernos un merge con las maquinas.
+
+*Dios Quantico*
+
+-------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
