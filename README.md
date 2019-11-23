@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No dejes que el ruido de los commits ajenos apaguen tu rama master.
+
+*Steve Flows*
+
+-------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
