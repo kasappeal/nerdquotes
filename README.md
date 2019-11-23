@@ -527,6 +527,12 @@ La Esperanza.
 
 -------
 
+> ¿Sabías que lo que hay encima de la Ñ se llama virgulilla?
+
+*Yo, ligando tras hacer el curso de git.
+
+-------
+
 > They’re just robots, Morty! It’s OK to shoot them! They’re robots!
 
 *Rick Sanchez*
