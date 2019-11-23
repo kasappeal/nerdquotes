@@ -467,6 +467,12 @@ La Esperanza.
 *Sergio Suárez*
 
 -------
+
+> Una práctica nunca llega tarde, ni pronto: llega exactamente cuando te lo propones.
+
+*Gandalf - WhiteStyle*
+
+-------
   
 > Me sorprende la cantidad de gente que se llama sdfsdf.  
 
