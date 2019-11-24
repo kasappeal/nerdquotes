@@ -2415,6 +2415,6 @@ But I'm not gonna lie down until I get there.
 
 > Sanity was statistical. It was merely a question of learning to think as they thought.
 
-*George Orwell, 1984 - Maryery Vargas*
+*George Orwell, 1984 - Maryery Vargas Moreno*
 
 ---------
