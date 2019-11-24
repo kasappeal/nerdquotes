@@ -575,6 +575,12 @@ La Esperanza.
 
 -------
 
+> I am a geek nerd who happened to have a temporary period of jockiness.
+
+*Cory Booker*
+
+-------
+
 > I've got a bugs, and the only cure is more coffee.
 
 *Codeyonetta*
