@@ -85,6 +85,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Sólo hay 10 tipos de personas, las que saben programar y las que no.
 
 *Super Sayan Over9000*
+-------------------------------------
+
+>Tecla a tecla, camina  y vencerás.
+*Pam Martinez*
 
 -------
 
