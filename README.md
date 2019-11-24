@@ -2412,3 +2412,9 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
+> Sanity was statistical. It was merely a question of learning to think as they thought.
+
+*George Orwell, 1984 - Maryery Vargas*
+
+---------
