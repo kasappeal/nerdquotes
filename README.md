@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Sanity was statistical. It was merely a question of learning to think as they thought.
+
+*George Orwell*
+
+---------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
@@ -2410,11 +2416,5 @@ But I'm not gonna lie down until I get there.
 > Si la vida te da limones. Haz Limonada y Planta Limoneros.
 
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
-
----------
-
-> Sanity was statistical. It was merely a question of learning to think as they thought.
-
-*George Orwell, 1984 - Maryery Vargas Moreno*
 
 ---------
