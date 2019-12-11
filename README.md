@@ -94,6 +94,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> En el amor siempre hay algo de locura, mas en la locura siempre hay algo de razón.
+
+*Friedrich Nietzsche*
+
+-------
+
 > No lo intentes. Hazlo o no lo hagas, pero no lo intentes
 
 *Maestro Yoda*
