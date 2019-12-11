@@ -152,6 +152,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ray, if someone asks you if you're a god, you say YES!
+
+*Winston, Ghostbuster*
+
+-------
+
 > Have you ever sowed the field, Lady Olenna? Have you ever reaped the grain? Has anyone in House Tyrell? A lifetime of wealth and power has left you blind in one eye. You are the few, we are the many. And when the many stop fearing the few...
 
 *Game of Thrones, The Gift*
