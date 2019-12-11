@@ -94,6 +94,25 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Qué es lo mejor de la vida?
+ Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
+ 
+ *Conan el Bárbaro*
+
+-------
+
+> En el amor siempre hay algo de locura, mas en la locura siempre hay algo de razón.
+
+*Friedrich Nietzsche*
+
+-------
+
+> No lo intentes. Hazlo o no lo hagas, pero no lo intentes
+
+*Maestro Yoda*
+
+--------
+
 > Already know you that which you need.
 
 *Master Yoda*
@@ -105,6 +124,23 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *George Orwell*
 
 ---------
+> No dejes que el ruido de los commits ajenos apaguen tu rama master.
+
+*Steve Flows*
+
+-------
+
+> Si queremos conquistar las estrellas debemos hacernos un merge con las maquinas.
+
+*Dios Quantico*
+
+-------
+
+> Path: La primera a la derecha y luego todo recto
+
+*A.V*
+
+-------
 
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
@@ -133,6 +169,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Hijo mío, la felicidad está hecha de pequeñas cosas: Un pequeño yate, una pequeña mansión, una pequeña fortuna.
 
 *Groucho marx by fpayan*
+
+------
+
+> Son los geeks los que quieren que haga commit el admin, y es el admin el que quiere que los pull request de los geeks hagan commit en el repo del admin.
+
+*Geekiano Rajoy*
 
 -------
 
@@ -424,6 +466,12 @@ La Esperanza.
 
 *Martin Luther King*
 
+---------
+
+> Odio programar, Odio programar, Odio programar.
+> Espera, FUNCIONA!!! Me encanta programar!!
+
+*Lorenzo V.*
 -------
 
 > I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
@@ -456,6 +504,12 @@ La Esperanza.
 
 ------
 
+>¡500 dólares! Es el teléfono más caro del mundo y no tiene teclado y, por tanto, no es bueno para enviar emails. Nosotros vendemos millones de teléfonos cada año y Apple, 0.
+
+*Steve Ballmer, un visionario.*
+
+------
+
 > Lo importante no es saber, si no tener el teléfono del que sabe.
 
 *Pablo López (ni el cantante, ni el portero)*
@@ -480,6 +534,12 @@ La Esperanza.
 
 -------
 
+> Hace falta valor para admitir que se tiene miedo y para admitir que uno se equivocó.
+
+*Daenerys Targaryen*
+
+-------
+
 > I'm just a big old nerd. I'm not that cool guy at all. 
 
 *Guillermo Diaz*
@@ -494,6 +554,12 @@ La Esperanza.
 -running Slack
 
 *I Am Devloper*
+
+-------
+
+> Mec Mec! 
+
+*El correcaminos*
 
 -------
 
@@ -521,6 +587,12 @@ La Esperanza.
 
 -------
 
+> No te olvides de poner el where en el delete from
+ 
+*Aristoteles fan club*
+
+-------
+
 > "Padre, lo de wikileaks", le dice la hija al padre.
  
 *Ignatius Farray*
@@ -530,6 +602,18 @@ La Esperanza.
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
  
 *Lisa Simpson*
+
+-------
+
+> ¿Sabías que lo que hay encima de la Ñ se llama virgulilla?
+
+*Yo, ligando tras hacer el curso de git*
+
+-------
+
+> When you're dealing with **serious _subjects_**, there is a pressure to be ~~absolutely~~ sure that you **know what you're _doing_**.
+
+*John Oliver*
 
 -------
 
@@ -581,6 +665,12 @@ La Esperanza.
 
 -------
 
+> I am a geek nerd who happened to have a temporary period of jockiness.
+
+*Cory Booker*
+
+-------
+
 > I've got a bugs, and the only cure is more coffee.
 
 *Codeyonetta*
@@ -620,6 +710,12 @@ La Esperanza.
 > Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar cuando se mira lejos.
 
 *José Ortega y Gasset*
+
+-------
+
+> My name was on the street? When we bounce from this shit here, y'all going to go down on them corners and let the people know: Word did not get back to me. Let them know Marlo step to any motherfucker: Omar, Barksdale, whoever. My name is my name! 
+
+*Marlo Stanfield*
 
 -------
 
