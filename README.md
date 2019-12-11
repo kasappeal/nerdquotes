@@ -100,9 +100,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo o no lo hagas, pero no lo intentes
+
+*Maestro Yoda*
+
+--------
+
 > Already know you that which you need.
 
 *Master Yoda*
+
+-------
+
+> Si queremos conquistar las estrellas debemos hacernos un merge con las maquinas.
+
+*Dios Quantico*
+
+-------
+
+> Path: La primera a la derecha y luego todo recto
+
+*A.V*
 
 -------
 
@@ -456,6 +474,12 @@ La Esperanza.
 
 ------
 
+>¡500 dólares! Es el teléfono más caro del mundo y no tiene teclado y, por tanto, no es bueno para enviar emails. Nosotros vendemos millones de teléfonos cada año y Apple, 0.
+
+*Steve Ballmer, un visionario.*
+
+------
+
 > Lo importante no es saber, si no tener el teléfono del que sabe.
 
 *Pablo López (ni el cantante, ni el portero)*
@@ -530,6 +554,12 @@ La Esperanza.
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
  
 *Lisa Simpson*
+
+-------
+
+> When you're dealing with **serious _subjects_**, there is a pressure to be ~~absolutely~~ sure that you **know what you're _doing_**.
+
+*John Oliver*
 
 -------
 
