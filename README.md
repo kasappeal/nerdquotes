@@ -94,6 +94,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo o no lo hagas, pero no lo intentes
+
+*Maestro Yoda*
+
+--------
+
 > Already know you that which you need.
 
 *Master Yoda*
@@ -103,6 +109,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Si queremos conquistar las estrellas debemos hacernos un merge con las maquinas.
 
 *Dios Quantico*
+
+-------
+
+> Path: La primera a la derecha y luego todo recto
+
+*A.V*
 
 -------
 
@@ -453,6 +465,12 @@ La Esperanza.
 > To err is human, but to really foul things up you need a computer. 
 
 *Paul R. Ehrlich* 
+
+------
+
+>¡500 dólares! Es el teléfono más caro del mundo y no tiene teclado y, por tanto, no es bueno para enviar emails. Nosotros vendemos millones de teléfonos cada año y Apple, 0.
+
+*Steve Ballmer, un visionario.*
 
 ------
 
