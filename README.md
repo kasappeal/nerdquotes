@@ -106,6 +106,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si queremos conquistar las estrellas debemos hacernos un merge con las maquinas.
+
+*Dios Quantico*
+
+-------
+
 > Path: La primera a la derecha y luego todo recto
 
 *A.V*
