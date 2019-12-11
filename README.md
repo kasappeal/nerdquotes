@@ -119,6 +119,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Sanity was statistical. It was merely a question of learning to think as they thought.
+
+*George Orwell*
+
+---------
 > No dejes que el ruido de los commits ajenos apaguen tu rama master.
 
 *Steve Flows*
