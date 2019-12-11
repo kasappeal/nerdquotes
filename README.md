@@ -450,6 +450,12 @@ La Esperanza.
 
 ------
 
+>¡500 dólares! Es el teléfono más caro del mundo y no tiene teclado y, por tanto, no es bueno para enviar emails. Nosotros vendemos millones de teléfonos cada año y Apple, 0.
+
+*Steve Ballmer, un visionario.*
+
+------
+
 > Lo importante no es saber, si no tener el teléfono del que sabe.
 
 *Pablo López (ni el cantante, ni el portero)*
