@@ -527,6 +527,12 @@ La Esperanza.
 
 -------
 
+>¿Cuándo voy a aprender? La solución a todos los problemas de la vida no está en el fondo de una botella. ¡Está en la TV!
+
+*Homer Simpson*
+
+-------
+
 > They’re just robots, Morty! It’s OK to shoot them! They’re robots!
 
 *Rick Sanchez*
