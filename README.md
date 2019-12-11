@@ -545,6 +545,12 @@ La Esperanza.
 
 -------
 
+> No te olvides de poner el where en el delete from
+ 
+*Aristoteles fan club*
+
+-------
+
 > "Padre, lo de wikileaks", le dice la hija al padre.
  
 *Ignatius Farray*
