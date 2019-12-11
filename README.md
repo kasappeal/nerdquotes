@@ -537,6 +537,12 @@ La Esperanza.
 *Sergio Suárez*
 
 -------
+
+> Una práctica nunca llega tarde, ni pronto: llega exactamente cuando te lo propones.
+
+*Gandalf - WhiteStyle*
+
+-------
   
 > Soy programador y no escribo código en lenguaje jsalkjdaskdkasjh.
 
