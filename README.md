@@ -112,6 +112,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No dejes que el ruido de los commits ajenos apaguen tu rama master.
+
+*Steve Flows*
+
+-------
+
 > Si queremos conquistar las estrellas debemos hacernos un merge con las maquinas.
 
 *Dios Quantico*
