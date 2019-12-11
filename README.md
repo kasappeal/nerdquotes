@@ -517,6 +517,12 @@ La Esperanza.
 
 -------
 
+> Hace falta valor para admitir que se tiene miedo y para admitir que uno se equivocó.
+
+*Daenerys Targaryen*
+
+-------
+
 > I'm just a big old nerd. I'm not that cool guy at all. 
 
 *Guillermo Diaz*
