@@ -455,6 +455,12 @@ La Esperanza.
 
 *Martin Luther King*
 
+---------
+
+> Odio programar, Odio programar, Odio programar.
+> Espera, FUNCIONA!!! Me encanta programar!!
+
+*Lorenzo V.*
 -------
 
 > I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
