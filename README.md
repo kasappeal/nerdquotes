@@ -94,6 +94,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo o no lo hagas, pero no lo intentes
+
+*Maestro Yoda*
+
+--------
+
 > Already know you that which you need.
 
 *Master Yoda*
