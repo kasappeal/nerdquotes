@@ -528,6 +528,12 @@ La Esperanza.
 
 -------
   
+> Soy programador y no escribo código en lenguaje jsalkjdaskdkasjh.
+
+*Miguel Alcaraz*
+
+-------
+
 > Me sorprende la cantidad de gente que se llama sdfsdf.  
 
 *azerty*
