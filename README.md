@@ -582,6 +582,12 @@ La Esperanza.
 
 -------
 
+> ¿Sabías que lo que hay encima de la Ñ se llama virgulilla?
+
+*Yo, ligando tras hacer el curso de git*
+
+-------
+
 > When you're dealing with **serious _subjects_**, there is a pressure to be ~~absolutely~~ sure that you **know what you're _doing_**.
 
 *John Oliver*
