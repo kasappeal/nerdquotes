@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Path: La primera a la derecha y luego todo recto
+
+*A.V*
+
+-------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
