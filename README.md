@@ -496,6 +496,12 @@ La Esperanza.
 
 -------
 
+> Los dos guerreros más famosos son la paciencia y el tiempo.
+ 
+*Leo Tolstoy*
+
+-------
+
 > Moo'. Are you happy now?
  
 *Tauren male*
