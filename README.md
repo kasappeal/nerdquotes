@@ -76,6 +76,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Como vaya yo y lo encuentre... ya verás.
+
+*mi madre*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
