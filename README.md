@@ -633,6 +633,12 @@ La Esperanza.
 
 -------
 
+>¿Cuándo voy a aprender? La solución a todos los problemas de la vida no está en el fondo de una botella. ¡Está en la TV!
+
+*Homer Simpson*
+
+-------
+
 > ¿Sabías que lo que hay encima de la Ñ se llama virgulilla?
 
 *Yo, ligando tras hacer el curso de git*
