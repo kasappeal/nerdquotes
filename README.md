@@ -85,6 +85,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Sólo hay 10 tipos de personas, las que saben programar y las que no.
 
 *Super Sayan Over9000*
+-------------------------------------
+
+>Tecla a tecla, camina  y vencerás.
+*Pam Martinez*
 
 -------
 
@@ -94,15 +98,63 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Qué es lo mejor de la vida?
+ Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
+ 
+ *Conan el Bárbaro*
+
+-------
+
+> En el amor siempre hay algo de locura, mas en la locura siempre hay algo de razón.
+
+*Friedrich Nietzsche*
+
+-------
+
+> No lo intentes. Hazlo o no lo hagas, pero no lo intentes
+
+*Maestro Yoda*
+
+--------
+
 > Already know you that which you need.
 
 *Master Yoda*
 
 -------
 
+> Sanity was statistical. It was merely a question of learning to think as they thought.
+
+*George Orwell*
+
+---------
+> No dejes que el ruido de los commits ajenos apaguen tu rama master.
+
+*Steve Flows*
+
+-------
+
+> Si queremos conquistar las estrellas debemos hacernos un merge con las maquinas.
+
+*Dios Quantico*
+
+-------
+
+> Path: La primera a la derecha y luego todo recto
+
+*A.V*
+
+-------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
+
+-------
+
+> Ray, if someone asks you if you're a god, you say YES!
+
+*Winston, Ghostbuster*
 
 -------
 
@@ -127,6 +179,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Hijo mío, la felicidad está hecha de pequeñas cosas: Un pequeño yate, una pequeña mansión, una pequeña fortuna.
 
 *Groucho marx by fpayan*
+
+------
+
+> Son los geeks los que quieren que haga commit el admin, y es el admin el que quiere que los pull request de los geeks hagan commit en el repo del admin.
+
+*Geekiano Rajoy*
 
 -------
 
@@ -418,6 +476,12 @@ La Esperanza.
 
 *Martin Luther King*
 
+---------
+
+> Odio programar, Odio programar, Odio programar.
+> Espera, FUNCIONA!!! Me encanta programar!!
+
+*Lorenzo V.*
 -------
 
 > I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
@@ -438,6 +502,12 @@ La Esperanza.
 
 -------
 
+> Los dos guerreros más famosos son la paciencia y el tiempo.
+ 
+*Leo Tolstoy*
+
+-------
+
 > Moo'. Are you happy now?
  
 *Tauren male*
@@ -447,6 +517,12 @@ La Esperanza.
 > To err is human, but to really foul things up you need a computer. 
 
 *Paul R. Ehrlich* 
+
+------
+
+>¡500 dólares! Es el teléfono más caro del mundo y no tiene teclado y, por tanto, no es bueno para enviar emails. Nosotros vendemos millones de teléfonos cada año y Apple, 0.
+
+*Steve Ballmer, un visionario.*
 
 ------
 
@@ -467,10 +543,28 @@ La Esperanza.
 *Sergio Suárez*
 
 -------
+
+> Una práctica nunca llega tarde, ni pronto: llega exactamente cuando te lo propones.
+
+*Gandalf - WhiteStyle*
+
+-------
   
+> Soy programador y no escribo código en lenguaje jsalkjdaskdkasjh.
+
+*Miguel Alcaraz*
+
+-------
+
 > Me sorprende la cantidad de gente que se llama sdfsdf.  
 
 *azerty*
+
+-------
+
+> Hace falta valor para admitir que se tiene miedo y para admitir que uno se equivocó.
+
+*Daenerys Targaryen*
 
 -------
 
@@ -488,6 +582,12 @@ La Esperanza.
 -running Slack
 
 *I Am Devloper*
+
+-------
+
+> Mec Mec! 
+
+*El correcaminos*
 
 -------
 
@@ -515,6 +615,12 @@ La Esperanza.
 
 -------
 
+> No te olvides de poner el where en el delete from
+ 
+*Aristoteles fan club*
+
+-------
+
 > "Padre, lo de wikileaks", le dice la hija al padre.
  
 *Ignatius Farray*
@@ -530,6 +636,18 @@ La Esperanza.
 >¿Cuándo voy a aprender? La solución a todos los problemas de la vida no está en el fondo de una botella. ¡Está en la TV!
 
 *Homer Simpson*
+
+-------
+
+> ¿Sabías que lo que hay encima de la Ñ se llama virgulilla?
+
+*Yo, ligando tras hacer el curso de git*
+
+-------
+
+> When you're dealing with **serious _subjects_**, there is a pressure to be ~~absolutely~~ sure that you **know what you're _doing_**.
+
+*John Oliver*
 
 -------
 
@@ -581,6 +699,12 @@ La Esperanza.
 
 -------
 
+> I am a geek nerd who happened to have a temporary period of jockiness.
+
+*Cory Booker*
+
+-------
+
 > I've got a bugs, and the only cure is more coffee.
 
 *Codeyonetta*
@@ -620,6 +744,12 @@ La Esperanza.
 > Sólo cabe progresar cuando se piensa en grande, sólo es posible avanzar cuando se mira lejos.
 
 *José Ortega y Gasset*
+
+-------
+
+> My name was on the street? When we bounce from this shit here, y'all going to go down on them corners and let the people know: Word did not get back to me. Let them know Marlo step to any motherfucker: Omar, Barksdale, whoever. My name is my name! 
+
+*Marlo Stanfield*
 
 -------
 
