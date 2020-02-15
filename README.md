@@ -321,6 +321,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 *Sheldon Cooper*
 
+------
+
+> Antes de llover chispea.
+
+*Foro Cochero*
+
 -------
 
 > Que la fuerza te acompañe
