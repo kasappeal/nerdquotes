@@ -293,7 +293,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > There is no darkness but ignorance
 
 *William Shakespeare*
+-------
 
+> Los grandes árboles de la naturaleza surgieron de indefensas semillas.
+
+*frasess.net*
 -------
 > You don't have to be a nerd or a programmer or a network engineer to make a difference. 
 
