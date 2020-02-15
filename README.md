@@ -316,6 +316,14 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Blogger de Niro*
 
 ------
+------
+
+>Butt Programming @ KeepCoding ! The secret of living a life
+>while KeepCoding is merely a matter of thinking thoughts of excellence.
+>Really, it's a matter of programming our minds 
+>with the kind of information that will set us Full Stack KeepCoders.
+
+*Frank Sinatring*
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
 
