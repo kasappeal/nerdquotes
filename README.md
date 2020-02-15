@@ -315,6 +315,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 *Blogger de Niro*
 
+-------
+
+> ESTEFANIAAAAAAAAAAAAAAA!
+
+*Christofer*
+
 ------
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
