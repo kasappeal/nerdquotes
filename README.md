@@ -311,6 +311,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Cuántos frikis juntos hay aquí! por su cumpleaños le voy mandar a Lisa una invitación para que venga.
+
+*Bart Simpson*
+
+-------
+
 > Solo existen 10 tipos de personas, las que saben binario y las que no.
 
 *Blogger de Niro*
