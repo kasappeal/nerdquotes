@@ -299,6 +299,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Rebecca MacKinnon	
 
+
+------
+
+> Serian los gitanos los pioneros del git? 
+
+*Guilherme Mendes*
+
 -------
 
 La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
