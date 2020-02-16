@@ -2554,3 +2554,9 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
+> I was kind of shy as a kid. I was a pretty good student. I was a wallflower, or nerd, if you will.
+
+*Carol Burnett*
+
+---------
