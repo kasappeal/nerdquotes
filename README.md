@@ -283,6 +283,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Seymore Cray*, sobre la memoria virtual
 
 
+
+--------------------
+
+> Hay dos tipos de personas, las que tiene almorranas, y las que la van a tener
+
+*Groucho Marx*
+
 --------------------
 > Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
 
