@@ -321,6 +321,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 *Sheldon Cooper*
 
+------
+
+> I consider myself a nerd. I love science and technology.
+
+*Alexis Ren*
+
 -------
 
 > Que la fuerza te acompañe
