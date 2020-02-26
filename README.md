@@ -306,7 +306,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > There is no darkness but ignorance
 
 *William Shakespeare*
+-------
 
+> Los grandes árboles de la naturaleza surgieron de indefensas semillas.
+
+*frasess.net*
 -------
 > - No sabía que supieras pilotar aviones. 
 - Volar sí. Aterrizar no.
