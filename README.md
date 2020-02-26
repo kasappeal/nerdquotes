@@ -1912,6 +1912,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "El único orden en el universo es sólo un ciclo que va de la calma al caos y viceversa"
+
+*CazorLand*
+
+-------
+
 > Be nice to nerds. Chances are you'll end up working for one
 
 *Bill Gates*
