@@ -289,21 +289,50 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Seymore Cray*, sobre la memoria virtual
 
 
+
+--------------------
+
+> Hay dos tipos de personas, las que tiene almorranas, y las que la van a tener
+
+*Groucho Marx*
+
 --------------------
 > Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
 
 *Dean Kamen*	
+
+------
+
+>Un gran poder conlleva una gran responsabilidad
+
+*Spiderman*
 
 -------
 
 > There is no darkness but ignorance
 
 *William Shakespeare*
+-------
+
+> Los grandes árboles de la naturaleza surgieron de indefensas semillas.
+
+*frasess.net*
+-------
+> - No sabía que supieras pilotar aviones. 
+- Volar sí. Aterrizar no.
+*Henry Jones e Indiana Jones*
 
 -------
 > You don't have to be a nerd or a programmer or a network engineer to make a difference. 
 
 *Rebecca MacKinnon	
+
+
+------
+
+> Serian los gitanos los pioneros del git? 
+
+*Guilherme Mendes*
 
 -------
 
@@ -317,15 +346,47 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Cuántos frikis juntos hay aquí! por su cumpleaños le voy mandar a Lisa una invitación para que venga.
+
+*Bart Simpson*
+
+-------
+
 > Solo existen 10 tipos de personas, las que saben binario y las que no.
 
 *Blogger de Niro*
 
+-------
+
+> ESTEFANIAAAAAAAAAAAAAAA!
+
+*Christofer*
+
 ------
+------
+
+>Butt Programming @ KeepCoding ! The secret of living a life
+>while KeepCoding is merely a matter of thinking thoughts of excellence.
+>Really, it's a matter of programming our minds 
+>with the kind of information that will set us Full Stack KeepCoders.
+
+*Frank Sinatring*
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
 
 *Sheldon Cooper*
+
+------
+
+> I consider myself a nerd. I love science and technology.
+
+*Alexis Ren*
+
+------
+
+> Antes de llover chispea.
+
+*Foro Cochero*
 
 -------
 
@@ -338,6 +399,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
+
 ------
 
 > ¡¡Noo pueedees pasaaar!!
@@ -349,6 +411,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
  > Primero resuelve el problema, despues escribe el código.
 
  *John Johnson* *Jorge Vizuete*
+ 
 -------
 
 > El miedo es el camino hacia el Lado Oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento. Veo mucho miedo en ti.
@@ -366,6 +429,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
 *Carlos Jáureg
+
 -------
 
 > No se puede requetefinalizar un refinal
@@ -494,6 +558,7 @@ La Esperanza.
 > Espera, FUNCIONA!!! Me encanta programar!!
 
 *Lorenzo V.*
+
 -------
 
 > I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
@@ -1853,6 +1918,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "El único orden en el universo es sólo un ciclo que va de la calma al caos y viceversa"
+
+*CazorLand*
+
+-------
+
 > Be nice to nerds. Chances are you'll end up working for one
 
 *Bill Gates*
@@ -1868,6 +1939,12 @@ Segmentation fault [core dumped]
 > All your commit are belong to us.
 
 *CATS*
+
+-------
+
+> Use your aggressive feelings boy, let the hate flow through you. 
+
+*Darth Sidious* 
 
 -------
 
@@ -2069,6 +2146,7 @@ Segmentation fault [core dumped]
 
 > Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza
 
+
 *Paul Leary*
 
 -------
@@ -2076,6 +2154,12 @@ Segmentation fault [core dumped]
 > My Software never has bugs. It just develops random features.
 
 *Unknown*
+
+-------
+
+> Lorem fistrum ese que llega ese que llega torpedo no puedor al ataquerl amatomaa a wan.
+
+*Chiquito Ipsum*
 
 -------
 
@@ -2186,6 +2270,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
 
 *Goku*
+
+-------
+
+> -Y si... Y si...    -Si mi abuela tendría hueos, sería mi abuelo.
+  
+*if shit*
 
 -------
 
@@ -2560,3 +2650,7 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
+> I was kind of shy as a kid. I was a pretty good student. I was a wallflower, or nerd, if you will.
+
+*Carol Burnett*
