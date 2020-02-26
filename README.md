@@ -295,6 +295,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *William Shakespeare*
 
 -------
+> - No sabía que supieras pilotar aviones. 
+- Volar sí. Aterrizar no.
+*Henry Jones e Indiana Jones*
+
+-------
 > You don't have to be a nerd or a programmer or a network engineer to make a difference. 
 
 *Rebecca MacKinnon	
