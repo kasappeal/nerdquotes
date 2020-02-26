@@ -295,9 +295,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *William Shakespeare*
 
 -------
+> - No sabía que supieras pilotar aviones. 
+- Volar sí. Aterrizar no.
+*Henry Jones e Indiana Jones*
+
+-------
 > You don't have to be a nerd or a programmer or a network engineer to make a difference. 
 
 *Rebecca MacKinnon	
+
+
+------
+
+> Serian los gitanos los pioneros del git? 
+
+*Guilherme Mendes*
 
 -------
 
@@ -322,10 +334,30 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 *Christofer*
 
 ------
+------
+
+>Butt Programming @ KeepCoding ! The secret of living a life
+>while KeepCoding is merely a matter of thinking thoughts of excellence.
+>Really, it's a matter of programming our minds 
+>with the kind of information that will set us Full Stack KeepCoders.
+
+*Frank Sinatring*
 
 > La gente dice que no se puede vivir sin amor. Yo creo que el oxígeno es más importante.
 
 *Sheldon Cooper*
+
+------
+
+> I consider myself a nerd. I love science and technology.
+
+*Alexis Ren*
+
+------
+
+> Antes de llover chispea.
+
+*Foro Cochero*
 
 -------
 
@@ -338,6 +370,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
+
 ------
 
 > ¡¡Noo pueedees pasaaar!!
@@ -349,6 +382,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
  > Primero resuelve el problema, despues escribe el código.
 
  *John Johnson* *Jorge Vizuete*
+ 
 -------
 
 > El miedo es el camino hacia el Lado Oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento. Veo mucho miedo en ti.
@@ -366,6 +400,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
 *Carlos Jáureg
+
 -------
 
 > No se puede requetefinalizar un refinal
@@ -494,6 +529,7 @@ La Esperanza.
 > Espera, FUNCIONA!!! Me encanta programar!!
 
 *Lorenzo V.*
+
 -------
 
 > I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
@@ -1871,6 +1907,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Use your aggressive feelings boy, let the hate flow through you. 
+
+*Darth Sidious* 
+
+-------
+
 > La gente se inventa estadísticas con tal de demostrar algo, Kent, y eso lo sabe el 14% de la población.
 
 *Homero J. Simpson*
@@ -2069,6 +2111,7 @@ Segmentation fault [core dumped]
 
 > Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza
 
+
 *Paul Leary*
 
 -------
@@ -2186,6 +2229,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
 
 *Goku*
+
+-------
+
+> -Y si... Y si...    -Si mi abuela tendría hueos, sería mi abuelo.
+  
+*if shit*
 
 -------
 
@@ -2560,3 +2609,7 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
+> I was kind of shy as a kid. I was a pretty good student. I was a wallflower, or nerd, if you will.
+
+*Carol Burnett*
