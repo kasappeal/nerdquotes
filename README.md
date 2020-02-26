@@ -327,6 +327,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 *Blogger de Niro*
 
+-------
+
+> ESTEFANIAAAAAAAAAAAAAAA!
+
+*Christofer*
+
 ------
 ------
 
