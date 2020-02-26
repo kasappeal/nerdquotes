@@ -295,6 +295,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *William Shakespeare*
 
 -------
+> - No sabía que supieras pilotar aviones. 
+- Volar sí. Aterrizar no.
+*Henry Jones e Indiana Jones*
+
+-------
 > You don't have to be a nerd or a programmer or a network engineer to make a difference. 
 
 *Rebecca MacKinnon	
@@ -1871,6 +1876,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Use your aggressive feelings boy, let the hate flow through you. 
+
+*Darth Sidious* 
+
+-------
+
 > La gente se inventa estadísticas con tal de demostrar algo, Kent, y eso lo sabe el 14% de la población.
 
 *Homero J. Simpson*
@@ -2186,6 +2197,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Por todos los Sayans y Nameks que asesinaste, juro que ... te exterminaré !!
 
 *Goku*
+
+-------
+
+> -Y si... Y si...    -Si mi abuela tendría hueos, sería mi abuelo.
+  
+*if shit*
 
 -------
 
@@ -2560,3 +2577,7 @@ But I'm not gonna lie down until I get there.
 *Anxo Perez . Alumno JOAQUIN JIMENEZ WEB V*
 
 ---------
+
+> I was kind of shy as a kid. I was a pretty good student. I was a wallflower, or nerd, if you will.
+
+*Carol Burnett*
