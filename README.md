@@ -336,6 +336,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 ------
 
+> I consider myself a nerd. I love science and technology.
+
+*Alexis Ren*
+
+------
+
 > Antes de llover chispea.
 
 *Foro Cochero*
@@ -351,6 +357,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
+
 ------
 
 > ¡¡Noo pueedees pasaaar!!
@@ -362,6 +369,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
  > Primero resuelve el problema, despues escribe el código.
 
  *John Johnson* *Jorge Vizuete*
+ 
 -------
 
 > El miedo es el camino hacia el Lado Oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento. Veo mucho miedo en ti.
@@ -379,6 +387,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
 *Carlos Jáureg
+
 -------
 
 > No se puede requetefinalizar un refinal
@@ -507,6 +516,7 @@ La Esperanza.
 > Espera, FUNCIONA!!! Me encanta programar!!
 
 *Lorenzo V.*
+
 -------
 
 > I did play Jesus in 'Godspell,' in high school, because I guess I'm a nerd.
