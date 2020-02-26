@@ -309,6 +309,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Como hacía mucho calor, y el coronavirus no soporta altas temperaturas, mutó y se convirtió en un virus informático.
+
+*Miguel Ángel de la Torre*
+
+-------
+
 > There is no darkness but ignorance
 
 *William Shakespeare*
