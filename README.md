@@ -47,6 +47,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Quieres sentirla en el pechou?
+
+*Chuki de Cieza*
+
+-------
+
 > Nunca confíes en un ordenador que no puedas lanzar por la ventana.
 
 *Steve Wosniak*
