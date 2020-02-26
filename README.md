@@ -295,6 +295,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Dean Kamen*	
 
+------
+
+>Un gran poder conlleva una gran responsabilidad
+
+*Spiderman*
+
 -------
 
 > There is no darkness but ignorance
