@@ -1481,6 +1481,18 @@ sino por ese tesoro
 
 -------
 
+>I'm a jedi like my father before me, unless Hogarts sends me my letter like my mother.
+
+*Harry Skywalker*
+
+-------
+
+>Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
+
+*Arwen Skywalker*
+
+-------
+
 > Entré en una discoteca, soy timido y me asusté, **pibitas** que con quince años y los chavales también, hablaban de cosas raras de lo cual no me enteré, les diré lo que decían les diré lo que decían por si saben lo que es...
 
 **La mandanga**, *El Fary*
