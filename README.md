@@ -88,6 +88,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Lo importante no es saber... Es tener el contacto del que sabe.
+
+*anonimo*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
