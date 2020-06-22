@@ -424,6 +424,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 *Maestro Yoda*
 
+---
+
+> There's no place like **127.0.0.1**
+
+_Is a slogan, on the common American English saying, There's no place like home, popularized by the 1939 movie The Wizard of Oz._
+
 -------
 
 > ¿Porque un murcielago? Porque me dan miedo... mis enemigos, compartiran mi miedo.
