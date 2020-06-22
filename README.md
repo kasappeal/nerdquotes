@@ -158,6 +158,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Maestro Yoda*
+
+-------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
