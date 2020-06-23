@@ -35,6 +35,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> The secret of getting ahead is getting started.
+
+*Violeta C.*
+
+--------
+
 > Éramos pocos y pario la abuela.
 
 *Alejandro S.*
