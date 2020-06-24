@@ -152,6 +152,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
+
+*Rick de Rick y Morty*
+
+-------
+
 > Path: La primera a la derecha y luego todo recto
 
 *A.V*
