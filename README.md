@@ -129,6 +129,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Do it now, because in a year from now you may wish you had started today.
+
+*Karen Lamb*
+
+--------
+
 > Already know you that which you need.
 
 *Master Yoda*
