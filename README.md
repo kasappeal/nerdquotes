@@ -1699,6 +1699,12 @@ sino por ese tesoro
 
 -------
 
+>Si puedes soñarlo, puedes hacerlo. O no, tampoco te flipes.
+
+*Anónimo*
+
+-------
+
 > Historial ayer borrado, anteayer hubo pecado.
 
 *Google Chrome*
