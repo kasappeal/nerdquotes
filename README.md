@@ -35,6 +35,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> git reset --hard working-world-pre-covid19-tests
+
+*Científico Anónimo. - Wuhan*
+
+-------
+
 > Éramos pocos y pario la abuela.
 
 *Alejandro S.*
