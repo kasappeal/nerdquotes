@@ -1493,6 +1493,12 @@ sino por ese tesoro
 
 -------
 
+> No se trata de levantarse, sino de tropezar… tropezar en la dirección adecuada. Ese es el verdadero camino para avanzar.
+
+*Mr. Robot*
+
+-------
+
 > Ni commit ni comat, o limpias tu habitación ya o veras lo que es un commit.
 
 *La madre de cualquier friki con la cara llena de granos*
