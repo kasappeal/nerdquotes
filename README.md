@@ -41,6 +41,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> The secret of getting ahead is getting started.
+
+*Violeta C.*
+
+--------
+
 > git reset --hard working-world-pre-covid19-tests
 
 *Científico Anónimo. - Wuhan*
