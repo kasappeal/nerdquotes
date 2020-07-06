@@ -21,6 +21,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Steve Jobs*
 
+-------
+
+> There is not place like 127.0.0.1
+
+*Unknow*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
