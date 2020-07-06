@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> This is my story. It'll go the way I want it...or I'll end it here!
+
+*Tidus, Final Fantasy X*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
