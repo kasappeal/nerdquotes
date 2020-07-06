@@ -83,6 +83,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> En un repositorio de **github** de cuyo contenido no quiero *clonarme* .... 
+
+*Ramón Beltrán*
+
+-------
+
 > Failure is the condiment that gives success its flavor
 
 *Truman Capote*
