@@ -112,6 +112,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Lo importante no es saber... Es tener el contacto del que sabe.
+
+*anonimo*
+
+-------
+
 > This is my story. It'll go the way I want it...or I'll end it here!
 
 *Tidus, Final Fantasy X*
