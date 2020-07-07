@@ -1864,6 +1864,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> Normalmente no rezo, pero si estás ahí, por favor, sálvame Superman.
+
+*Homer J.Simpson*
+
+-------
+
 > A nerd will be a nerd all his life.
 
 *John Hughes*
