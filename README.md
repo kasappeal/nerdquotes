@@ -21,6 +21,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Steve Jobs*
 
+-------
+
+> There is not place like 127.0.0.1
+
+*Unknow*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
@@ -32,6 +38,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
+
+-------
+
+> The secret of getting ahead is getting started.
+
+*Violeta C.*
+
+--------
+
+> git reset --hard working-world-pre-covid19-tests
+
+*Científico Anónimo. - Wuhan*
 
 -------
 
@@ -65,6 +83,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> En un repositorio de **github** de cuyo contenido no quiero *clonarme* .... 
+
+*Ramón Beltrán*
+
+-------
+
 > Failure is the condiment that gives success its flavor
 
 *Truman Capote*
@@ -85,6 +109,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
+
+-------
+
+> Lo importante no es saber... Es tener el contacto del que sabe.
+
+*anonimo*
+
+-------
+
+> This is my story. It'll go the way I want it...or I'll end it here!
+
+*Tidus, Final Fantasy X*
 
 -------
 
@@ -129,6 +165,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Do it now, because in a year from now you may wish you had started today.
+
+*Karen Lamb*
+
+--------
+
 > Already know you that which you need.
 
 *Master Yoda*
@@ -152,9 +194,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
+
+*Rick de Rick y Morty*
+
+-------
+
 > Path: La primera a la derecha y luego todo recto
 
 *A.V*
+
+-------
+
+> No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
+
+*Maestro Yoda*
 
 -------
 
@@ -423,6 +477,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > El miedo es el camino hacia el Lado Oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento. Veo mucho miedo en ti.
 
 *Maestro Yoda*
+
+---
+
+> There's no place like **127.0.0.1**
+
+_Is a slogan, on the common American English saying, There's no place like home, popularized by the 1939 movie The Wizard of Oz._
 
 -------
 
@@ -1469,6 +1529,12 @@ sino por ese tesoro
 
 -------
 
+> No se trata de levantarse, sino de tropezar… tropezar en la dirección adecuada. Ese es el verdadero camino para avanzar.
+
+*Mr. Robot*
+
+-------
+
 > Ni commit ni comat, o limpias tu habitación ya o veras lo que es un commit.
 
 *La madre de cualquier friki con la cara llena de granos*
@@ -1699,6 +1765,12 @@ sino por ese tesoro
 
 -------
 
+>Si puedes soñarlo, puedes hacerlo. O no, tampoco te flipes.
+
+*Anónimo*
+
+-------
+
 > Historial ayer borrado, anteayer hubo pecado.
 
 *Google Chrome*
@@ -1789,6 +1861,12 @@ Segmentation fault [core dumped]
 > "La rata simboliza lo que es obvio."
 
 *Ralph Wiggum*
+
+-------
+
+> Normalmente no rezo, pero si estás ahí, por favor, sálvame Superman.
+
+*Homer J.Simpson*
 
 -------
 
@@ -2023,6 +2101,12 @@ Segmentation fault [core dumped]
 > "Si intentas matar al rey, no falles."
 
 *Omar Little*
+
+-------
+
+> Apetecan Request de la Pradera
+
+*Fintro GromeCoder*
 
 -------
 
@@ -2673,7 +2757,14 @@ But I'm not gonna lie down until I get there.
 
 *Carol Burnett*
 
+---------
 
 > Hay mas demonios que angeles jugando al ajedrez.
 
 *Armando Messi*
+
+---------
+
+> "No pagaré, sé demasiado sobre extorsión".   
+
+*James Gandolfini*
