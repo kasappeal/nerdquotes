@@ -1673,6 +1673,12 @@ sino por ese tesoro
 
 -------
 
+> Tengo la cura, pero no consigo recordar la clave de GitHub
+
+*Dios, intentando hacer un push a https://github.com/Dios/humanidad*
+
+-------
+
 > Intenté conquistar a una programadora, pero no se deJava.
 
 *Programador C#*
