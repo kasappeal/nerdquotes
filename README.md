@@ -41,6 +41,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un Git Master es como un jardinero, siempre tiene las ramas podadas
+
+*A guy from the city*
+
+-------
+
 > The secret of getting ahead is getting started.
 
 *Violeta C.*
