@@ -860,6 +860,12 @@ La Esperanza.
 
 -------
 
+> El que lee mucho y anda mucho, ve mucho y sabe mucho.
+
+*El caballero de la triste figura*
+
+-------
+
 > ¡Como disfrutaría destripandote, Chaval!
 
 *Nicholas Cage (La Roca)*
