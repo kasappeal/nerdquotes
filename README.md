@@ -118,6 +118,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hasta la persona más pequeña puede cambiar el curso del futuro
+
+*Dama Galadriel*
+
+-------
+
 > This is my story. It'll go the way I want it...or I'll end it here!
 
 *Tidus, Final Fantasy X*
