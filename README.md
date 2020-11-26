@@ -1367,6 +1367,12 @@ sino por ese tesoro
 
 -------
 
+> Mientras no te olviden siguirás vivo.
+
+*Pacosangar*
+
+-------
+
 > ¡Qué horrible pesadilla! ¡Unos y ceros por todas partes! Hasta me pareció ver un 2.
 
 *Bender*
