@@ -290,6 +290,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> hello, IT, have you tried turning it off and on again?
+
+*Roy Trenneman*
+
+-------
+
 > Nucelar, la palabra es nucelar.
 
 *Homer Simpsons*
