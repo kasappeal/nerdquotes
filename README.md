@@ -1795,6 +1795,12 @@ sino por ese tesoro
 
 -------
 
+> La programación extrema es una experiencia emocional.
+
+*Kent Beck*
+
+-------
+
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
