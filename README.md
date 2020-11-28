@@ -212,6 +212,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Las drogas son malas porque si las tomas eres un hippie y los hippies son unos apestosos.
+
+*Eric Cartman*
+
+-------
+
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
