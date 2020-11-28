@@ -71,6 +71,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Let's do this! LLLLLLLEEEEROY JJJEEEEENKKKINNNS!
+
+*Achievement*
+
+-------
+
 > Nunca confíes en un ordenador que no puedas lanzar por la ventana.
 
 *Steve Wosniak*
