@@ -2768,3 +2768,9 @@ But I'm not gonna lie down until I get there.
 > "No pagaré, sé demasiado sobre extorsión".   
 
 *James Gandolfini*
+
+---------
+
+> Humanity has been fighting plagues since the beginning. They kick our ass for a while. Then we attack back.
+
+*Daniel Bueno Web Bootcamp*
