@@ -1601,6 +1601,12 @@ sino por ese tesoro
 
 -------
 
+> Have you tried turning it off and on again?
+
+*Doctores en Informática*
+
+-------
+
 > Tres pequeñas frases que te ayudarán a lo largo de tu vida: 1) ¡Cúbreme!, 2) ¡Buena idea jefe!, 3) Estaba así cuando llegué.
 
 *Homer J. Simpson*
