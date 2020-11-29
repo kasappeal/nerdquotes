@@ -22,11 +22,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Steve Jobs*
 
 -------
-> Transmite lo que has aprendido: fuerza, maestría; pero insensatez, debilidad, fracaso también. ¡Sí, fracaso sobre todo! El mejor profesor, el fracaso es. 
-
-*Yoda*
-
--------
 
 > There is not place like 127.0.0.1
 
