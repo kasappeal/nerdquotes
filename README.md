@@ -2068,6 +2068,12 @@ Segmentation fault [core dumped]
 
 -------
 
+>Please stay at [127.0.0.1](127.0.0.1) and wear a [255.255.255.0](255.255.255.0).
+
+*Francisco Ríos Galán*
+
+-------
+
 > Without requirements or design, programming is the art of adding bugs to an empty text file. 
 
 *Louis Srygley*
