@@ -59,6 +59,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Si el surgimiento de una inteligencia artificial todopoderosa es inevitable, es lógico pensar que cuando tomen el poder, nuestros señores digitales castigarán a aquellos de nosotros que no les ayudamos a llegar allí. Ergo, me gustaría ser un idiota útil. Como usted.
+
+*Bertram Gilfoyle*
+
+-------
+
 > "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
 
 *Petter Griffin*
