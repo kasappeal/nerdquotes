@@ -71,6 +71,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+-------
+
+> Programming isn't about what you know; it's about what you can figure out.
+
+*Chris Pine*
+
+-------
 > Nunca confíes en un ordenador que no puedas lanzar por la ventana.
 
 *Steve Wosniak*
