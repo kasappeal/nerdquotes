@@ -39,6 +39,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Kamisama*
 
+
+-------
+
+> Transmite lo que has aprendido: fuerza, maestría; pero insensatez, debilidad, fracaso también. ¡Sí, fracaso sobre todo! El mejor profesor, el fracaso es.
+
+*Yoda*
+
+
 -------
 
 > The secret of getting ahead is getting started.
