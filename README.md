@@ -59,6 +59,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Básicamente, soy un poco nerd y siempre he querido resolver un cubo de Rubik. 
+
+*Georgia Toffolo*
+
+--------
+
 > "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
 
 *Petter Griffin*
