@@ -47,6 +47,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Nvidia, fuck you!.
+
+*Linus Torvalds*
+
+-------
+
 > The secret of getting ahead is getting started.
 
 *Violeta C.*
