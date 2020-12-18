@@ -214,6 +214,12 @@ Owi-Develop Kenobi
 
 -------
 
+> En esa piedra vi a un duende. Me dijo que quemara cosas. 
+
+*Ralph Wiggum*
+
+-------
+
 > Sólo hay 10 tipos de personas, las que saben programar y las que no.
 
 *Super Sayan Over9000*
