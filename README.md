@@ -230,6 +230,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo o no lo hagas pero no lo intentes.
+
+*Yoda*
+
+------
+
 > A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
 
 *Rick de Rick y Morty*
