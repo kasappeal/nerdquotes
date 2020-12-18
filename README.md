@@ -623,6 +623,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Dios es real (a no ser que esté declarado como integer)
+
+*José Manuel Carreiro Galicia*
+
+-------
+
 >Carreteras!? Adonde vamos no necesitamos carreteras.
 
 *Dr Emmet L.Brown*
@@ -856,6 +862,12 @@ La Esperanza.
 > `Array(16).join('WAT'-1)+'Batman!'`
 
 *The Dark Coder*
+
+-------
+
+> Mouse no encontrado. ¿Usted tiene gato? (S/N)
+
+*José Manuel Carreiro Galicia*
 
 -------
 
