@@ -212,6 +212,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Vive cada día como si fuera el último, porque un día de estos lo será..
+
+*Tu amigo y vecino*
+
+-------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
