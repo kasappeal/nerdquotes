@@ -134,6 +134,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Roses are red, violets are blue.
+> Unexpected error on line 32...
+
+*Anonimo - pero reinterpretado por Rodrigo Candido*
+
+-------
+
 > En un repositorio de **github** de cuyo contenido no quiero *clonarme* .... 
 
 *Ramón Beltrán*
