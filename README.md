@@ -409,6 +409,12 @@ Owi-Develop Kenobi
 
 -------
 
+> hello, IT, have you tried turning it off and on again?
+
+*Roy Trenneman*
+
+-------
+
 > Nucelar, la palabra es nucelar.
 
 *Homer Simpsons*
