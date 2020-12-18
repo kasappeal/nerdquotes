@@ -27,6 +27,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Unknow*
 
+-------
+
+>Mejor Esperar un minuto de tu vida, que la vida en un minuto.
+
+*Boris Alarcon Milla*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
@@ -57,6 +63,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Alejandro S.*
 
+-------
+
+> Haz lo que te apasione en busca de la vocación htmlera.
+
+*Anónima*
+
 --------
 
 > "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
@@ -68,6 +80,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > ¿Quieres sentirla en el pechou?
 
 *Chuki de Cieza*
+
+-------
+
+> Let's do this! LLLLLLLEEEEROY JJJEEEEENKKKINNNS!
+
+*Achievement*
 
 -------
 
@@ -106,12 +124,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Me viste en Mercadona, yo soy una señora
+> Me viste en Mercadona, yo soy una señora
 Este Adidas es made in China, pero yo voy más mona
 
 *Bad Gyal*
 
 -------
+
+> Si el destino no te abre una puerta, **¡Alohomora!**.
+
+*Una muggle*
+
+-------
+
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
@@ -121,6 +146,12 @@ Este Adidas es made in China, pero yo voy más mona
 > Lo importante no es saber... Es tener el contacto del que sabe.
 
 *anonimo*
+
+-------
+
+> Hasta la persona más pequeña puede cambiar el curso del futuro
+
+*Dama Galadriel*
 
 -------
 
@@ -156,6 +187,12 @@ Este Adidas es made in China, pero yo voy más mona
  Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
  
  *Conan el Bárbaro*
+
+-------
+
+> Ya chole, chango, chilango. ¡Qué chafa chamba te chutas! No checa andar de tacuche y chale con la charola.
+
+*Chango con corbata*
 
 -------
 
@@ -200,6 +237,12 @@ Este Adidas es made in China, pero yo voy más mona
 
 -------
 
+> No lo intentes. Hazlo o no lo hagas pero no lo intentes.
+
+*Yoda*
+
+------
+
 > A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
 
 *Rick de Rick y Morty*
@@ -215,6 +258,18 @@ Este Adidas es made in China, pero yo voy más mona
 > No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
 
 *Maestro Yoda*
+
+-------
+
+> Las drogas son malas porque si las tomas eres un hippie y los hippies son unos apestosos.
+
+*Eric Cartman*
+
+-------
+
+> Vive cada día como si fuera el último, porque un día de estos lo será..
+
+*Tu amigo y vecino*
 
 -------
 
@@ -1104,6 +1159,12 @@ La Esperanza.
 
 -------
 
+> ¡Las cabras! 
+
+*Jessica Shonda*  
+
+-------
+
 > Ok, ahora al plan B, sea lo que sea.
 
 *Son Goku*
@@ -1370,6 +1431,12 @@ sino por ese tesoro
 > Yo... he visto cosas que vosotros no creeríais: Atacar naves en llamas más allá de Orión. He visto rayos C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán... en el tiempo... como lágrimas en la lluvia. Es hora de morir
 
 *Roy Batty*
+
+-------
+
+> Mientras no te olviden siguirás vivo.
+
+*Pacosangar*
 
 -------
 
@@ -2074,6 +2141,12 @@ Segmentation fault [core dumped]
 
 -------
 
+>Please stay at [127.0.0.1](127.0.0.1) and wear a [255.255.255.0](255.255.255.0).
+
+*Francisco Ríos Galán*
+
+-------
+
 > Without requirements or design, programming is the art of adding bugs to an empty text file. 
 
 *Louis Srygley*
@@ -2774,3 +2847,15 @@ But I'm not gonna lie down until I get there.
 > "No pagaré, sé demasiado sobre extorsión".   
 
 *James Gandolfini*
+
+---------
+
+> Humanity has been fighting plagues since the beginning. They kick our ass for a while. Then we attack back.
+
+*Daniel Bueno Web Bootcamp*
+
+---------
+
+> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
+
+*Una pegatina*
