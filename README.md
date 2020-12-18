@@ -391,6 +391,12 @@ Owi-Develop Kenobi
 
 -------
 
+> "No one can serve two masters."
+
+*Mt 6:24*
+
+-------
+
 > "Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
 
 *Jeremy S. Anderson*
