@@ -339,6 +339,12 @@ Este Adidas es made in China, pero yo voy más mona
 
 -------
 
+> After very careful consideration, sir, I've come to the conclusion that your new defense system sucks.
+
+*General Beringer (WarGames)*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
