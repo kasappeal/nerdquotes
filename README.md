@@ -45,6 +45,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Kamisama*
 
+
+-------
+
+> Transmite lo que has aprendido: fuerza, maestría; pero insensatez, debilidad, fracaso también. ¡Sí, fracaso sobre todo! El mejor profesor, el fracaso es.
+
+*Yoda*
+
+
 -------
 
 > Un Git Master es como un jardinero, siempre tiene las ramas podadas
