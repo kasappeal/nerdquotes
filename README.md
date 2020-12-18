@@ -27,6 +27,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Unknow*
 
+-------
+
+>Mejor Esperar un minuto de tu vida, que la vida en un minuto.
+
+*Boris Alarcon Milla*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
@@ -56,6 +62,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Éramos pocos y pario la abuela.
 
 *Alejandro S.*
+
+-------
+
+> Haz lo que te apasione en busca de la vocación htmlera.
+
+*Anónima*
 
 --------
 
@@ -106,6 +118,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si el destino no te abre una puerta, **¡Alohomora!**.
+
+*Una muggle*
+
+-------
+
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
@@ -150,6 +168,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
  Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
  
  *Conan el Bárbaro*
+
+-------
+
+> Ya chole, chango, chilango. ¡Qué chafa chamba te chutas! No checa andar de tacuche y chale con la charola.
+
+*Chango con corbata*
 
 -------
 
@@ -209,6 +233,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
 
 *Maestro Yoda*
+
+-------
+
+> Las drogas son malas porque si las tomas eres un hippie y los hippies son unos apestosos.
+
+*Eric Cartman*
+
+-------
+
+> Vive cada día como si fuera el último, porque un día de estos lo será..
+
+*Tu amigo y vecino*
 
 -------
 
@@ -1095,6 +1131,12 @@ La Esperanza.
 > Como sigan con estos precios, el próximo producto de Apple será la **iPoteca**
 
 *Anónimo*
+
+-------
+
+> ¡Las cabras! 
+
+*Jessica Shonda*  
 
 -------
 
@@ -2774,3 +2816,9 @@ But I'm not gonna lie down until I get there.
 > Humanity has been fighting plagues since the beginning. They kick our ass for a while. Then we attack back.
 
 *Daniel Bueno Web Bootcamp*
+
+---------
+
+> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
+
+*Una pegatina*
