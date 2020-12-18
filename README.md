@@ -27,6 +27,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Unknow*
 
+-------
+
+>Mejor Esperar un minuto de tu vida, que la vida en un minuto.
+
+*Boris Alarcon Milla*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
