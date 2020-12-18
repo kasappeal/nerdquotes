@@ -2964,6 +2964,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> Hay mas demonios que angeles jugando al ajedrez.
+
+*Armando Messi*
+
+---------
+
 > "No pagaré, sé demasiado sobre extorsión".   
 
 *James Gandolfini*
