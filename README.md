@@ -106,6 +106,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si el destino no te abre una puerta, **¡Alohomora!**.
+
+*Una muggle*
+
+-------
+
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
