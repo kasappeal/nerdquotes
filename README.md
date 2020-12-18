@@ -2768,3 +2768,9 @@ But I'm not gonna lie down until I get there.
 > "No pagaré, sé demasiado sobre extorsión".   
 
 *James Gandolfini*
+
+---------
+
+> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
+
+*Una pegatina*
