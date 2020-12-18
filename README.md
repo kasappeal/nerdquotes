@@ -11,6 +11,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
@@ -172,6 +173,13 @@ Este Adidas es made in China, pero yo voy más mona
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
+
+-------
+
+> Se puede causar un mal al intentar hacer el bien. Se puede causar un bien al intentar hacer un mal.
+
+Owi-Develop Kenobi
+
 
 -------
 
