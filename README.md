@@ -279,6 +279,12 @@ Este Adidas es made in China, pero yo voy más mona
 
 -------
 
+>Hay una fuerza motriz más poderosa que el vapor, la electricidad y la energía atómica: la voluntad.
+
+*Albert Einstein* *Josep C.*
+
+--------
+
 > Ray, if someone asks you if you're a god, you say YES!
 
 *Winston, Ghostbuster*
