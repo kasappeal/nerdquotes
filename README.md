@@ -159,6 +159,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ya chole, chango, chilango. ¡Qué chafa chamba te chutas! No checa andar de tacuche y chale con la charola.
+
+*Chango con corbata*
+
+-------
+
 > En el amor siempre hay algo de locura, mas en la locura siempre hay algo de razón.
 
 *Friedrich Nietzsche*
