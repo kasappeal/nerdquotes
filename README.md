@@ -95,6 +95,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+
+*Leonardo Da Vinci*
+
+-------
+
 > Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
