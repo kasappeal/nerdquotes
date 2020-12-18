@@ -11,6 +11,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
@@ -27,6 +28,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Unknow*
 
+-------
+
+>Mejor Esperar un minuto de tu vida, que la vida en un minuto.
+
+*Boris Alarcon Milla*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
@@ -38,6 +45,26 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
+
+
+-------
+
+> Transmite lo que has aprendido: fuerza, maestría; pero insensatez, debilidad, fracaso también. ¡Sí, fracaso sobre todo! El mejor profesor, el fracaso es.
+
+*Yoda*
+
+
+-------
+
+> Un Git Master es como un jardinero, siempre tiene las ramas podadas
+
+*A guy from the city*
+
+-------
+
+>Nvidia, fuck you!.
+
+*Linus Torvalds*
 
 -------
 
@@ -57,6 +84,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Alejandro S.*
 
+-------
+
+> Haz lo que te apasione en busca de la vocación htmlera.
+
+*Anónima*
+
+--------
+
+> Básicamente, soy un poco nerd y siempre he querido resolver un cubo de Rubik. 
+
+*Georgia Toffolo*
+
 --------
 
 > "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
@@ -71,22 +110,41 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
--------
 
 > Programming isn't about what you know; it's about what you can figure out.
 
 *Chris Pine*
 
 -------
+
+> Let's do this! LLLLLLLEEEEROY JJJEEEEENKKKINNNS!
+
+*Achievement*
+
+-------
+
 > Nunca confíes en un ordenador que no puedas lanzar por la ventana.
 
 *Steve Wosniak*
 
 -------
 
+> It had long since come to my attention that people of accomplishment rarely sat back and let things happen to them. They went out and happened to things.
+
+*Leonardo Da Vinci*
+
+-------
+
 > Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
+
+-------
+
+> Roses are red, violets are blue.
+> Unexpected error on line 32...
+
+*Anonimo - pero reinterpretado por Rodrigo Candido*
 
 -------
 
@@ -113,15 +171,41 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Me viste en Mercadona, yo soy una señora
+Este Adidas es made in China, pero yo voy más mona
+
+*Bad Gyal*
+
+-------
+
+> Si el destino no te abre una puerta, **¡Alohomora!**.
+
+*Una muggle*
+
+-------
+
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
 
 -------
 
+> Se puede causar un mal al intentar hacer el bien. Se puede causar un bien al intentar hacer un mal.
+
+Owi-Develop Kenobi
+
+
+-------
+
 > Lo importante no es saber... Es tener el contacto del que sabe.
 
 *anonimo*
+
+-------
+
+> Hasta la persona más pequeña puede cambiar el curso del futuro
+
+*Dama Galadriel*
 
 -------
 
@@ -134,6 +218,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
+
+-------
+
+> En esa piedra vi a un duende. Me dijo que quemara cosas. 
+
+*Ralph Wiggum*
 
 -------
 
@@ -157,6 +247,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
  Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
  
  *Conan el Bárbaro*
+
+-------
+
+> Ya chole, chango, chilango. ¡Qué chafa chamba te chutas! No checa andar de tacuche y chale con la charola.
+
+*Chango con corbata*
 
 -------
 
@@ -201,6 +297,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No lo intentes. Hazlo o no lo hagas pero no lo intentes.
+
+*Yoda*
+
+------
+
 > A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
 
 *Rick de Rick y Morty*
@@ -219,11 +321,29 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Las drogas son malas porque si las tomas eres un hippie y los hippies son unos apestosos.
+
+*Eric Cartman*
+
+-------
+
+> Vive cada día como si fuera el último, porque un día de estos lo será..
+
+*Tu amigo y vecino*
+
+-------
+
 >Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
 
 -------
+
+>Hay una fuerza motriz más poderosa que el vapor, la electricidad y la energía atómica: la voluntad.
+
+*Albert Einstein* *Josep C.*
+
+--------
 
 > Ray, if someone asks you if you're a god, you say YES!
 
@@ -261,6 +381,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> After very careful consideration, sir, I've come to the conclusion that your new defense system sucks.
+
+*General Beringer (WarGames)*
+
+-------
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
@@ -285,6 +411,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "No one can serve two masters."
+
+*Mt 6:24*
+
+-------
+
 > "Hay dos grandes productos que salieron de Berkeley: LSD y UNIX. No creemos que esto sea una coincidencia"
 
 *Jeremy S. Anderson*
@@ -294,6 +426,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > El miedo es el camino hacia el lado oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento, el sufrimiento al lado oscuro.
 
 *Maestro Yoda*
+
+-------
+
+> hello, IT, have you tried turning it off and on again?
+
+*Roy Trenneman*
 
 -------
 
@@ -514,6 +652,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > Runnig to the future ...
 
 *Yo mismo*
+
+-------
+
+> Dios es real (a no ser que esté declarado como integer)
+
+*José Manuel Carreiro Galicia*
 
 -------
 
@@ -753,6 +897,12 @@ La Esperanza.
 
 -------
 
+> Mouse no encontrado. ¿Usted tiene gato? (S/N)
+
+*José Manuel Carreiro Galicia*
+
+-------
+
 > Chantaje es una palabra muy fea, yo prefiero… extorsión, la X le da mucha clase.
 
 *Bender*
@@ -864,6 +1014,12 @@ La Esperanza.
 > Triple voltereta y nachos por la jeta!!
 
 *Finn el Humano*
+
+-------
+
+> El que lee mucho y anda mucho, ve mucho y sabe mucho.
+
+*El caballero de la triste figura*
 
 -------
 
@@ -1105,6 +1261,12 @@ La Esperanza.
 
 -------
 
+> ¡Las cabras! 
+
+*Jessica Shonda*  
+
+-------
+
 > Ok, ahora al plan B, sea lo que sea.
 
 *Son Goku*
@@ -1332,6 +1494,12 @@ sino por ese tesoro
 
 -------
 
+> Hello, my name is Iñigo Montoya. You killed my father. Prepare to die
+
+*Iñigo Montoya*
+
+-------
+
 > Many of those who have made a **"fork"** from this repository do not deserve, it and some of those who deserve it have not done it. Can you do it for them? Then do not be too eager to reject the **"pull request"**. For even the very wise cannot see all ends.
 
 *Gandalf*
@@ -1371,6 +1539,12 @@ sino por ese tesoro
 > Yo... he visto cosas que vosotros no creeríais: Atacar naves en llamas más allá de Orión. He visto rayos C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán... en el tiempo... como lágrimas en la lluvia. Es hora de morir
 
 *Roy Batty*
+
+-------
+
+> Mientras no te olviden siguirás vivo.
+
+*Pacosangar*
 
 -------
 
@@ -1608,6 +1782,12 @@ sino por ese tesoro
 
 -------
 
+> Have you tried turning it off and on again?
+
+*Doctores en Informática*
+
+-------
+
 > Tres pequeñas frases que te ayudarán a lo largo de tu vida: 1) ¡Cúbreme!, 2) ¡Buena idea jefe!, 3) Estaba así cuando llegué.
 
 *Homer J. Simpson*
@@ -1799,6 +1979,12 @@ sino por ese tesoro
 > Penny, todo es mejor con bluetooth.
 
 *Sheldon Cooper*
+
+-------
+
+> La programación extrema es una experiencia emocional.
+
+*Kent Beck*
 
 -------
 
@@ -2072,6 +2258,12 @@ Segmentation fault [core dumped]
 > You don't have to be a nerd or a programmer or a network engineer to make a difference
 
 *Rafa Navarro*
+
+-------
+
+>Please stay at [127.0.0.1](127.0.0.1) and wear a [255.255.255.0](255.255.255.0).
+
+*Francisco Ríos Galán*
 
 -------
 
@@ -2775,3 +2967,15 @@ But I'm not gonna lie down until I get there.
 > "No pagaré, sé demasiado sobre extorsión".   
 
 *James Gandolfini*
+
+---------
+
+> Humanity has been fighting plagues since the beginning. They kick our ass for a while. Then we attack back.
+
+*Daniel Bueno Web Bootcamp*
+
+---------
+
+> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
+
+*Una pegatina*
