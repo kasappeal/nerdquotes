@@ -2813,6 +2813,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> Humanity has been fighting plagues since the beginning. They kick our ass for a while. Then we attack back.
+
+*Daniel Bueno Web Bootcamp*
+
+---------
+
 > "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
 
 *Una pegatina*
