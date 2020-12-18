@@ -1110,6 +1110,12 @@ La Esperanza.
 
 -------
 
+> ¡Las cabras! 
+
+*Jessica Shonda*  
+
+-------
+
 > Ok, ahora al plan B, sea lo que sea.
 
 *Son Goku*
