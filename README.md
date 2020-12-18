@@ -1143,6 +1143,12 @@ La Esperanza.
 
 -------
 
+> Nadie nos salva,sino nosotros mismos.Nadie puede y nadie debe.Nosotros mismos debemos transitar el camino.
+
+*Jorge Salazar*
+
+-------
+
 > Words are, in my not-so-humble opinion, our most inexhaustible source of magic.
 
 *Albus Dumbledore*
