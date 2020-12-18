@@ -236,6 +236,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Las drogas son malas porque si las tomas eres un hippie y los hippies son unos apestosos.
+
+*Eric Cartman*
+
+-------
+
 > Vive cada día como si fuera el último, porque un día de estos lo será..
 
 *Tu amigo y vecino*
