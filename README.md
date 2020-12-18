@@ -124,6 +124,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Me viste en Mercadona, yo soy una señora
+Este Adidas es made in China, pero yo voy más mona
+
+*Bad Gyal*
+
+-------
+
 > Si el destino no te abre una puerta, **¡Alohomora!**.
 
 *Una muggle*
