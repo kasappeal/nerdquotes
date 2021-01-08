@@ -619,6 +619,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> ¡Mira, un mono de tres cabezas!
+
+*Guybrush Threepwood*
+
+------- 
+
  > Primero resuelve el problema, despues escribe el código.
 
  *John Johnson* *Jorge Vizuete*
