@@ -184,6 +184,12 @@ Este Adidas es made in China, pero yo voy más mona
 
 -------
 
+> Al final el peón y el Rey acaban en la misma caja.
+
+"Ricardo Hernández"
+
+-------
+
 > Si el destino no te abre una puerta, **¡Alohomora!**.
 
 *Una muggle*
