@@ -3009,3 +3009,18 @@ But I'm not gonna lie down until I get there.
 > "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
 
 *Una pegatina*
+
+---------
+
+> "si, la vida te da la espalda, tocale las nalgas".   
+
+*Manuel Duarte*
+
+---------
+
+> "El uso de COBOL paraliza la mente, su enseñanza, por tanto, debe ser considerada como un delito penal."
+
+*E.W. Dijkstra*
+
+
+
