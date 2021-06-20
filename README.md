@@ -11,7 +11,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
@@ -39,6 +38,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Bienaventurados los pesimistas por que ellos hacen backups
 
 *Anonimus homosapiens*
+
+-------
+> La práctica de GIT tiene más trampas que una película de chinos.
+
+*Esther Fernández*
 
 -------
 
