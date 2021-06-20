@@ -110,6 +110,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> 2B || !2B
+
+*Somebody that i used to know*
+
+-------
+
 > ¿Quieres sentirla en el pechou?
 
 *Chuki de Cieza*
