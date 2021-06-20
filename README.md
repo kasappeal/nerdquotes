@@ -40,11 +40,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Anonimus homosapiens*
 
 -------
-> La práctica de GIT tiene más trampas que una película de chinos.
-
-*Esther Fernández*
-
--------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
