@@ -86,6 +86,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No ha sido Gol, porque no ha sido Gol
+
+*Policarpio Rincón*
+
+-------
+
 > Haz lo que te apasione en busca de la vocación htmlera.
 
 *Anónima*
