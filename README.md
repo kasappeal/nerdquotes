@@ -1889,6 +1889,12 @@ sino por ese tesoro
 
 -------
 
+> La práctica de GIT tiene más trampas que una película de chinos.
+
+*Esther*
+
+-------
+
 > Intenté conquistar a una programadora, pero no se deJava.
 
 *Programador C#*
