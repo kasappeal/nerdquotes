@@ -123,6 +123,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Un programador al nacer no llora dice 'Hola Mundo'
+
+*Elfic Ticio*
+
+-------
+
 > Let's do this! LLLLLLLEEEEROY JJJEEEEENKKKINNNS!
 
 *Achievement*
