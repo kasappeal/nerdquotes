@@ -102,6 +102,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Bertram Gilfoyle*
 
+------- 
+> "Ser un nómada, es como caer en un bucle infinito"  
+*Augusto Pi*
+
 -------
 
 > "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
