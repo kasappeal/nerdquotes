@@ -175,6 +175,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *阿曼多最尷尬*
 
+
+------
+
+> Voy a matar a Moe, Wiiii!!!
+
+*Homer Simpson*
+
 -------
 
 > Me viste en Mercadona, yo soy una señora
