@@ -177,6 +177,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+-------
+
+> Tus excusas son mas previsibles que la muerte de Krillin.
+
+*Goku*
+
+-------
+
 > Me viste en Mercadona, yo soy una señora
 Este Adidas es made in China, pero yo voy más mona
 
