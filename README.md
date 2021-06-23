@@ -2946,7 +2946,7 @@ But I'm not gonna lie down until I get there.
 
 -------
 
-> ¿Dónde está la tecla 'ANY'?" -- Homer Simpson, frente a un mensaje "press any key"
+> Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes: sino en ¡cuánto te emborrachas!
 
 *Homer Simpson*
 
