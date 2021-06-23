@@ -147,6 +147,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> be like water, my friend.
+
+* Bruce Lee *
+
+-------
+
 > Roses are red, violets are blue.
 > Unexpected error on line 32...
 
