@@ -11,6 +11,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> When the merge comes and the conflict winds blow, the lone branch dies but the trunk survives..
+
+* Oscar Valdez (Adapted from G.R.R. Martin)
+
+-------
 
 > Tengo más hambre que el tamagochi de un sordo.
 
