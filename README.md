@@ -24,6 +24,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Mientras unos sufren por amor yo sufro porque no compila.
+
+*Lan Solo*
+
+-------
+
 > There is not place like 127.0.0.1
 
 *Unknow*
