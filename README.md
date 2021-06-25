@@ -202,6 +202,12 @@ Este Adidas es made in China, pero yo voy más mona
 
 -------
 
+> Tijeras cortan papel, papel cubre a piedra, piedra aplasta lagarto, lagarto envenena a Spock. _El nuevo piedra-papel-tijera._
+
+*DLP - Mr Sheldon Cooper.*
+
+-------
+
 > Se puede causar un mal al intentar hacer el bien. Se puede causar un bien al intentar hacer un mal.
 
 Owi-Develop Kenobi
