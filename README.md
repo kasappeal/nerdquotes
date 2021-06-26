@@ -529,6 +529,13 @@ Owi-Develop Kenobi
 > There is no darkness but ignorance
 
 *William Shakespeare*
+
+-------
+
+> (tos)(tos)(sorbo de agua) el problema es que me he comido una almendra antes de empezar.
+
+*Fernando Simón* 
+
 -------
 
 > Los grandes árboles de la naturaleza surgieron de indefensas semillas.
