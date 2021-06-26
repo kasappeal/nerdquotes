@@ -50,7 +50,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 
-> La vida seria más facil si los mosquitos chuparan grasa , no sangre .
+
+>   La vida seria más facil si los mosquitos chuparan grasa , no sangre .
 
 *Maria Giaramita*
 
