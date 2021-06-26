@@ -141,6 +141,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El ordenador nació para resolver problemas que antes no existían.
+
+*Bill Gates*
+
+-------
+
 > Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
