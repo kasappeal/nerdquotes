@@ -49,6 +49,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
+> La vida seria más facil si los mosquitos chuparan grasa , no sangre .
+
+*Maria Giaramita*
+
+-------
+
 > Transmite lo que has aprendido: fuerza, maestría; pero insensatez, debilidad, fracaso también. ¡Sí, fracaso sobre todo! El mejor profesor, el fracaso es.
 
 *Yoda*
