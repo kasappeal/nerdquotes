@@ -2027,6 +2027,11 @@ sino por ese tesoro
 > La blasfemia es el unico lenguaje que de verdad conocen todos los programadores.
 
 *Virgulilla Atormentada*
+-------
+
+> El primer paso es establecer que algo es posible, entonces es probable que ocurra.
+
+*Elon "Edison" Musk*
 
 -------
 
