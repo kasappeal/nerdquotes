@@ -554,7 +554,7 @@ Owi-Develop Kenobi
 
 -------
 
-> Hiciste un pull request?
+> Hiciste un pull request amablemente?
 > Si, a mí mismo.
 
 *Antonio López*
