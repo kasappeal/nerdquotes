@@ -1704,6 +1704,12 @@ sino por ese tesoro
 
 -------
 
+> Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+*John Woods*
+
+-------
+
 > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.
 
 *Rich Cookies*
