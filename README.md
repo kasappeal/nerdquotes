@@ -551,6 +551,14 @@ Owi-Develop Kenobi
 
 *Guilherme Mendes*
 
+
+-------
+
+> Hiciste un pull request?
+> Si, a mí mismo.
+
+*Antonio López*
+
 -------
 
 La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
