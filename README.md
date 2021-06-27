@@ -80,6 +80,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La verdad sin empatía es pura maldad.
+
+*Frases Nocturnas*
+
+-------
+
 > Éramos pocos y pario la abuela.
 
 *Alejandro S.*
