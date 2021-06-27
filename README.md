@@ -23,7 +23,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Steve Jobs*
 
 -------
+>Aprendí que el coraje no era la ausencia del miedo, sino el triunfo sobre él
 
+*Nelson Mandela*
+-------
 > There is not place like 127.0.0.1
 
 *Unknow*
