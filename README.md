@@ -24,6 +24,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Ante la duda siempre pregunta. Preguntar es de sabios.
+
+*Alejandro Vázquez*
+
+-------
+
 > There is not place like 127.0.0.1
 
 *Unknow*
