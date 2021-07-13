@@ -202,6 +202,12 @@ Este Adidas es made in China, pero yo voy más mona
 
 -------
 
+> Puede que no sea el hombre más listo del mundo, pero siempre puedo mirar hacia atrás en mi vida y decir que luche por lo que quería
+
+*Peter Griffin*
+
+-------
+
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
