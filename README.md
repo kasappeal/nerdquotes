@@ -452,6 +452,11 @@ Owi-Develop Kenobi
 
 -------
 
+> May de Fork be with you
+
+*Bea MG*
+
+-------
 > After very careful consideration, sir, I've come to the conclusion that your new defense system sucks.
 
 *General Beringer (WarGames)*
