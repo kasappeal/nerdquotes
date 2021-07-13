@@ -62,6 +62,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>I loved math. I was such a nerd! I really enjoyed working through problems and finding the solution.
+
+*Aaron*
+
+-------
+
 >Nvidia, fuck you!.
 
 *Linus Torvalds*
