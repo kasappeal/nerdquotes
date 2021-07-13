@@ -200,6 +200,12 @@ Este Adidas es made in China, pero yo voy más mona
 
 *Bad Gyal*
 
+--------
+
+> Yo me vuelvo pa mi casa
+
+*ET*
+
 -------
 
 > Al final el peón y el Rey acaban en la misma caja.
