@@ -1313,6 +1313,12 @@ La Esperanza.
 
 -------
 
+> C:/DOS;  C:/DOS/RUN; RUN/DOS/RUN
+
+*Camiseta del hombre de las historietas de Los Simpson*
+
+-------
+
 > El **Tetris** es un claro ejemplo de que los errores se acumulan, los triunfos desaparecen y tener un palo largo ayuda mucho.
 
 *Domingo Fiesta Segura*
