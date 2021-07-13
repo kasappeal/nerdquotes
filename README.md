@@ -147,6 +147,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Seeing code no one else can see isn't good sign, even in developers world.
+
+*Bito Wisley*
+
+-------
+
 > Roses are red, violets are blue.
 > Unexpected error on line 32...
 
