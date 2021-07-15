@@ -24,6 +24,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Estoy agotado tratando de mantenerme saludable.
+
+*Steve Yzerman*
+
+-------
+
 > Ante la duda siempre pregunta. Preguntar es de sabios.
 
 *Alejandro Vázquez Chávez*
