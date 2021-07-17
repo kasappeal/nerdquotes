@@ -1,4 +1,3 @@
-
 # nerdquotes
 
 A nerd quotes's repository to have fun and learn git flows with Github!
@@ -32,6 +31,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
+
+-------
+
+> Mientras unos sufren por amor yo sufro porque no compila.
+
+*Lan Solo*
 
 -------
 
