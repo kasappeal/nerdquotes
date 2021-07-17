@@ -1018,6 +1018,14 @@ La Esperanza.
 
 *Guillermo Diaz*
 
+
+
+-------
+
+> ¡¡¡¡¡¡¡¡CORRE PLATANO!!!!!!!!
+
+*JOSEP MIQUEL ARENAS BELTRAN*
+
 ---------
 
 > 1969:
