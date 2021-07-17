@@ -339,6 +339,10 @@ Este Adidas es made in China, pero yo voy más mona
 
 Owi-Develop Kenobi
 
+-------
+
+> Un día la muerte tuvo una experiencia cercana a Chuck Norris.
+*Anónimo en Twitter*
 
 -------
 
