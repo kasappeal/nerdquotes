@@ -57,6 +57,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Kamisama*
 
+-------
+
+> ¡Camina la plantígrada!
+
+*Mi suegro*
+
 
 -------
 
