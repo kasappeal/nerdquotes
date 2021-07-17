@@ -107,7 +107,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Alejandro S.*
 
--------
+--------
+
+> A nerd can call another nerd a nerd.
+
+*Travis Scott.*
+
+--------
 
 > No ha sido Gol, porque no ha sido Gol
 
