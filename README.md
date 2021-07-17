@@ -11,7 +11,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
@@ -1996,6 +1995,12 @@ sino por ese tesoro
 > Tengo la cura, pero no consigo recordar la clave de GitHub
 
 *Dios, intentando hacer un push a https://github.com/Dios/humanidad*
+
+-------
+
+> La práctica de GIT tiene más trampas que una película de chinos.
+
+*Esther*
 
 -------
 
