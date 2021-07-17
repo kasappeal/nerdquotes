@@ -197,6 +197,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Chris Pine*
 
+--------
+
+> "Lo sentimos, tu contraseña debe tener al menos un número, un signo, un animal extinto, un Pokémon legendario y una cita famosa.
+
+*Yolanda Mesa López*
+
 -------
 
 >Un programador al nacer no llora dice 'Hola Mundo'
