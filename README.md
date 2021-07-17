@@ -191,6 +191,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> be like water, my friend.
+
+* Bruce Lee *
+
+--------
+
 > Not all those who wander are lost.
 
 * Bilbo Baggins
