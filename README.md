@@ -57,6 +57,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anonimus homosapiens*
 
+------- 
+
+> Un gran código conlleva una gran paciencia 
+
+*Spider-Mac*
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
