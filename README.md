@@ -1379,6 +1379,12 @@ La Esperanza.
 
 *Hunter Hayes*
 
+--------
+
+> I started with nothing, and I still have most of it.
+
+*Warren Buffett Junior*
+
 -------
 
 > Never trust a computer you can't throw out a window.
