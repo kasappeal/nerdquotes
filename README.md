@@ -17,6 +17,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Better Call a Function! 
+
+*Saul Boot-man*
+
+-------
+
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
@@ -26,6 +32,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
+
+-------
+
+>Aprendí con git  el coraje no era la ausencia del miedo, sino el triunfo de crear un pull request.
+
+*Lito Mandela*
+
+-------
+
+> Ante la duda siempre pregunta. Preguntar es de sabios.
+
+*Alejandro Vázquez Chávez*
 
 -------
 
@@ -45,12 +63,32 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anonimus homosapiens*
 
+------- 
+
+> Un gran código conlleva una gran paciencia 
+
+*Spider-Mac*
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
 
+-------
+
+> ¡Camina la plantígrada!
+
+*Mi suegro*
+
+
+-------
+
+
+
+>   La vida seria más facil si los mosquitos chuparan grasa , no sangre .
+
+*Maria Giaramita*
 
 -------
 
@@ -64,6 +102,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Un Git Master es como un jardinero, siempre tiene las ramas podadas
 
 *A guy from the city*
+
+-------
+
+>I loved math. I was such a nerd! I really enjoyed working through problems and finding the solution.
+
+*Aaron*
 
 -------
 
@@ -85,9 +129,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La verdad sin empatía es pura maldad.
+
+*Frases Nocturnas*
+
+-------
+
 > Éramos pocos y pario la abuela.
 
 *Alejandro S.*
+
+--------
+
+> A nerd can call another nerd a nerd.
+
+*Travis Scott.*
+
+--------
+
+> No ha sido Gol, porque no ha sido Gol
+
+*Policarpio Rincón*
 
 -------
 
@@ -97,7 +159,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
-> Básicamente, soy un poco nerd y siempre he querido resolver un cubo de Rubik. 
+> Básicamente, soy un poco nerd y siempre he querido resolver un cubo de Rubik.
 
 *Georgia Toffolo*
 
@@ -106,6 +168,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Si el surgimiento de una inteligencia artificial todopoderosa es inevitable, es lógico pensar que cuando tomen el poder, nuestros señores digitales castigarán a aquellos de nosotros que no les ayudamos a llegar allí. Ergo, me gustaría ser un idiota útil. Como usted.
 
 *Bertram Gilfoyle*
+
+------- 
+> "Ser un nómada, es como caer en un bucle infinito"  
+*Augusto Pi*
 
 -------
 
@@ -121,10 +187,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I´m a programmer I write code, I will not fix your computer.
+
+*Memorias de un joven programador*
+
+-------
 
 > Programming isn't about what you know; it's about what you can figure out.
 
 *Chris Pine*
+
+-------
+
+>Un programador al nacer no llora dice 'Hola Mundo'
+
+*Elfic Ticio*
 
 -------
 
@@ -152,6 +229,24 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> be like water, my friend.
+
+* Bruce Lee *
+
+--------
+
+> Not all those who wander are lost.
+
+* Bilbo Baggins
+
+-------
+
+> Seeing code no one else can see isn't good sign, even in developers world.
+
+*Bito Wisley*
+
+-------
+
 > Roses are red, violets are blue.
 > Unexpected error on line 32...
 
@@ -159,7 +254,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> En un repositorio de **github** de cuyo contenido no quiero *clonarme* .... 
+> En un repositorio de **github** de cuyo contenido no quiero *clonarme* ....
 
 *Ramón Beltrán*
 
@@ -176,9 +271,30 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> `git` may the `--force` be with you `push`
+
+*Git geek*
+
+-------
+
 > 最尷尬的將是第一個
 
 *阿曼多最尷尬*
+
+
+------
+
+> Voy a matar a Moe, Wiiii!!!
+
+*Homer Simpson*
+
+-------
+
+-------
+
+> Tus excusas son mas previsibles que la muerte de Krillin.
+
+*Goku*
 
 -------
 
@@ -186,6 +302,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 Este Adidas es made in China, pero yo voy más mona
 
 *Bad Gyal*
+
+--------
+
+> Yo me vuelvo pa mi casa
+
+*ET*
 
 -------
 
@@ -201,9 +323,21 @@ Este Adidas es made in China, pero yo voy más mona
 
 -------
 
+> Puede que no sea el hombre más listo del mundo, pero siempre puedo mirar hacia atrás en mi vida y decir que luche por lo que quería
+
+*Peter Griffin*
+
+-------
+
 > Como vaya yo y lo encuentre... ya verás.
 
 *mi madre*
+
+-------
+
+> Tijeras cortan papel, papel cubre a piedra, piedra aplasta lagarto, lagarto envenena a Spock. _El nuevo piedra-papel-tijera._
+
+*DLP - Mr Sheldon Cooper.*
 
 -------
 
@@ -211,6 +345,10 @@ Este Adidas es made in China, pero yo voy más mona
 
 Owi-Develop Kenobi
 
+-------
+
+> Un día la muerte tuvo una experiencia cercana a Chuck Norris.
+*Anónimo en Twitter*
 
 -------
 
@@ -238,7 +376,7 @@ Owi-Develop Kenobi
 
 -------
 
-> En esa piedra vi a un duende. Me dijo que quemara cosas. 
+> En esa piedra vi a un duende. Me dijo que quemara cosas.
 
 *Ralph Wiggum*
 
@@ -262,7 +400,7 @@ Owi-Develop Kenobi
 
 > ¿Qué es lo mejor de la vida?
  Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
- 
+
  *Conan el Bárbaro*
 
 -------
@@ -398,9 +536,20 @@ Owi-Develop Kenobi
 
 -------
 
+> May de Fork be with you
+
+*Bea MG*
+
+-------
 > After very careful consideration, sir, I've come to the conclusion that your new defense system sucks.
 
 *General Beringer (WarGames)*
+
+------- 
+ 
+> Tus excusas son más previsibles que las muertes de Krillin. 
+ 
+*Vegeta* 
 
 -------
 
@@ -515,7 +664,7 @@ Owi-Develop Kenobi
 --------------------
 > Every once in a while, a new technology, an old problem, and a big idea turn into an innovation.
 
-*Dean Kamen*	
+*Dean Kamen*
 
 ------
 
@@ -534,27 +683,42 @@ Owi-Develop Kenobi
 > There is no darkness but ignorance
 
 *William Shakespeare*
+
+-------
+
+> (tos)(tos)(sorbo de agua) el problema es que me he comido una almendra antes de empezar.
+
+*Fernando Simón* 
+
 -------
 
 > Los grandes árboles de la naturaleza surgieron de indefensas semillas.
 
 *frasess.net*
 -------
-> - No sabía que supieras pilotar aviones. 
+> - No sabía que supieras pilotar aviones.
 - Volar sí. Aterrizar no.
 *Henry Jones e Indiana Jones*
 
 -------
-> You don't have to be a nerd or a programmer or a network engineer to make a difference. 
+> You don't have to be a nerd or a programmer or a network engineer to make a difference.
 
-*Rebecca MacKinnon	
+*Rebecca MacKinnon
 
 
 ------
 
-> Serian los gitanos los pioneros del git? 
+> Serian los gitanos los pioneros del git?
 
 *Guilherme Mendes*
+
+
+-------
+
+> Hiciste un pull request amablemente?
+> Si, a mí mismo.
+
+*Antonio López*
 
 -------
 
@@ -589,7 +753,7 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 >Butt Programming @ KeepCoding ! The secret of living a life
 >while KeepCoding is merely a matter of thinking thoughts of excellence.
->Really, it's a matter of programming our minds 
+>Really, it's a matter of programming our minds
 >with the kind of information that will set us Full Stack KeepCoders.
 
 *Frank Sinatring*
@@ -634,12 +798,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 *Guybrush Threepwood*
 
-------- 
+-------
 
  > Primero resuelve el problema, despues escribe el código.
 
  *John Johnson* *Jorge Vizuete*
- 
+
 -------
 
 > El miedo es el camino hacia el Lado Oscuro, el miedo lleva a la ira, la ira lleva al odio, el odio lleva al sufrimiento. Veo mucho miedo en ti.
@@ -690,8 +854,8 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
->Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo. 
-Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador? 
+>Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo.
+Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador?
 La Esperanza.
 
 *"The Sandman" (1989) - Neil Gaiman*
@@ -792,6 +956,13 @@ La Esperanza.
 
 *Martin Luther King*
 
+-------
+
+>No me importa morir intentando alcanzar mi sueño, sólo sé que eso es lo que quiero y es todo lo que me importa.
+
+*Monkey D. Luffy
+*海賊王に俺はなる*
+
 ---------
 
 > Odio programar, Odio programar, Odio programar.
@@ -814,26 +985,26 @@ La Esperanza.
 -------
 
 > El hardware es lo que puedes romper, y el software, lo que puedes maldecir.
- 
+
 *Sr. Justo Emproblemas*
 
 -------
 
 > Los dos guerreros más famosos son la paciencia y el tiempo.
- 
+
 *Leo Tolstoy*
 
 -------
 
 > Moo'. Are you happy now?
- 
+
 *Tauren male*
 
 ------
 
-> To err is human, but to really foul things up you need a computer. 
+> To err is human, but to really foul things up you need a computer.
 
-*Paul R. Ehrlich* 
+*Paul R. Ehrlich*
 
 ------
 
@@ -866,7 +1037,7 @@ La Esperanza.
 *Gandalf - WhiteStyle*
 
 -------
-  
+
 > Soy programador y no escribo código en lenguaje jsalkjdaskdkasjh.
 
 *Miguel Alcaraz*
@@ -885,9 +1056,17 @@ La Esperanza.
 
 -------
 
-> I'm just a big old nerd. I'm not that cool guy at all. 
+> I'm just a big old nerd. I'm not that cool guy at all.
 
 *Guillermo Diaz*
+
+
+
+-------
+
+> ¡¡¡¡¡¡¡¡CORRE PLATANO!!!!!!!!
+
+*JOSEP MIQUEL ARENAS BELTRAN*
 
 ---------
 
@@ -902,7 +1081,7 @@ La Esperanza.
 
 -------
 
-> Mec Mec! 
+> Mec Mec!
 
 *El correcaminos*
 
@@ -939,19 +1118,19 @@ La Esperanza.
 -------
 
 > No te olvides de poner el where en el delete from
- 
+
 *Aristoteles fan club*
 
 -------
 
 > "Padre, lo de wikileaks", le dice la hija al padre.
- 
+
 *Ignatius Farray*
 
 -------
 
 > No sé muy bien quién es Dios, sólo sé que es más poderoso que papá y mamá juntos.
- 
+
 *Lisa Simpson*
 
 -------
@@ -1076,7 +1255,7 @@ La Esperanza.
 
 -------
 
-> My name was on the street? When we bounce from this shit here, y'all going to go down on them corners and let the people know: Word did not get back to me. Let them know Marlo step to any motherfucker: Omar, Barksdale, whoever. My name is my name! 
+> My name was on the street? When we bounce from this shit here, y'all going to go down on them corners and let the people know: Word did not get back to me. Let them know Marlo step to any motherfucker: Omar, Barksdale, whoever. My name is my name!
 
 *Marlo Stanfield*
 
@@ -1244,6 +1423,12 @@ La Esperanza.
 
 -------
 
+> C:/DOS;  C:/DOS/RUN; RUN/DOS/RUN
+
+*Camiseta del hombre de las historietas de Los Simpson*
+
+-------
+
 > El **Tetris** es un claro ejemplo de que los errores se acumulan, los triunfos desaparecen y tener un palo largo ayuda mucho.
 
 *Domingo Fiesta Segura*
@@ -1290,7 +1475,7 @@ La Esperanza.
 
 -------
 
-> ¡Las cabras! 
+> ¡Las cabras!
 
 *Jessica Shonda*  
 
@@ -1709,6 +1894,12 @@ sino por ese tesoro
 
 -------
 
+> Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+*John Woods*
+
+-------
+
 > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.
 
 *Rich Cookies*
@@ -1805,6 +1996,12 @@ sino por ese tesoro
 
 -------
 
+> Unix is user friendly. It's just selective about who its friends are. 
+
+*Janis Gitchie*
+
+-------
+
 > Tengo un amigo que dice que css es un lenguaje de programación.
 
 *Persona tolerante*
@@ -1892,6 +2089,12 @@ sino por ese tesoro
 > Tengo la cura, pero no consigo recordar la clave de GitHub
 
 *Dios, intentando hacer un push a https://github.com/Dios/humanidad*
+
+-------
+
+> La práctica de GIT tiene más trampas que una película de chinos.
+
+*Esther*
 
 -------
 
@@ -2017,6 +2220,12 @@ sino por ese tesoro
 
 -------
 
+> ¿Cuál es la mayor mentira que has escuchado a un programador? -> "Debería funcionar ahora"
+
+*Michael Hernández*
+
+-------
+
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
@@ -2032,6 +2241,11 @@ sino por ese tesoro
 > La blasfemia es el unico lenguaje que de verdad conocen todos los programadores.
 
 *Virgulilla Atormentada*
+-------
+
+> El primer paso es establecer que algo es posible, entonces es probable que ocurra.
+
+*Elon "Edison" Musk*
 
 -------
 
@@ -2075,7 +2289,7 @@ Segmentation fault [core dumped]
 
 -------
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. 
+> Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 *A web designer*
 -------
@@ -2232,7 +2446,7 @@ Segmentation fault [core dumped]
 
 > "Empty your memory, with a free()… like a pointer! If you cast a pointer to an integer, it becomes the integer, if you cast a pointer to a struct, it becomes the struct… The pointer can crash…, and can Overflow… Be a pointer my friend…"
 
-*Isma Lee. Alumno WEB VII* 
+*Isma Lee. Alumno WEB VII*
 
 ----------
 
@@ -2266,9 +2480,9 @@ Segmentation fault [core dumped]
 
 -------
 
-> Use your aggressive feelings boy, let the hate flow through you. 
+> Use your aggressive feelings boy, let the hate flow through you.
 
-*Darth Sidious* 
+*Darth Sidious*
 
 -------
 
@@ -2296,7 +2510,7 @@ Segmentation fault [core dumped]
 
 -------
 
-> Without requirements or design, programming is the art of adding bugs to an empty text file. 
+> Without requirements or design, programming is the art of adding bugs to an empty text file.
 
 *Louis Srygley*
 
@@ -2327,7 +2541,7 @@ Segmentation fault [core dumped]
 -------
 
 > “All the geniuses and greats are really just nerds with experience.”
- 
+
 *A.D. Posey*
 
 -------
@@ -2610,7 +2824,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 -------
 
 > -Y si... Y si...    -Si mi abuela tendría hueos, sería mi abuelo.
-  
+
 *if shit*
 
 -------
@@ -2951,6 +3165,12 @@ But I'm not gonna lie down until I get there.
 
 -------
 
+> Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes: sino en ¡cuánto te emborrachas!
+
+*Homer Simpson*
+
+-------
+
 > Hay dos formas de hacerse entender: mediante el amor verdadero y mediante la razón pura.
 
 *Carl Friedrich Gauss*
@@ -2969,7 +3189,7 @@ But I'm not gonna lie down until I get there.
 
 -------
 
-> No cuentes 10 cosas que vayas a hacer, cuenta una que hayas echo bien. 
+> No cuentes 10 cosas que vayas a hacer, cuenta una que hayas echo bien.
 
 *Joaquin Jimenez WEB V*
 
