@@ -1933,6 +1933,12 @@ sino por ese tesoro
 
 -------
 
+> Unix is user friendly. It's just selective about who its friends are. 
+
+*Janis Gitchie*
+
+-------
+
 > Tengo un amigo que dice que css es un lenguaje de programación.
 
 *Persona tolerante*
