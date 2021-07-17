@@ -82,10 +82,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A day without sunshine is like, you know, night.
+
+*Steve Martin*
+
+-------
+
 > ¡Camina la plantígrada!
 
 *Mi suegro*
-
 
 -------
 
