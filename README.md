@@ -2204,6 +2204,12 @@ sino por ese tesoro
 
 -------
 
+> ¿Cuál es la mayor mentira que has escuchado a un programador? -> "Debería funcionar ahora"
+
+*Michael Hernández*
+
+-------
+
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
