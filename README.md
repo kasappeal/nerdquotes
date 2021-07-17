@@ -251,6 +251,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> `git` may the `--force` be with you `push`
+
+*Git geek*
+
+-------
+
 > 最尷尬的將是第一個
 
 *阿曼多最尷尬*
