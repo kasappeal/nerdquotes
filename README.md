@@ -24,6 +24,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Aprendí con git  el coraje no era la ausencia del miedo, sino el triunfo de crear un pull request.
+
+*Lito Mandela*
+
+-------
+
 > Ante la duda siempre pregunta. Preguntar es de sabios.
 
 *Alejandro Vázquez Chávez*
