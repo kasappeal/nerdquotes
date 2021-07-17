@@ -491,6 +491,12 @@ Owi-Develop Kenobi
 
 *General Beringer (WarGames)*
 
+------- 
+ 
+> Tus excusas son más previsibles que las muertes de Krillin. 
+ 
+*Vegeta* 
+
 -------
 
 > Se te entiende menos que una psicofonía de Chewbacca.
