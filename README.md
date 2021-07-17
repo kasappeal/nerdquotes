@@ -3054,6 +3054,12 @@ But I'm not gonna lie down until I get there.
 
 -------
 
+> Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes: sino en ¡cuánto te emborrachas!
+
+*Homer Simpson*
+
+-------
+
 > Hay dos formas de hacerse entender: mediante el amor verdadero y mediante la razón pura.
 
 *Carl Friedrich Gauss*
