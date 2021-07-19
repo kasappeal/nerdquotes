@@ -34,6 +34,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Estoy agotado tratando de mantenerme saludable.
+
+*Steve Yzerman*
+
+-------
+
 > Mientras unos sufren por amor yo sufro porque no compila.
 
 *Lan Solo*
