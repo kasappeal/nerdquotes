@@ -1,4 +1,3 @@
-
 # nerdquotes
 
 A nerd quotes's repository to have fun and learn git flows with Github!
@@ -11,6 +10,17 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> When the merge comes and the conflict winds blow, the lone branch dies but the trunk survives..
+
+* Oscar Valdez (Adapted from G.R.R. Martin) *
+
+-------
+
+> Better Call a Function! 
+
+*Saul Boot-man*
+
+-------
 
 > Tengo más hambre que el tamagochi de un sordo.
 
@@ -27,6 +37,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Estoy agotado tratando de mantenerme saludable.
 
 *Steve Yzerman*
+
+-------
+
+> Mientras unos sufren por amor yo sufro porque no compila.
+
+*Lan Solo*
+
+-------
+
+>Aprendí con git  el coraje no era la ausencia del miedo, sino el triunfo de crear un pull request.
+
+*Lito Mandela*
 
 -------
 
@@ -52,12 +74,37 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anonimus homosapiens*
 
+------- 
+
+> Un gran código conlleva una gran paciencia 
+
+*Spider-Mac*
+
 -------
 
 >Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
 
+-------
+
+> A day without sunshine is like, you know, night.
+
+*Steve Martin*
+
+-------
+
+> ¡Camina la plantígrada!
+
+*Mi suegro*
+
+-------
+
+
+
+>   La vida seria más facil si los mosquitos chuparan grasa , no sangre .
+
+*Maria Giaramita*
 
 -------
 
@@ -98,11 +145,23 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La verdad sin empatía es pura maldad.
+
+*Frases Nocturnas*
+
+-------
+
 > Éramos pocos y pario la abuela.
 
 *Alejandro S.*
 
--------
+--------
+
+> A nerd can call another nerd a nerd.
+
+*Travis Scott.*
+
+--------
 
 > No ha sido Gol, porque no ha sido Gol
 
@@ -126,11 +185,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Bertram Gilfoyle*
 
+------- 
+> "Ser un nómada, es como caer en un bucle infinito"  
+*Augusto Pi*
+
 -------
 
 > "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
 
 *Petter Griffin*
+
+-------
+
+> 2B || !2B
+
+*Somebody that i used to know*
 
 -------
 
@@ -149,6 +218,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Programming isn't about what you know; it's about what you can figure out.
 
 *Chris Pine*
+
+--------
+
+> "Lo sentimos, tu contraseña debe tener al menos un número, un signo, un animal extinto, un Pokémon legendario y una cita famosa.
+
+*Yolanda Mesa López*
 
 -------
 
@@ -176,11 +251,23 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El ordenador nació para resolver problemas que antes no existían.
+
+*Bill Gates*
+
+-------
+
 > Try Not, Do,  or do not… there is no try.
 
 *Minch Yoda*
 
 -------
+
+> be like water, my friend.
+
+* Bruce Lee *
+
+--------
 
 > Not all those who wander are lost.
 
@@ -218,9 +305,30 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> `git` may the `--force` be with you `push`
+
+*Git geek*
+
+-------
+
 > 最尷尬的將是第一個
 
 *阿曼多最尷尬*
+
+
+------
+
+> Voy a matar a Moe, Wiiii!!!
+
+*Homer Simpson*
+
+-------
+
+-------
+
+> Tus excusas son mas previsibles que la muerte de Krillin.
+
+*Goku*
 
 -------
 
@@ -271,6 +379,10 @@ Este Adidas es made in China, pero yo voy más mona
 
 Owi-Develop Kenobi
 
+-------
+
+> Un día la muerte tuvo una experiencia cercana a Chuck Norris.
+*Anónimo en Twitter*
 
 -------
 
@@ -467,6 +579,12 @@ Owi-Develop Kenobi
 
 *General Beringer (WarGames)*
 
+------- 
+ 
+> Tus excusas son más previsibles que las muertes de Krillin. 
+ 
+*Vegeta* 
+
 -------
 
 > Se te entiende menos que una psicofonía de Chewbacca.
@@ -599,6 +717,13 @@ Owi-Develop Kenobi
 > There is no darkness but ignorance
 
 *William Shakespeare*
+
+-------
+
+> (tos)(tos)(sorbo de agua) el problema es que me he comido una almendra antes de empezar.
+
+*Fernando Simón* 
+
 -------
 
 > Los grandes árboles de la naturaleza surgieron de indefensas semillas.
@@ -969,6 +1094,14 @@ La Esperanza.
 
 *Guillermo Diaz*
 
+
+
+-------
+
+> ¡¡¡¡¡¡¡¡CORRE PLATANO!!!!!!!!
+
+*JOSEP MIQUEL ARENAS BELTRAN*
+
 ---------
 
 > 1969:
@@ -1273,6 +1406,12 @@ La Esperanza.
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
+
+--------
+
+> I started with nothing, and I still have most of it.
+
+*Warren Buffett Junior*
 
 -------
 
@@ -1795,6 +1934,12 @@ sino por ese tesoro
 
 -------
 
+> Always code as if the person who ends up maintaining your code will be a violent psychopath who knows where you live.
+
+*John Woods*
+
+-------
+
 > Programming today is a race between software engineers striving to build bigger and better idiot-proof programs, and the universe trying to produce bigger and better idiots. So far, the universe is winning.
 
 *Rich Cookies*
@@ -1891,6 +2036,12 @@ sino por ese tesoro
 
 -------
 
+> Unix is user friendly. It's just selective about who its friends are. 
+
+*Janis Gitchie*
+
+-------
+
 > Tengo un amigo que dice que css es un lenguaje de programación.
 
 *Persona tolerante*
@@ -1978,6 +2129,12 @@ sino por ese tesoro
 > Tengo la cura, pero no consigo recordar la clave de GitHub
 
 *Dios, intentando hacer un push a https://github.com/Dios/humanidad*
+
+-------
+
+> La práctica de GIT tiene más trampas que una película de chinos.
+
+*Esther*
 
 -------
 
@@ -2100,6 +2257,12 @@ sino por ese tesoro
 > La programación extrema es una experiencia emocional.
 
 *Kent Beck*
+
+-------
+
+> ¿Cuál es la mayor mentira que has escuchado a un programador? -> "Debería funcionar ahora"
+
+*Michael Hernández*
 
 -------
 
@@ -3042,6 +3205,12 @@ But I'm not gonna lie down until I get there.
 
 -------
 
+> Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes: sino en ¡cuánto te emborrachas!
+
+*Homer Simpson*
+
+-------
+
 > Hay dos formas de hacerse entender: mediante el amor verdadero y mediante la razón pura.
 
 *Carl Friedrich Gauss*
@@ -3105,3 +3274,18 @@ But I'm not gonna lie down until I get there.
 > "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
 
 *Una pegatina*
+
+---------
+
+> "si, la vida te da la espalda, tocale las nalgas".   
+
+*Manuel Duarte*
+
+---------
+
+> "El uso de COBOL paraliza la mente, su enseñanza, por tanto, debe ser considerada como un delito penal."
+
+*E.W. Dijkstra*
+
+
+
