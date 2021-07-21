@@ -465,6 +465,12 @@ Owi-Develop Kenobi
 
 -------
 
+> Cada día sabemos más y entendemos menos
+
+*Albert Einstein*
+
+-------
+
 > No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
 
 *Yoda*
