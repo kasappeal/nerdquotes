@@ -653,6 +653,12 @@ Owi-Develop Kenobi
 
 -------
 
+> Cada día sabemos más y entendemos menos
+
+*Albert Einstein*
+
+-------
+
 > No lo intentes. Hazlo, o no lo hagas, pero no lo intentes.
 
 *Yoda*
@@ -3277,6 +3283,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "No pain no gain"
+
+*Benjamín Franklin*
+
+---------
+
 > "si, la vida te da la espalda, tocale las nalgas".   
 
 *Manuel Duarte*
@@ -3286,6 +3298,4 @@ But I'm not gonna lie down until I get there.
 > "El uso de COBOL paraliza la mente, su enseñanza, por tanto, debe ser considerada como un delito penal."
 
 *E.W. Dijkstra*
-
-
 
