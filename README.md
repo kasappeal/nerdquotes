@@ -126,10 +126,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Isaac Asimov*
 
 
------------------
 >I loved math. I was such a nerd! I really enjoyed working through problems and finding the solution.
 
 *Aaron*
+-------
+
+> La vida es agradable. La muerte es tranquila. Lo malo es la transición.
+
+*Isaac Asimov*
 
 -------
 
