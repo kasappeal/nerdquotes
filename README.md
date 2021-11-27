@@ -1766,6 +1766,12 @@ sino por ese tesoro
 
 -------
 
+> Nothing's perfect, the world's not perfect, but it's there for us, trying the best it can. That's what makes it so damn beautiful.
+
+*Roy Mustang*
+
+-------
+
 > I'm not anti-social; I'm just not user friendly.
 
 *Unknown*
