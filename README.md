@@ -338,6 +338,11 @@ Este Adidas es made in China, pero yo voy más mona
 *Bad Gyal*
 
 --------
+> Never understimate the power of overwhelming stupidity in overwhelming numbers
+
+*Goblins, Magic The gathering*
+
+--------
 
 > Yo me vuelvo pa mi casa
 
