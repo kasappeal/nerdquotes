@@ -68,6 +68,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Boris Alarcon Milla*
 
+-------
+
+> Git, Ricky y Morty: ¿Quién no desea un git reset hard en su vida?
+
+*Juanma Lugosi*
+
 ------------
 
 > Bienaventurados los pesimistas por que ellos hacen backups
