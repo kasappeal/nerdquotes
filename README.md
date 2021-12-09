@@ -10,6 +10,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A wise man can learn more from a foolish question than a fool can learn from a wise answer.
+
+*Bruce Lee*
+-------
+
 > When the merge comes and the conflict winds blow, the lone branch dies but the trunk survives..
 
 * Oscar Valdez (Adapted from G.R.R. Martin) *
