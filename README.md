@@ -126,6 +126,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Hola.Me llamo Iñigo Montoya, tú mataste a mi padre. Prepárate a morir
+
+*Iñigo Montoya(La princesa prometida)*
+
+-------
+
 > Transmite lo que has aprendido: fuerza, maestría; pero insensatez, debilidad, fracaso también. ¡Sí, fracaso sobre todo! El mejor profesor, el fracaso es.
 
 *Yoda*
