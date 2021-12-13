@@ -3059,6 +3059,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> How big would you dream if you knew you couldn't fail?
+
+*Vitálik Buterin Jr.*
+
+-------
+
 > Talk is cheap. Show me the code.
 
 *Linus Torvalds*
