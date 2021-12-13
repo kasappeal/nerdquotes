@@ -3381,3 +3381,7 @@ But I'm not gonna lie down until I get there.
 
 *E.W. Dijkstra*
 
+---------
+> "Toda gran historia merece ser adornada."
+
+*Gandalf, El Hobbit. Un viaje inesperado.
