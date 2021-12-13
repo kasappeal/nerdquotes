@@ -13,6 +13,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
+
+-------
+
+> Tengo la sensación de haber estado antes aquí. ¿Cómo lo sabes? La Wi-Fi se ha conectado sola.
+
+*Anónimo*
+
+-------
+
+> Nunca mandes a un humano a hacer el trabajo de una máquina.
+
+*Agente Smith*
+
 -------
 
 > When the merge comes and the conflict winds blow, the lone branch dies but the trunk survives..
@@ -36,6 +49,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
+
+-------
+
+> Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
+
+ *Guido Magaldi*
 
 -------
 
@@ -113,6 +132,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Hola.Me llamo Iñigo Montoya, tú mataste a mi padre. Prepárate a morir
+
+*Iñigo Montoya(La princesa prometida)*
+
+-------
+
 > Transmite lo que has aprendido: fuerza, maestría; pero insensatez, debilidad, fracaso también. ¡Sí, fracaso sobre todo! El mejor profesor, el fracaso es.
 
 *Yoda*
@@ -129,6 +154,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >I loved math. I was such a nerd! I really enjoyed working through problems and finding the solution.
 
 *Aaron*
+-------
+
+> La vida es agradable. La muerte es tranquila. Lo malo es la transición.
+
+*Isaac Asimov*
 
 -------
 
@@ -343,6 +373,11 @@ Este Adidas es made in China, pero yo voy más mona
 *Bad Gyal*
 
 --------
+> Never understimate the power of overwhelming stupidity in overwhelming numbers
+
+*Goblins, Magic The gathering*
+
+--------
 
 > Yo me vuelvo pa mi casa
 
@@ -409,6 +444,12 @@ Owi-Develop Kenobi
 
 -------
 
+> ¿Quieres vender agua azucarada el resto de tu vida o quieres venir conmigo y cambiar el mundo?
+
+*Sr Jobs*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
@@ -418,6 +459,12 @@ Owi-Develop Kenobi
 > En esa piedra vi a un duende. Me dijo que quemara cosas.
 
 *Ralph Wiggum*
+
+-------
+
+> 640 Kb deberían ser suficientes para cualquiera.
+
+*Bill Gates*
 
 -------
 
@@ -1771,6 +1818,12 @@ sino por ese tesoro
 
 -------
 
+> Nothing's perfect, the world's not perfect, but it's there for us, trying the best it can. That's what makes it so damn beautiful.
+
+*Roy Mustang*
+
+-------
+
 > I'm not anti-social; I'm just not user friendly.
 
 *Unknown*
@@ -3020,6 +3073,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 > Normalmente no rezo, pero si estás ahí­, por favor, ¡¡¡sálvame Superman!!!
 
 *Homer Simpson*
+
+-------
+
+> How big would you dream if you knew you couldn't fail?
+
+*Vitálik Buterin Jr.*
 
 -------
 
