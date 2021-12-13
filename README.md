@@ -421,6 +421,12 @@ Owi-Develop Kenobi
 
 -------
 
+> ¿Quieres vender agua azucarada el resto de tu vida o quieres venir conmigo y cambiar el mundo?
+
+*Sr Jobs*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
