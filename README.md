@@ -16,6 +16,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Nunca mandes a un humano a hacer el trabajo de una máquina.
+
+*Agente Smith*
+
+-------
+
 > When the merge comes and the conflict winds blow, the lone branch dies but the trunk survives..
 
 * Oscar Valdez (Adapted from G.R.R. Martin) *
@@ -37,6 +43,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
+
+-------
+
+> Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
+
+ *Guido Magaldi*
 
 -------
 
@@ -344,6 +356,11 @@ Este Adidas es made in China, pero yo voy más mona
 *Bad Gyal*
 
 --------
+> Never understimate the power of overwhelming stupidity in overwhelming numbers
+
+*Goblins, Magic The gathering*
+
+--------
 
 > Yo me vuelvo pa mi casa
 
@@ -410,6 +427,12 @@ Owi-Develop Kenobi
 
 -------
 
+> ¿Quieres vender agua azucarada el resto de tu vida o quieres venir conmigo y cambiar el mundo?
+
+*Sr Jobs*
+
+-------
+
 > La hipocresía es la grasa que lubrica el mecanismo de la vida en sociedad.
 
 *Berto Romero*
@@ -419,6 +442,12 @@ Owi-Develop Kenobi
 > En esa piedra vi a un duende. Me dijo que quemara cosas.
 
 *Ralph Wiggum*
+
+-------
+
+> 640 Kb deberían ser suficientes para cualquiera.
+
+*Bill Gates*
 
 -------
 
