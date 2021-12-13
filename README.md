@@ -416,6 +416,12 @@ Owi-Develop Kenobi
 
 -------
 
+> 640 Kb deberían ser suficientes para cualquiera.
+
+*Bill Gates*
+
+-------
+
 > Sólo hay 10 tipos de personas, las que saben programar y las que no.
 
 *Super Sayan Over9000*
