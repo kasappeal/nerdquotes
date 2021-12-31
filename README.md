@@ -82,6 +82,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> En teoría, la teoría y la práctica son los mismos. En la práctica, no es.
+
+*Yoggi Berra*
+
+-------
+
 >Aprendí con git  el coraje no era la ausencia del miedo, sino el triunfo de crear un pull request.
 
 *Lito Mandela*
