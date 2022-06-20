@@ -46,12 +46,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> You need to accept the fact that you’re not the best and have all the will to strive to be better than anyone you face.
-
-*Roronoa Zoro*
-
--------
-
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
