@@ -76,6 +76,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La vida es como cocinar una tortilla de patatas. Si empieza a oler a quemado espabila y dale la vuelta.
+
+*JosSid Vicious*
+
+--------------
+
 > Mientras unos sufren por amor yo sufro porque no compila.
 
 *Lan Solo*
