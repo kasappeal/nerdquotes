@@ -67,6 +67,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
 
  *Guido Magaldi*
+ 
+-------
+
+> Chinchilla: Auchenchia de lugar para chentarche.
+
+ *Carlos Alcántara*
 
 -------
 
