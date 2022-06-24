@@ -64,6 +64,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Me gustan más los sueños del futuro que la historia del pasado.
+
+*Thomas Jefferson*
+
+-------
+
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
