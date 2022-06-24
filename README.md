@@ -352,6 +352,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Muchas tardes y buenas gracias
+
+*Maraino Rajoy*
+
+-------
+
 > En un repositorio de **github** de cuyo contenido no quiero *clonarme* ....
 
 *Ramón Beltrán*
