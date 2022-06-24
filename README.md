@@ -58,6 +58,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> People call me a nerd because I like to spend time on the computer.
+
+*Nonito Donaire*
+
+-------
+
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
