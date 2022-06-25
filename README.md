@@ -921,6 +921,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> I have spoken.
+
+*Kuiil*
+
+-------
+
  > Primero resuelve el problema, despues escribe el código.
 
  *John Johnson* *Jorge Vizuete*
