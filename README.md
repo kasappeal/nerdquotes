@@ -983,6 +983,12 @@ La Esperanza.
 
 -------
 
+> ¿Lo habrías tirado si no te hubiera dicho nada?
+
+*El Oráculo - Matrix*
+
+-------
+
 > He privatizado exitosamente la paz mundial.
 
 *Tony Stark - Iron Man*
