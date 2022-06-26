@@ -82,6 +82,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+
+
+>Commitment is an act, not a word.
+-------
+*Jean-Paul Sartre*
+
+
 > En teoría, la teoría y la práctica son los mismos. En la práctica, no es.
 
 *Yoggi Berra*
