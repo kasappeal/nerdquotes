@@ -40,6 +40,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+-------
+> "El cafe con leche es como el cafe... pero con leche".
+
+* Paulo Coelho*
+-------
+
 > Only those who have suffered long, can see the light within the shadows.
 
 *Roronoa Zoro*
