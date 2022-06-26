@@ -3393,6 +3393,15 @@ But I'm not gonna lie down until I get there.
 *E.W. Dijkstra*
 
 ---------
+
 > "Toda gran historia merece ser adornada."
 
 *Gandalf, El Hobbit. Un viaje inesperado.
+
+---------
+
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."
+
+*Dan Salomon*
+
+---------
