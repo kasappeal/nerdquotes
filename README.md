@@ -16,6 +16,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Don't panic and always carry a towel.
+
+*Douglas Adams*
+
+-------
+
 > Tengo la sensación de haber estado antes aquí. ¿Cómo lo sabes? La Wi-Fi se ha conectado sola.
 
 *Anónimo*
