@@ -10,6 +10,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No sólo del commit vivirá el DevOp...
+
+*MorenoCreativo*
+
+-------
+
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
