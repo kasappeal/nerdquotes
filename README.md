@@ -22,6 +22,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Wajaaaaaa
+
+*Mario Bros*
+
+-------
+
 > Nunca mandes a un humano a hacer el trabajo de una máquina.
 
 *Agente Smith*
