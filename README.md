@@ -3382,6 +3382,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "La verdad es a menudo lo que hacemos de ella"
+
+*Obi-Wan Kenobi*
+
+---------
+
 > "si, la vida te da la espalda, tocale las nalgas".   
 
 *Manuel Duarte*
