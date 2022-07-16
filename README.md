@@ -303,6 +303,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> To err is human - and to blame it on a computer is even more so.
+
+*Robert Orben*
+
+--------
+
 > Si el surgimiento de una inteligencia artificial todopoderosa es inevitable, es lógico pensar que cuando tomen el poder, nuestros señores digitales castigarán a aquellos de nosotros que no les ayudamos a llegar allí. Ergo, me gustaría ser un idiota útil. Como usted.
 
 *Bertram Gilfoyle*
