@@ -189,6 +189,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> One mariposita was in the garden, when de repente she fell off. - ¡Que tonta! - She said - ¡I forget to open my alitas!
+
+*Mariposita despistada*
+
+-------
+
 > ¡Camina la plantígrada!
 
 *Mi suegro*
