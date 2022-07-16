@@ -10,9 +10,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No sólo del commit vivirá el DevOp...
+
+*MorenoCreativo*
+
+-------
+
+> Once you get a sense of acomplishment, groth stops. 
+
+*Masayoshi son*
+
+-------
+
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
+
+-------
+
+> Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
+
+*Iron MAC*
 
 -------
 
@@ -40,6 +58,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+-------
+> "El cafe con leche es como el cafe... pero con leche".
+
+* Paulo Coelho*
+-------
+
 > Only those who have suffered long, can see the light within the shadows.
 
 *Roronoa Zoro*
@@ -64,6 +88,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> People call me a nerd because I like to spend time on the computer.
+
+*Nonito Donaire*
+
+-------
+
+> Me gustan más los sueños del futuro que la historia del pasado.
+
+*Thomas Jefferson*
+
+-------
+
 > Estoy convencido de que por lo menos la mitad de lo que separa a los emprendedores exitosos de los que no lo son es mera perseverancia.
 
 *Steve Jobs*
@@ -73,6 +109,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
 
  *Guido Magaldi*
+ 
+-------
+
+> Chinchilla: Auchenchia de lugar para chentarche.
+
+ *Carlos Alcántara*
 
 -------
 
@@ -85,6 +127,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Mientras unos sufren por amor yo sufro porque no compila.
 
 *Lan Solo*
+
+-------
+
+
+
+>Commitment is an act, not a word.
+
+*Jean-Paul Sartre*
 
 -------
 
@@ -141,6 +191,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Kamisama*
 
 -------
+
 >A nerd can call another nerd a nerd.
 
 *Travis Scott*
@@ -153,17 +204,33 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> 404 Not Found
+
+*HTTP*
+
+-------
+
+> One mariposita was in the garden, when de repente she fell off. - ¡Que tonta! - She said - ¡I forget to open my alitas!
+
+*Mariposita despistada*
+
+-------
+
 > ¡Camina la plantígrada!
 
 *Mi suegro*
 
 -------
 
-
-
 >   La vida seria más facil si los mosquitos chuparan grasa , no sangre .
 
 *Maria Giaramita*
+
+-------
+
+> Lo que enfrentas desaparecerá, aquello de lo que huyes siempre te seguirá.
+
+*El Canadiense*
 
 -------
 
@@ -200,6 +267,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Nvidia, fuck you!.
 
 *Linus Torvalds*
+
+-------
+
+>Busca la libertad y será esparcida en frente de tus ojos. Si el sueño sin fin guía tu espíritu incansable, ¡hazlo tuyo! ¡Sube tu bandera! ¡Y párate firme!
+
+*Gold D. Roger*
 
 -------
 
@@ -248,6 +321,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Básicamente, soy un poco nerd y siempre he querido resolver un cubo de Rubik.
 
 *Georgia Toffolo*
+
+--------
+
+> To err is human - and to blame it on a computer is even more so.
+
+*Robert Orben*
 
 --------
 
@@ -358,6 +437,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Muchas tardes y buenas gracias
+
+*Maraino Rajoy*
+
+-------
+
 > En un repositorio de **github** de cuyo contenido no quiero *clonarme* ....
 
 *Ramón Beltrán*
@@ -453,6 +538,12 @@ Este Adidas es made in China, pero yo voy más mona
 > Se puede causar un mal al intentar hacer el bien. Se puede causar un bien al intentar hacer un mal.
 
 Owi-Develop Kenobi
+
+-------
+
+> Si lo sé, no vengo... pero ya que he venido, mejor me voy
+
+*El que no quería venir*
 
 -------
 
@@ -927,6 +1018,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> I have spoken.
+
+*Kuiil*
+
+-------
+
  > Primero resuelve el problema, despues escribe el código.
 
  *John Johnson* *Jorge Vizuete*
@@ -986,6 +1083,12 @@ Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador?
 La Esperanza.
 
 *"The Sandman" (1989) - Neil Gaiman*
+
+-------
+
+> ¿Lo habrías tirado si no te hubiera dicho nada?
+
+*El Oráculo - Matrix*
 
 -------
 
@@ -1469,6 +1572,12 @@ La Esperanza.
 > Luke, I am your father.
 
 *Darth Vader*
+
+-------
+
+> Existen dos tipos de lenguajes de programación: por un lado, aquellos de los que la gente se queja todo el rato; por otro, los que nadie utiliza.
+
+*Bjarne Stroustrup*
 
 -------
 
@@ -3388,6 +3497,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "La verdad es a menudo lo que hacemos de ella"
+
+*Obi-Wan Kenobi*
+
+---------
+
 > "si, la vida te da la espalda, tocale las nalgas".   
 
 *Manuel Duarte*
@@ -3401,4 +3516,9 @@ But I'm not gonna lie down until I get there.
 ---------
 > "Toda gran historia merece ser adornada."
 
-*Gandalf, El Hobbit. Un viaje inesperado.
+*Gandalf, El Hobbit. Un viaje inesperado.*
+
+---------
+> "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
+
+*Homer J. Simpson*
