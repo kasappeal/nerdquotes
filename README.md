@@ -28,6 +28,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Don't panic and always carry a towel.
+
+*Douglas Adams*
+
+-------
+
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
