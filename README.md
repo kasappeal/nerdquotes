@@ -3526,11 +3526,19 @@ But I'm not gonna lie down until I get there.
 *E.W. Dijkstra*
 
 ---------
+
 > "Toda gran historia merece ser adornada."
 
-*Gandalf, El Hobbit. Un viaje inesperado.*
+*Gandalf, El Hobbit. Un viaje inesperado.
 
 ---------
+
+> "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."
+
+*Dan Salomon*
+
+---------
+
 > "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
 
 *Homer J. Simpson*
