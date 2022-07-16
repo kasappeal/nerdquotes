@@ -16,9 +16,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Once you get a sense of acomplishment, groth stops. 
+
+*Masayoshi son*
+
+-------
+
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
+
+-------
+
+> Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
+
+*Iron MAC*
 
 -------
 
@@ -61,6 +73,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > The free encyclopedia.
 
 *Wifipedia*
+
+-------
+
+> People call me a nerd because I like to spend time on the computer.
+
+*Nonito Donaire*
+
+-------
+
+> Me gustan más los sueños del futuro que la historia del pasado.
+
+*Thomas Jefferson*
 
 -------
 
@@ -200,6 +224,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 >Nvidia, fuck you!.
 
 *Linus Torvalds*
+
+-------
+
+>Busca la libertad y será esparcida en frente de tus ojos. Si el sueño sin fin guía tu espíritu incansable, ¡hazlo tuyo! ¡Sube tu bandera! ¡Y párate firme!
+
+*Gold D. Roger*
 
 -------
 
@@ -3388,6 +3418,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "La verdad es a menudo lo que hacemos de ella"
+
+*Obi-Wan Kenobi*
+
+---------
+
 > "si, la vida te da la espalda, tocale las nalgas".   
 
 *Manuel Duarte*
@@ -3401,4 +3437,9 @@ But I'm not gonna lie down until I get there.
 ---------
 > "Toda gran historia merece ser adornada."
 
-*Gandalf, El Hobbit. Un viaje inesperado.
+*Gandalf, El Hobbit. Un viaje inesperado.*
+
+---------
+> "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
+
+*Homer J. Simpson*
