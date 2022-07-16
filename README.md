@@ -1542,6 +1542,12 @@ La Esperanza.
 
 -------
 
+> Existen dos tipos de lenguajes de programación: por un lado, aquellos de los que la gente se queja todo el rato; por otro, los que nadie utiliza.
+
+*Bjarne Stroustrup*
+
+-------
+
 > Nadie nos salva,sino nosotros mismos.Nadie puede y nadie debe.Nosotros mismos debemos transitar el camino.
 
 *Jorge Salazar*
