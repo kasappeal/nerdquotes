@@ -16,6 +16,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
+
+*Iron MAC*
+
+-------
+
 > Tengo la sensación de haber estado antes aquí. ¿Cómo lo sabes? La Wi-Fi se ha conectado sola.
 
 *Anónimo*
