@@ -209,6 +209,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Busca la libertad y será esparcida en frente de tus ojos. Si el sueño sin fin guía tu espíritu incansable, ¡hazlo tuyo! ¡Sube tu bandera! ¡Y párate firme!
+
+*Gold D. Roger*
+
+-------
+
 > The secret of getting ahead is getting started.
 
 *Violeta C.*
