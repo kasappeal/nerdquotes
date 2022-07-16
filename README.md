@@ -177,6 +177,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Kamisama*
 
 -------
+
 >A nerd can call another nerd a nerd.
 
 *Travis Scott*
@@ -186,6 +187,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > A day without sunshine is like, you know, night.
 
 *Steve Martin*
+
+-------
+
+> 404 Not Found
+
+*HTTP*
 
 -------
 
