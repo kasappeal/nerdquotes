@@ -10,6 +10,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No sólo del commit vivirá el DevOp...
+
+*MorenoCreativo*
+
+-------
+
 > Once you get a sense of acomplishment, groth stops. 
 
 *Masayoshi son*
