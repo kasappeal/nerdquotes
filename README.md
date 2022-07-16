@@ -508,6 +508,12 @@ Owi-Develop Kenobi
 
 -------
 
+> Si lo sé, no vengo... pero ya que he venido, mejor me voy
+
+*El que no quería venir*
+
+-------
+
 > Un día la muerte tuvo una experiencia cercana a Chuck Norris.
 *Anónimo en Twitter*
 
