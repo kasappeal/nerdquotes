@@ -82,6 +82,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No por mucho madrugar compila mas temprano
+
+*Calico Electronico*
+
+-------
+
 > People call me a nerd because I like to spend time on the computer.
 
 *Nonito Donaire*
