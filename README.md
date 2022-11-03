@@ -22,6 +22,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Sin café no soy persona, soy un gremlin recién mojado.
+
+*Formentera*
+
+-------
+
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
