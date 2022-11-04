@@ -46,6 +46,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> If you give up today, yesterday's effort was useless!
+
+*Diana María Toro López*
+
+-------
+
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
@@ -100,7 +106,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->War. War never changes.
+> War. War never changes.
 
 *war girl*
 
@@ -148,7 +154,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Estoy agotado tratando de mantenerme saludable.
+> Estoy agotado tratando de mantenerme saludable.
 
 *Steve Yzerman*
 
@@ -168,7 +174,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 
 
->Commitment is an act, not a word.
+> Commitment is an act, not a word.
 
 *Jean-Paul Sartre*
 
@@ -180,7 +186,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Aprendí con git  el coraje no era la ausencia del miedo, sino el triunfo de crear un pull request.
+> Aprendí con git  el coraje no era la ausencia del miedo, sino el triunfo de crear un pull request.
 
 *Lito Mandela*
 
@@ -198,7 +204,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Mejor Esperar un minuto de tu vida, que la vida en un minuto.
+> Mejor Esperar un minuto de tu vida, que la vida en un minuto.
 
 *Boris Alarcon Milla*
 
@@ -222,13 +228,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
+> Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
 
 -------
 
->A nerd can call another nerd a nerd.
+> A nerd can call another nerd a nerd.
 
 *Travis Scott*
 
@@ -270,7 +276,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Hola.Me llamo Iñigo Montoya, tú mataste a mi padre. Prepárate a morir
+> Hola.Me llamo Iñigo Montoya, tú mataste a mi padre. Prepárate a morir
 
 *Iñigo Montoya(La princesa prometida)*
 
@@ -289,7 +295,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->I loved math. I was such a nerd! I really enjoyed working through problems and finding the solution.
+> I loved math. I was such a nerd! I really enjoyed working through problems and finding the solution.
 
 *Aaron*
 -------
@@ -300,13 +306,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Nvidia, fuck you!.
+> Nvidia, fuck you!.
 
 *Linus Torvalds*
 
 -------
 
->Busca la libertad y será esparcida en frente de tus ojos. Si el sueño sin fin guía tu espíritu incansable, ¡hazlo tuyo! ¡Sube tu bandera! ¡Y párate firme!
+> Busca la libertad y será esparcida en frente de tus ojos. Si el sueño sin fin guía tu espíritu incansable, ¡hazlo tuyo! ¡Sube tu bandera! ¡Y párate firme!
 
 *Gold D. Roger*
 
@@ -412,7 +418,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Un programador al nacer no llora dice 'Hola Mundo'
+> Un programador al nacer no llora dice 'Hola Mundo'
 
 *Elfic Ticio*
 
@@ -635,7 +641,7 @@ Owi-Develop Kenobi
 *Super Sayan Over9000*
 -------------------------------------
 
->Tecla a tecla, camina  y vencerás.
+> Tecla a tecla, camina  y vencerás.
 *Pam Martinez*
 
 -------
@@ -736,13 +742,13 @@ Owi-Develop Kenobi
 
 -------
 
->Todo lo que seas capaz de creer, eres capaz de conseguir.
+> Todo lo que seas capaz de creer, eres capaz de conseguir.
 
 *Josep C.*
 
 -------
 
->Hay una fuerza motriz más poderosa que el vapor, la electricidad y la energía atómica: la voluntad.
+> Hay una fuerza motriz más poderosa que el vapor, la electricidad y la energía atómica: la voluntad.
 
 *Albert Einstein* *Josep C.*
 
@@ -922,13 +928,13 @@ Owi-Develop Kenobi
 
 ------
 
->Un gran poder conlleva una gran responsabilidad
+> Un gran poder conlleva una gran responsabilidad
 
 *Spiderman*
 
 -------
 
->Como hacía mucho calor, y el coronavirus no soporta altas temperaturas, mutó y se convirtió en un virus informático.
+> Como hacía mucho calor, y el coronavirus no soporta altas temperaturas, mutó y se convirtió en un virus informático.
 
 *Miguel Ángel de la Torre*
 
@@ -1005,10 +1011,10 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 ------
 ------
 
->Butt Programming @ KeepCoding ! The secret of living a life
->while KeepCoding is merely a matter of thinking thoughts of excellence.
->Really, it's a matter of programming our minds
->with the kind of information that will set us Full Stack KeepCoders.
+> Butt Programming @ KeepCoding ! The secret of living a life
+> while KeepCoding is merely a matter of thinking thoughts of excellence.
+> Really, it's a matter of programming our minds
+> with the kind of information that will set us Full Stack KeepCoders.
 
 *Frank Sinatring*
 
@@ -1086,7 +1092,7 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
-*Carlos Jáureg
+*Carlos Jáuregui*
 
 -------
 
@@ -1108,15 +1114,13 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
->Carreteras!? Adonde vamos no necesitamos carreteras.
+> Carreteras!? Adonde vamos no necesitamos carreteras.
 
 *Dr Emmet L.Brown*
 
 -------
 
->Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo.
-Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador?
-La Esperanza.
+> Soy la antivida, la bestia del juicio. Soy la oscuridad al fin de todo. Fin de universos, dioses, mundos... de todo. ¿Qué serás tú, soñador? La Esperanza.
 
 *"The Sandman" (1989) - Neil Gaiman*
 
@@ -1178,7 +1182,7 @@ La Esperanza.
 
 > El código es como un jardín, debes regarlo y mantenerlo todos los días, para que siempre este verde. Es decir debes nunca debes dejar de manter tu código si quieres que este actualizado y sin errores.
 
-*JF. Vega
+*JF. Vega*
 
 -------
 
@@ -1224,9 +1228,9 @@ La Esperanza.
 
 -------
 
->No me importa morir intentando alcanzar mi sueño, sólo sé que eso es lo que quiero y es todo lo que me importa.
+> No me importa morir intentando alcanzar mi sueño, sólo sé que eso es lo que quiero y es todo lo que me importa.
 
-*Monkey D. Luffy
+*Monkey D. Luffy*
 *海賊王に俺はなる*
 
 ---------
@@ -1377,7 +1381,7 @@ La Esperanza.
 
 ---------
 
->Live life, don't let life live You!
+> Live life, don't let life live You!
 
 *Kace*
 
@@ -1945,13 +1949,13 @@ sino por ese tesoro
 *El abuelo de Heidi*
 
 -------
->Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
+> Before I'm a zombie nerd, before I'm a science-fiction nerd, I am a history nerd.
 
 *Max Brooks*
 
 -------
 
->I'm a geek.
+> I'm a geek.
 
 *Bill Gates*
 
@@ -2052,7 +2056,7 @@ sino por ese tesoro
 
 -------
 
->Todo gran poder conlleva una gran responsabilidad.
+> Todo gran poder conlleva una gran responsabilidad.
 
 *Tío Ben*
 
@@ -2070,7 +2074,7 @@ sino por ese tesoro
 
 -------
 
->Eres mas perfecta que Célula después de absorber a A-18
+> Eres mas perfecta que Célula después de absorber a A-18
 
 *Son Goku*
 
@@ -2118,7 +2122,7 @@ sino por ese tesoro
 
 -------
 
->Amigo programador, puedes cometer muchos fallos... pero nunca nunca nunca olvides el WHERE en el DELETE FROM
+> Amigo programador, puedes cometer muchos fallos... pero nunca nunca nunca olvides el WHERE en el DELETE FROM
 
 *Un tipo muy sabio*
 
@@ -2226,19 +2230,19 @@ sino por ese tesoro
 
 -------
 
->Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
+> Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
 
 *Arwen Skywalker*
 
 -------
 
->I'm a jedi like my father before me, unless Hogarts sends me my letter like my mother.
+> I'm a jedi like my father before me, unless Hogarts sends me my letter like my mother.
 
 *Harry Skywalker*
 
 -------
 
->Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
+> Nunca recibí mi carta de Hogwarts, asi que me fui de la Comarca para convertirme en una Jedi.
 
 *Arwen Skywalker*
 
@@ -2474,7 +2478,7 @@ sino por ese tesoro
 
 -------
 
->Si puedes soñarlo, puedes hacerlo. O no, tampoco te flipes.
+> Si puedes soñarlo, puedes hacerlo. O no, tampoco te flipes.
 
 *Anónimo*
 
@@ -2571,11 +2575,12 @@ Segmentation fault [core dumped]
 
 *ThinkGeek.com*
 
--------
+------
 
 > Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
 
 *A web designer*
+
 -------
 
 > *Strength* does not come from winning. Your struggles develop your *strengths*. When you go through hardships and decide not to surrender, that is *strength*.
@@ -2614,7 +2619,7 @@ Segmentation fault [core dumped]
 
 -------
 
->A**GIT**ar antes de **HUB**sar
+> A**GIT**ar antes de **HUB**sar
 
 *House M.D.*
 
@@ -2692,7 +2697,7 @@ Segmentation fault [core dumped]
 
 -------
 
->Lo que posees acabará poseyéndote
+> Lo que posees acabará poseyéndote
 
 *¿Thyler Durden? Friedich-Nietzsche*
 
@@ -2788,7 +2793,7 @@ Segmentation fault [core dumped]
 
 -------
 
->Please stay at [127.0.0.1](127.0.0.1) and wear a [255.255.255.0](255.255.255.0).
+> Please stay at [127.0.0.1](127.0.0.1) and wear a [255.255.255.0](255.255.255.0).
 
 *Francisco Ríos Galán*
 
@@ -3083,7 +3088,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->I'm in no condition to drive. Wait, I shouldn't listen to myself. I'm drunk.
+> I'm in no condition to drive. Wait, I shouldn't listen to myself. I'm drunk.
 
 *Homer J. Simpson*
 
@@ -3208,7 +3213,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->La gente piensa que enfocarse significa decir sí a aquello en lo que te enfocas, pero no es así. Significa decir no a otras cientos de ideas buenas que hay.
+> La gente piensa que enfocarse significa decir sí a aquello en lo que te enfocas, pero no es así. Significa decir no a otras cientos de ideas buenas que hay.
 
 *Steve Jobs*
 
@@ -3244,7 +3249,7 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
->In brightest day, in blackest night,No evil shall escape my sight. Let those who worship evil's might Beware my power--Green Lantern's light!
+> In brightest day, in blackest night,No evil shall escape my sight. Let those who worship evil's might Beware my power--Green Lantern's light!
 
 *Again Green Lanterns*
 
