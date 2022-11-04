@@ -40,6 +40,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> If you give up today, yesterday's effort was useless!
+
+*Diana María Toro López*
+
+-------
+
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
