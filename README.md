@@ -40,6 +40,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I've seen things you people wouldn't believe. Attack ships on fire off the shoulder of Orion. I watched C-beams glitter in the dark near the Tannhauser gate. All those moments will be lost in time... like tears in rain... Time to die.
+
+*Batty (Blade Runner)*
+
+-------
+
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
