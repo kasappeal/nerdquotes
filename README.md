@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Damn… I start to look around me, and all I see is people the world would be better off without.
+
+*Light Yagami*
+
+-------
+
 > Hippies! Hippies everywhere. They wanna save the Earth but all they do is smoke pot and smell bad.
 
 *Eric Cartman*
