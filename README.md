@@ -3571,3 +3571,9 @@ But I'm not gonna lie down until I get there.
 > "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
 
 *Homer J. Simpson*
+
+---------
+
+> "¡Oh, mírame, Marge! Estoy haciendo feliz a mucha gente, soy el hombre mágico del país feliz de la casa de la gominola en la calle de la piruleta"
+
+*Homer J. Simpson*
