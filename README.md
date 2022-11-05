@@ -3571,3 +3571,9 @@ But I'm not gonna lie down until I get there.
 > "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
 
 *Homer J. Simpson*
+
+---------
+
+> "Blackmail is such an ugly word. I prefer extortion. The ‘x’ makes it sound cool."
+
+*Bender Bending Rodríguez*
