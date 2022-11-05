@@ -64,6 +64,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hay 10 tipos de personas en el mundo: los que entienden el binario, y los que no.
+
+*Anónimo*
+
+-------
+
 > Nunca mandes a un humano a hacer el trabajo de una máquina.
 
 *Agente Smith*
