@@ -100,6 +100,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> It's over 9000!!!
+
+*Vegeta*
+
+-------
+
 > Hippies! Hippies everywhere. They wanna save the Earth but all they do is smoke pot and smell bad.
 
 *Eric Cartman*
