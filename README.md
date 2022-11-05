@@ -502,6 +502,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> The Ultimate Answer to Life, The Universe and Everything is...42!
+
+*Douglas Adams*
+
+-------
+
 > `git` may the `--force` be with you `push`
 
 *Git geek*
