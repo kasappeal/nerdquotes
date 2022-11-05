@@ -124,7 +124,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Dude, sucking at ssomething is the first step towards being sorta good at something. --> Tío, ser malo en algo es el primer paso para ser bueno en algo
+> Dude, sucking at something is the first step towards being sorta good at something. --> Tío, ser malo en algo es el primer paso para ser bueno en algo
 
 *Jake The Dog*
 
