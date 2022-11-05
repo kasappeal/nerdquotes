@@ -220,6 +220,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anonimus homosapiens*
 
+-------
+
+> Todo saldrá a pedir de Milhouse.
+
+*Silken Pill*
+
 ------- 
 
 > Un gran código conlleva una gran paciencia 
