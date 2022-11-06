@@ -3571,3 +3571,7 @@ But I'm not gonna lie down until I get there.
 > "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
 
 *Homer J. Simpson*
+
+
+> “Don’t blink. Don’t even blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink.”
+*The Doctor 
