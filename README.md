@@ -1996,6 +1996,12 @@ sino por ese tesoro
 
 -------
 
+> Cuidado con las visitas prolongadas al baño en tu primer día de trabajo. Nunca sabes cuándo van a desaparecer todos tus commits. ¡Keep calm and git reflog!
+
+*Tu yo del futuro. De nada*
+
+-------
+
 > Many of those who have made a **"fork"** from this repository do not deserve, it and some of those who deserve it have not done it. Can you do it for them? Then do not be too eager to reject the **"pull request"**. For even the very wise cannot see all ends.
 
 *Gandalf*
