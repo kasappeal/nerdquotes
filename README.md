@@ -1048,6 +1048,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 ------
 
+> One can never have enough socks.
+
+*Albus Percival Wulfric Brian Dumbledore*
+
+------
+
 > ¡¡Noo pueedees pasaaar!!
 
 *Gandalf el Gris
