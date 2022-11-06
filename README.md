@@ -3574,7 +3574,7 @@ But I'm not gonna lie down until I get there.
 
 -------
 
-> Tu actitud, no tu aptitud, determinará tu altitud.
+> "Tu actitud, no tu aptitud, determinará tu altitud".
 
 *Zig Ziglar*
 
