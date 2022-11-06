@@ -34,6 +34,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Git pull a day keeps the conflicts away.
+
+*Anonymous*
+
+-------
+
 > Don't panic and always carry a towel.
 
 *Douglas Adams*
