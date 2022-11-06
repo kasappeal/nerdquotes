@@ -70,6 +70,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Para quedarte donde estás tienes que correr lo más rápido que puedas...y si quieres ir a otro sitio, deberás correr, por lo menos, dos veces más rápido.
+
+*Lewis Carroll*
+
+-------
+
 > When the merge comes and the conflict winds blow, the lone branch dies but the trunk survives..
 
 * Oscar Valdez (Adapted from G.R.R. Martin) *
