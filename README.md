@@ -3196,6 +3196,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> ¡No! ¡Capas! ¡Las cebollas tienen capas! ¡Los ogros tenemos capas! ¡Las cebollas las tienen! ¿Entiendes? ¡Ambos tenemos capas!
+
+*Shrek*
+
+-------
+
 > No son punteros láser, es que Dios cambia de jugador y se iluminan.
 
 *Games Addict*
