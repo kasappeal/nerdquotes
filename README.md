@@ -34,6 +34,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No es culpa de nadie si tienes la variedad emocional de un ladrillo
+
+*Hermione Granger*
+
+-------
+
 > Don't panic and always carry a towel.
 
 *Douglas Adams*
