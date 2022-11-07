@@ -124,6 +124,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Dreams didn't make us kings. Dragons did.
+
+*Daemon Targaryen*
+
+-------
+
 > People call me a nerd because I like to spend time on the computer.
 
 *Nonito Donaire*
