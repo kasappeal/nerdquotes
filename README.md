@@ -1495,6 +1495,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Never argue with the data.
+
+*Sheen*
+
+-------
+
 > ¡Como disfrutaría destripandote, Chaval!
 
 *Nicholas Cage (La Roca)*
