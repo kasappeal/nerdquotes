@@ -3713,6 +3713,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Tu actitud, no tu aptitud, determinará tu altitud".
+
+*Zig Ziglar*
+
+---------
+
 > “Don’t blink. Don’t even blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink.”
 
 *The Doctor*
