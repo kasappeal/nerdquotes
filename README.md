@@ -1622,6 +1622,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> La vida es como una caja de bombones, nunca sabes lo que te va a tocar.
+
+*Forrest Gump*
+
+-------
+
 > La única fuente de energía capaz de generar 1.21 gigawatts es un rayo
 
 *Doc Emmett Brown*
