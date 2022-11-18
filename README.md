@@ -3713,6 +3713,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> “Don’t blink. Don’t even blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink.”
+
+*The Doctor*
+
+---------
+
 > "We never lose our demons, Mordo. We only learn to live above them"
 
 *Ancient One*
