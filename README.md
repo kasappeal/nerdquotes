@@ -264,6 +264,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I'm not anti-social. I'm just not user friendly.
+
+*C++*
+
+-------
+
 > A nerd can call another nerd a nerd.
 
 *Travis Scott*
