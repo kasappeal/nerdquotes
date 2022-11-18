@@ -166,6 +166,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Under normal circumstances I'd say 'I told you so'. But, as I have told you so with such vehemence and frequency already the phrase has lost
+  all meaning. Therefore, I will be replacing it with the phrase, I have informed you thusly.
+  
+ *Sheldon Cooper*
+ 
+-------
+
 > Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
 
  *Guido Magaldi*
