@@ -235,6 +235,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Everyone should love waffles. If they don't, they're crazy
+
+*Leslie Knope*
+
+-------
+
 > Ante la duda siempre pregunta. Preguntar es de sabios.
 
 *Alejandro Vázquez Chávez*
