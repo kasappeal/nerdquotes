@@ -64,6 +64,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hay 10 tipos de personas en el mundo: los que entienden el binario, y los que no.
+
+*Anónimo*
+
+-------
+
 > Nunca mandes a un humano a hacer el trabajo de una máquina.
 
 *Agente Smith*
@@ -100,6 +106,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Damn… I start to look around me, and all I see is people the world would be better off without.
+
+*Light Yagami*
+
+-------
+
 > Hippies! Hippies everywhere. They wanna save the Earth but all they do is smoke pot and smell bad.
 
 *Eric Cartman*
@@ -121,6 +133,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No por mucho madrugar compila mas temprano
 
 *Calico Electronico*
+
+-------
+
+> Dude, sucking at something is the first step towards being sorta good at something. --> Tío, ser malo en algo es el primer paso para ser bueno en algo
+
+*Jake The Dog*
 
 -------
 
@@ -157,6 +175,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Estoy agotado tratando de mantenerme saludable.
 
 *Steve Yzerman*
+
+-------
+
+> Es levioooosa, no leviosá.
+
+*Hermione Granger*
 
 -------
 
@@ -219,6 +243,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Bienaventurados los pesimistas por que ellos hacen backups
 
 *Anonimus homosapiens*
+
+-------
+
+> Todo saldrá a pedir de Milhouse.
+
+*Silken Pill*
 
 ------- 
 
@@ -499,6 +529,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Incluso en un torbellino de irrealidad factible, la música suena imperturbable
 
 *Pablo García*
+
+-------
+
+> The Ultimate Answer to Life, The Universe and Everything is...42!
+
+*Douglas Adams*
 
 -------
 
@@ -1492,6 +1528,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > El que lee mucho y anda mucho, ve mucho y sabe mucho.
 
 *El caballero de la triste figura*
+
+-------
+
+> Never argue with the data.
+
+*Sheen*
 
 -------
 
@@ -3577,3 +3619,9 @@ But I'm not gonna lie down until I get there.
 > "We never lose our demons, Mordo. We only learn to live above them"
 
 *Ancient One*
+
+---------
+
+> "¡Oh, mírame, Marge! Estoy haciendo feliz a mucha gente, soy el hombre mágico del país feliz de la casa de la gominola en la calle de la piruleta"
+
+*Homer J. Simpson*
