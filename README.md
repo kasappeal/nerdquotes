@@ -10,13 +10,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
+
+*Hello Gitty aka Andrea Expósito Santana*
+
+-------
+
 > No sólo del commit vivirá el DevOp...
 
 *MorenoCreativo*
 
 -------
 
-> Once you get a sense of acomplishment, groth stops. 
+> Once you get a sense of acomplishment, groth stops.
 
 *Masayoshi son*
 
@@ -28,9 +34,33 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
+
+*Kaley Cuoco*
+
+-------
+
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
+
+-------
+
+> Git pull a day keeps the conflicts away.
+
+*Anonymous*
+
+-------
+
+> No es culpa de nadie si tienes la variedad emocional de un ladrillo
+
+*Hermione Granger*
+
+-------
+
+> You're like a Mr. Potato Head of beautiful people.
+
+*Jared Dunn*
 
 -------
 
@@ -64,6 +94,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hay 10 tipos de personas en el mundo: los que entienden el binario, y los que no.
+
+*Anónimo*
+
+-------
+
 > Nunca mandes a un humano a hacer el trabajo de una máquina.
 
 *Agente Smith*
@@ -76,7 +112,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Better Call a Function! 
+> Better Call a Function!
 
 *Saul Boot-man*
 
@@ -106,6 +142,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Damn… I start to look around me, and all I see is people the world would be better off without.
+
+*Light Yagami*
+
+-------
+
 > Hippies! Hippies everywhere. They wanna save the Earth but all they do is smoke pot and smell bad.
 
 *Eric Cartman*
@@ -130,6 +172,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Dreams didn't make us kings. Dragons did.
+
+*Daemon Targaryen*
+
+-------
+
+> Dude, sucking at something is the first step towards being sorta good at something. --> Tío, ser malo en algo es el primer paso para ser bueno en algo
+
+*Jake The Dog*
+
+-------
+
 > People call me a nerd because I like to spend time on the computer.
 
 *Nonito Donaire*
@@ -148,10 +202,17 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Under normal circumstances I'd say 'I told you so'. But, as I have told you so with such vehemence and frequency already the phrase has lost
+  all meaning. Therefore, I will be replacing it with the phrase, I have informed you thusly.
+  
+ *Sheldon Cooper*
+ 
+-------
+
 > Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
 
  *Guido Magaldi*
- 
+
 -------
 
 > Chinchilla: Auchenchia de lugar para chentarche.
@@ -163,6 +224,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Estoy agotado tratando de mantenerme saludable.
 
 *Steve Yzerman*
+
+-------
+
+> Es levioooosa, no leviosá.
+
+*Hermione Granger*
 
 -------
 
@@ -198,9 +265,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Everyone should love waffles. If they don't, they're crazy
+
+*Leslie Knope*
+
+-------
+
 > Ante la duda siempre pregunta. Preguntar es de sabios.
 
 *Alejandro Vázquez Chávez*
+
+-------
+
+> En el planeta Tierra el hombre siempre supuso que era más inteligente que los delfines porque había producido muchas cosas (la rueda, Nueva York, las guerras, etcétera), mientras que los delfines lo único que habían hecho consistía en juguetear en el agua y divertirse. Pero a la inversa, los delfines siempre creyeron que eran mucho más inteligentes que el hombre, precisamente por las mismas razones.
+
+*Guía del Autoestopista Galáctico, Douglas Adams*
 
 -------
 
@@ -226,9 +305,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anonimus homosapiens*
 
+-------
+
+> Todo saldrá a pedir de Milhouse.
+
+*Silken Pill*
+
 ------- 
 
-> Un gran código conlleva una gran paciencia 
+> Un gran código conlleva una gran paciencia
 
 *Spider-Mac*
 
@@ -237,6 +322,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Cada dolor te hace mas fuerte, cada traición más inteligente, cada desilusión más hábil y cada experiencia más sabio.
 
 *Kamisama*
+
+-------
+
+> I'm not anti-social. I'm just not user friendly.
+
+*C++*
 
 -------
 
@@ -267,6 +358,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > ¡Camina la plantígrada!
 
 *Mi suegro*
+
+-------
+
+> Lo esencial es invisible a los ojos, excepto el mate.
+
+_La Principita Martina Fierro_
 
 -------
 
@@ -382,8 +479,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Bertram Gilfoyle*
 
-------- 
-> "Ser un nómada, es como caer en un bucle infinito"  
+-------
+> "Ser un nómada, es como caer en un bucle infinito"
 *Augusto Pi*
 
 -------
@@ -505,6 +602,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Incluso en un torbellino de irrealidad factible, la música suena imperturbable
 
 *Pablo García*
+
+-------
+
+> The Ultimate Answer to Life, The Universe and Everything is...42!
+
+*Douglas Adams*
 
 -------
 
@@ -805,11 +908,11 @@ Owi-Develop Kenobi
 
 *General Beringer (WarGames)*
 
-------- 
- 
-> Tus excusas son más previsibles que las muertes de Krillin. 
- 
-*Vegeta* 
+-------
+
+> Tus excusas son más previsibles que las muertes de Krillin.
+
+*Vegeta*
 
 -------
 
@@ -954,7 +1057,7 @@ Owi-Develop Kenobi
 
 > (tos)(tos)(sorbo de agua) el problema es que me he comido una almendra antes de empezar.
 
-*Fernando Simón* 
+*Fernando Simón*
 
 -------
 
@@ -1051,6 +1154,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Me gustaría cambiar el mundo, pero no me dan el codigo fuente.
 
 *Geek Programmer Anonymous*
+
+------
+
+> One can never have enough socks.
+
+*Albus Percival Wulfric Brian Dumbledore*
 
 ------
 
@@ -1320,7 +1429,7 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
-> Me sorprende la cantidad de gente que se llama sdfsdf.  
+> Me sorprende la cantidad de gente que se llama sdfsdf.
 
 *azerty*
 
@@ -1501,6 +1610,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Never argue with the data.
+
+*Sheen*
+
+-------
+
 > ¡Como disfrutaría destripandote, Chaval!
 
 *Nicholas Cage (La Roca)*
@@ -1558,6 +1673,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > La mayoría del software actual es muy parecido a una pirámide egipcia, con millones de ladrillos puestos unos encima de otros sin una estructura integral, simplemente realizada a base de fuerza bruta y miles de esclavos.
 
 *Alan Kay*
+
+-------
+
+> La vida es como una caja de bombones, nunca sabes lo que te va a tocar.
+
+*Forrest Gump*
 
 -------
 
@@ -1765,7 +1886,7 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 > ¡Las cabras!
 
-*Jessica Shonda*  
+*Jessica Shonda*
 
 -------
 
@@ -1999,6 +2120,12 @@ sino por ese tesoro
 > Hello, my name is Iñigo Montoya. You killed my father. Prepare to die
 
 *Iñigo Montoya*
+
+-------
+
+> Cuidado con las visitas prolongadas al baño en tu primer día de trabajo. Nunca sabes cuándo van a desaparecer todos tus commits. ¡Keep calm and git reflog!
+
+*Tu yo del futuro. De nada*
 
 -------
 
@@ -2290,7 +2417,7 @@ sino por ese tesoro
 
 -------
 
-> Unix is user friendly. It's just selective about who its friends are. 
+> Unix is user friendly. It's just selective about who its friends are.
 
 *Janis Gitchie*
 
@@ -3225,6 +3352,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> ¡No! ¡Capas! ¡Las cebollas tienen capas! ¡Los ogros tenemos capas! ¡Las cebollas las tienen! ¿Entiendes? ¡Ambos tenemos capas!
+
+*Shrek*
+
+-------
+
 > No son punteros láser, es que Dios cambia de jugador y se iluminan.
 
 *Games Addict*
@@ -3520,7 +3653,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> "No pagaré, sé demasiado sobre extorsión".   
+> "No pagaré, sé demasiado sobre extorsión".
 
 *James Gandolfini*
 
@@ -3532,7 +3665,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
+> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".
 
 *Una pegatina*
 
@@ -3550,7 +3683,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> "si, la vida te da la espalda, tocale las nalgas".   
+> "si, la vida te da la espalda, tocale las nalgas".
 
 *Manuel Duarte*
 
@@ -3568,6 +3701,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Since i have a nerd boyfriend my life became more funny".
+
+*Fatima Abouzerrar*
+
+---------
+
 > "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."
 
 *Dan Salomon*
@@ -3575,5 +3714,29 @@ But I'm not gonna lie down until I get there.
 ---------
 
 > "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
+
+*Homer J. Simpson*
+
+---------
+
+> "Tu actitud, no tu aptitud, determinará tu altitud".
+
+*Zig Ziglar*
+
+---------
+
+> “Don’t blink. Don’t even blink. Blink and you’re dead. Don’t turn your back. Don’t look away. And don’t blink.”
+
+*The Doctor*
+
+---------
+
+> "We never lose our demons, Mordo. We only learn to live above them"
+
+*Ancient One*
+
+---------
+
+> "¡Oh, mírame, Marge! Estoy haciendo feliz a mucha gente, soy el hombre mágico del país feliz de la casa de la gominola en la calle de la piruleta"
 
 *Homer J. Simpson*
