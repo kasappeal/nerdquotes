@@ -22,7 +22,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Once you get a sense of acomplishment, groth stops. 
+> Once you get a sense of acomplishment, groth stops.
 
 *Masayoshi son*
 
@@ -100,7 +100,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> Better Call a Function! 
+> Better Call a Function!
 
 *Saul Boot-man*
 
@@ -188,7 +188,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
 
  *Guido Magaldi*
- 
+
 -------
 
 > Chinchilla: Auchenchia de lugar para chentarche.
@@ -289,7 +289,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 ------- 
 
-> Un gran código conlleva una gran paciencia 
+> Un gran código conlleva una gran paciencia
 
 *Spider-Mac*
 
@@ -334,6 +334,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > ¡Camina la plantígrada!
 
 *Mi suegro*
+
+-------
+
+> Lo esencial es invisible a los ojos, excepto el mate.
+
+_La Principita Martina Fierro_
 
 -------
 
@@ -449,8 +455,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Bertram Gilfoyle*
 
-------- 
-> "Ser un nómada, es como caer en un bucle infinito"  
+-------
+> "Ser un nómada, es como caer en un bucle infinito"
 *Augusto Pi*
 
 -------
@@ -878,11 +884,11 @@ Owi-Develop Kenobi
 
 *General Beringer (WarGames)*
 
-------- 
- 
-> Tus excusas son más previsibles que las muertes de Krillin. 
- 
-*Vegeta* 
+-------
+
+> Tus excusas son más previsibles que las muertes de Krillin.
+
+*Vegeta*
 
 -------
 
@@ -1027,7 +1033,7 @@ Owi-Develop Kenobi
 
 > (tos)(tos)(sorbo de agua) el problema es que me he comido una almendra antes de empezar.
 
-*Fernando Simón* 
+*Fernando Simón*
 
 -------
 
@@ -1399,7 +1405,7 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
-> Me sorprende la cantidad de gente que se llama sdfsdf.  
+> Me sorprende la cantidad de gente que se llama sdfsdf.
 
 *azerty*
 
@@ -1856,7 +1862,7 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 > ¡Las cabras!
 
-*Jessica Shonda*  
+*Jessica Shonda*
 
 -------
 
@@ -2387,7 +2393,7 @@ sino por ese tesoro
 
 -------
 
-> Unix is user friendly. It's just selective about who its friends are. 
+> Unix is user friendly. It's just selective about who its friends are.
 
 *Janis Gitchie*
 
@@ -3623,7 +3629,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> "No pagaré, sé demasiado sobre extorsión".   
+> "No pagaré, sé demasiado sobre extorsión".
 
 *James Gandolfini*
 
@@ -3635,7 +3641,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".   
+> "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".
 
 *Una pegatina*
 
@@ -3653,7 +3659,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> "si, la vida te da la espalda, tocale las nalgas".   
+> "si, la vida te da la espalda, tocale las nalgas".
 
 *Manuel Duarte*
 
