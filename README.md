@@ -28,6 +28,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
+
+*Kaley Cuoco*
+
+-------
+
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
