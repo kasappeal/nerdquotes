@@ -621,14 +621,11 @@ _La Principita Martina Fierro_
 
 *阿曼多最尷尬*
 
-
 ------
 
 > Voy a matar a Moe, Wiiii!!!
 
 *Homer Simpson*
-
--------
 
 -------
 
@@ -639,7 +636,7 @@ _La Principita Martina Fierro_
 -------
 
 > Me viste en Mercadona, yo soy una señora
-Este Adidas es made in China, pero yo voy más mona
+> Este Adidas es made in China, pero yo voy más mona
 
 *Bad Gyal*
 
@@ -688,7 +685,7 @@ Este Adidas es made in China, pero yo voy más mona
 
 > Se puede causar un mal al intentar hacer el bien. Se puede causar un bien al intentar hacer un mal.
 
-Owi-Develop Kenobi
+*Owi-Develop Kenobi*
 
 -------
 
@@ -699,6 +696,7 @@ Owi-Develop Kenobi
 -------
 
 > Un día la muerte tuvo una experiencia cercana a Chuck Norris.
+
 *Anónimo en Twitter*
 
 -------
@@ -748,7 +746,8 @@ Owi-Develop Kenobi
 > Sólo hay 10 tipos de personas, las que saben programar y las que no.
 
 *Super Sayan Over9000*
--------------------------------------
+
+-------
 
 > Tecla a tecla, camina  y vencerás.
 *Pam Martinez*
@@ -762,7 +761,7 @@ Owi-Develop Kenobi
 -------
 
 > ¿Qué es lo mejor de la vida?
- Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
+> Aplastar enemigos, verles destrozados y oir el lamento de sus mujeres.
 
  *Conan el Bárbaro*
 
@@ -3716,6 +3715,12 @@ But I'm not gonna lie down until I get there.
 > "Hijo, cuando participes en eventos deportivos, no importa si ganas o pierdes sino cuánto te emborrachas"
 
 *Homer J. Simpson*
+
+---------
+
+> "Blackmail is such an ugly word. I prefer extortion. The ‘x’ makes it sound cool."
+
+*Bender Bending Rodríguez*
 
 ---------
 
