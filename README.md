@@ -136,6 +136,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> It's over 9000!!!
+
+*Vegeta*
+
+-------
+
 > Damn… I start to look around me, and all I see is people the world would be better off without.
 
 *Light Yagami*
