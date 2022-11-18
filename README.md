@@ -40,6 +40,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> You're like a Mr. Potato Head of beautiful people.
+
+*Jared Dunn*
+
+-------
+
 > Don't panic and always carry a towel.
 
 *Douglas Adams*
