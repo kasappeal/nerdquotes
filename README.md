@@ -172,6 +172,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Es levioooosa, no leviosá.
+
+*Hermione Granger*
+
+-------
+
 > La vida es como cocinar una tortilla de patatas. Si empieza a oler a quemado espabila y dale la vuelta.
 
 *JosSid Vicious*
