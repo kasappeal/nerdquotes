@@ -130,6 +130,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Dude, sucking at something is the first step towards being sorta good at something. --> Tío, ser malo en algo es el primer paso para ser bueno en algo
+
+*Jake The Dog*
+
+-------
+
 > People call me a nerd because I like to spend time on the computer.
 
 *Nonito Donaire*
