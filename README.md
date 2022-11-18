@@ -3659,6 +3659,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Since i have a nerd boyfriend my life became more funny".
+
+*Fatima Abouzerrar*
+
+---------
+
 > "Sometimes it pays to stay in bed on Monday, rather than spending the rest of the week debugging Monday’s code."
 
 *Dan Salomon*
