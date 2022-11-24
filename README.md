@@ -58,7 +58,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-> “Tenemos que fabricar máquinas que nos permita seguir fabricando máquinas porque lo que no va a hacer nunca la máquina es fabricar máquinas”
+> “Tenemos que fabricar máquinas que nos permitan seguir fabricando máquinas porque lo que no va a hacer nunca la máquina es fabricar máquinas”
 
 *M. Rajoy*
 
