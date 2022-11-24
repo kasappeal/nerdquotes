@@ -215,6 +215,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Errores: No pasa ¡nada! Por equivocarte. De hecho, deberías equivocarte más. El éxito a la primera no te deja ningún aprendizaje.
+
+ *Xavi Roca*
+
+-------
+
 > Chinchilla: Auchenchia de lugar para chentarche.
 
  *Carlos Alcántara*
