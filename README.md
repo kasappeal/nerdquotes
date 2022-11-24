@@ -172,6 +172,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Tus excusas son más previsibles que las muesrtes de Krillin
+
+*Anonymous
+
+-------
+
 > Dreams didn't make us kings. Dragons did.
 
 *Daemon Targaryen*
