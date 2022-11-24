@@ -58,6 +58,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “Tenemos que fabricar máquinas que nos permita seguir fabricando máquinas porque lo que no va a hacer nunca la máquina es fabricar máquinas”
+
+*M. Rajoy*
+
+-------
+
 > You're like a Mr. Potato Head of beautiful people.
 
 *Jared Dunn*
@@ -151,6 +157,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Hippies! Hippies everywhere. They wanna save the Earth but all they do is smoke pot and smell bad.
 
 *Eric Cartman*
+
+-------
+
+> El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.
+
+*Winston Churchill*
 
 -------
 
