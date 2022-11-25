@@ -277,6 +277,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Las personas que realmente vale la pena tener cerca son aquellas que nos inspiran a mejorar
+
+*Boku no hero academia*
+
+-------
+
 > En el planeta Tierra el hombre siempre supuso que era más inteligente que los delfines porque había producido muchas cosas (la rueda, Nueva York, las guerras, etcétera), mientras que los delfines lo único que habían hecho consistía en juguetear en el agua y divertirse. Pero a la inversa, los delfines siempre creyeron que eran mucho más inteligentes que el hombre, precisamente por las mismas razones.
 
 *Guía del Autoestopista Galáctico, Douglas Adams*
