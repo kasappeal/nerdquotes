@@ -3747,7 +3747,8 @@ But I'm not gonna lie down until I get there.
 *Homer J. Simpson*
 
 ---------
+
 > - Mama que haces en frente de la computadora con los hojos cerrados???
->- Nada hijo es que Windows me dijo que cierre las pestañas
+> - Nada hijo es que Windows me dijo que cierre las pestañas
 
 *DMR*
