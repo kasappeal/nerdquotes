@@ -10,6 +10,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I am Locutus of main.
+> Resistance is futile.
+> Your life as it has been is over.
+> From this time forward you will service us.
+
+* Jean-Luc Picard resolviendo conflictos
+
+-------
+
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
 *Hello Gitty aka Andrea Expósito Santana*
