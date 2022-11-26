@@ -15,7 +15,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Your life as it has been is over.
 > From this time forward you will service us.
 
-* Jean-Luc Picard resolviendo conflictos
+*Jean-Luc Picard resolviendo conflictos*
 
 -------
 
