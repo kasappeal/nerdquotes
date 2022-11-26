@@ -172,6 +172,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si no estuviera tan loca pensaría que está chiflada.
+
+*Señor Joker*
+
+-------
+
 > Dreams didn't make us kings. Dragons did.
 
 *Daemon Targaryen*
