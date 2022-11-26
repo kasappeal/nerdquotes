@@ -1228,6 +1228,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> ¡Quiero mi BOCADILLO! ¡Quiero mi BOCADILLO!
+
+*Yo a mi chico, en el descanso de 20 min de clase*
+
+-------
+
 > Carreteras!? Adonde vamos no necesitamos carreteras.
 
 *Dr Emmet L.Brown*
