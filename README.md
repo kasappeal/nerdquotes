@@ -737,6 +737,12 @@ _La Principita Martina Fierro_
 
 -------
 
+>  ¿Que los videojuegos pueden ser malos para ti? Bueno, eso es lo que también decían sobre el Rock and Roll.
+
+*Shigeru Miyamoto*
+
+-------
+
 > 640 Kb deberían ser suficientes para cualquiera.
 
 *Bill Gates*
