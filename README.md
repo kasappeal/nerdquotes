@@ -88,6 +88,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza.
+
+*Paul Leary*
+
+-------
+
 > Tengo la sensación de haber estado antes aquí. ¿Cómo lo sabes? La Wi-Fi se ha conectado sola.
 
 *Anónimo*
