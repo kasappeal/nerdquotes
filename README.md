@@ -76,6 +76,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Aprender a programar no requiere de una mente superdotada sino de un 
+toque de disciplina y perseverancia.
+
+*Adrian Ducuara Benitez*
+
+-------
+
 > If you give up today, yesterday's effort was useless!
 
 *Diana María Toro López*
