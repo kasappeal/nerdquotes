@@ -52,6 +52,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Git away for always.
+
+*Block buster*
+
+-------
 > No es culpa de nadie si tienes la variedad emocional de un ladrillo
 
 *Hermione Granger*
