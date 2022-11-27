@@ -3745,3 +3745,9 @@ But I'm not gonna lie down until I get there.
 > "¡Oh, mírame, Marge! Estoy haciendo feliz a mucha gente, soy el hombre mágico del país feliz de la casa de la gominola en la calle de la piruleta"
 
 *Homer J. Simpson*
+
+-------
+
+> Status code: 404. Quote object not found
+
+*Starseeker*
