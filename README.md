@@ -16,6 +16,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Subir una cumbre es como comerte una tarta y hacer cumbre es la guinda, si me como la guinda bien, pero si no, ya me he comido todo el pastel.
+
+*Iñaki Ochoa de Olza*
+
+-------
+
 > No sólo del commit vivirá el DevOp...
 
 *MorenoCreativo*
@@ -820,6 +826,12 @@ _La Principita Martina Fierro_
 
 ------
 
+> Debugging is like being the detective in a crime movie where you're also the murderer.
+
+*Filipe Fortes*
+
+------
+
 > A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
 
 *Rick de Rick y Morty*
@@ -1225,6 +1237,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > Dios es real (a no ser que esté declarado como integer)
 
 *José Manuel Carreiro Galicia*
+
+-------
+
+> ¡Quiero mi BOCADILLO! ¡Quiero mi BOCADILLO!
+
+*Yo a mi chico, en el descanso de 20 min de clase*
 
 -------
 
@@ -3748,7 +3766,7 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> - Mama que haces en frente de la computadora con los hojos cerrados???
+> - Mama que haces en frente de la computadora con los ojos cerrados???
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
 *DMR*
