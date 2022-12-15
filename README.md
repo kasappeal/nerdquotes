@@ -216,6 +216,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si no estuviera tan loca pensaría que está chiflada.
+
+*Señor Joker*
+
+-------
+
 > Tus excusas son más previsibles que las muertes de Krillin
 
 *Anonymous
