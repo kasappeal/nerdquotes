@@ -43,6 +43,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un programador no llora cuando nace dice: "HOLA MUNDO".
+
+*Sinsia sinsinati*
+
+-------
+
 > Sin café no soy persona, soy un gremlin recién mojado.
 
 *Formentera*
