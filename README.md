@@ -826,6 +826,12 @@ _La Principita Martina Fierro_
 
 ------
 
+> Debugging is like being the detective in a crime movie where you're also the murderer.
+
+*Filipe Fortes*
+
+------
+
 > A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
 
 *Rick de Rick y Morty*
