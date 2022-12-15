@@ -1023,6 +1023,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Una caloría es la cantidad de energía calorífica necesaria para elevar la temperarua de 1gr de agua de 14,5°C hasta 15,5°C a presión atmosférica.
+
+*James Prescott Joule*
+
+-------
+
 > A film of my life would never happen!
 
 *Malorie Blackman*
