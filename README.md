@@ -3804,6 +3804,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Evite los virus. Hierva el ordenador antes de usar"
+
+*Antonio, tu médico de pc de confianza*
+
+---------
+
 > - Mama que haces en frente de la computadora con los ojos cerrados???
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
