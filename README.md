@@ -1073,6 +1073,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> This is the way
+
+*Din Djarin*
+
+-------
+
 > Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar: un dinosaurio.
 
 *Homer Simpson*
