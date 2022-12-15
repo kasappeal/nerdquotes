@@ -61,6 +61,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> How you climb a mountain is more important than reaching the top.
+
+*Yvon Chouinard*
+
+-------
+
 > A wise man can learn more from a foolish question than a fool can learn from a wise answer.
 
 *Bruce Lee*
