@@ -10,9 +10,24 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> I am Locutus of main.
+> Resistance is futile.
+> Your life as it has been is over.
+> From this time forward you will service us.
+
+*Jean-Luc Picard resolviendo conflictos*
+
+-------
+
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
 *Hello Gitty aka Andrea Expósito Santana*
+
+-------
+
+>Subir una cumbre es como comerte una tarta y hacer cumbre es la guinda, si me como la guinda bien, pero si no, ya me he comido todo el pastel.
+
+*Iñaki Ochoa de Olza*
 
 -------
 
@@ -28,6 +43,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un programador no llora cuando nace dice: "HOLA MUNDO".
+
+*Sinsia sinsinati*
+
+-------
+
 > Sin café no soy persona, soy un gremlin recién mojado.
 
 *Formentera*
@@ -37,6 +58,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
 
 *Kaley Cuoco*
+
+-------
+
+> How you climb a mountain is more important than reaching the top.
+
+*Yvon Chouinard*
 
 -------
 
@@ -52,9 +79,20 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Git away for always.
+
+*Block buster*
+
+-------
 > No es culpa de nadie si tienes la variedad emocional de un ladrillo
 
 *Hermione Granger*
+
+-------
+
+> “Tenemos que fabricar máquinas que nos permitan seguir fabricando máquinas porque lo que no va a hacer nunca la máquina es fabricar máquinas”
+
+*M. Rajoy*
 
 -------
 
@@ -76,6 +114,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Aprender a programar no requiere de una mente superdotada sino de un toque de disciplina y perseverancia.
+
+*Adrian Ducuara Benitez*
+
+-------
+
 > If you give up today, yesterday's effort was useless!
 
 *Diana María Toro López*
@@ -85,6 +129,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
+
+-------
+
+>Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza.
+
+*Paul Leary*
 
 -------
 
@@ -154,6 +204,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El éxito consiste en ir de fracaso en fracaso sin perder el entusiasmo.
+
+*Winston Churchill*
+
+-------
+
 > War. War never changes.
 
 *war girl*
@@ -169,6 +225,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No por mucho madrugar compila mas temprano
 
 *Calico Electronico*
+
+-------
+
+> Si no estuviera tan loca pensaría que está chiflada.
+
+*Señor Joker*
+
+-------
+
+> Tus excusas son más previsibles que las muertes de Krillin
+
+*Anonymous
 
 -------
 
@@ -212,6 +280,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Programador: Persona adicta a comprar cursos en Udemy y no terminarlos.
 
  *Guido Magaldi*
+
+-------
+
+> Errores: No pasa ¡nada! Por equivocarte. De hecho, deberías equivocarte más. El éxito a la primera no te deja ningún aprendizaje.
+
+ *Xavi Roca*
 
 -------
 
@@ -820,6 +894,12 @@ _La Principita Martina Fierro_
 
 ------
 
+> Debugging is like being the detective in a crime movie where you're also the murderer.
+
+*Filipe Fortes*
+
+------
+
 > A veces la ciencia es más arte que ciencia. Mucha gente no entiende eso.
 
 *Rick de Rick y Morty*
@@ -1002,6 +1082,12 @@ _La Principita Martina Fierro_
 > Tendrá todo el dinero del mundo, pero hay algo que nunca podrá comprar: un dinosaurio.
 
 *Homer Simpson*
+
+-------
+
+> Una caloría es la cantidad de energía calorífica necesaria para elevar la temperarua de 1gr de agua de 14,5°C hasta 15,5°C a presión atmosférica.
+
+*James Prescott Joule*
 
 -------
 
@@ -1231,6 +1317,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > Dios es real (a no ser que esté declarado como integer)
 
 *José Manuel Carreiro Galicia*
+
+-------
+
+> ¡Quiero mi BOCADILLO! ¡Quiero mi BOCADILLO!
+
+*Yo a mi chico, en el descanso de 20 min de clase*
 
 -------
 
@@ -3751,3 +3843,22 @@ But I'm not gonna lie down until I get there.
 > "¡Oh, mírame, Marge! Estoy haciendo feliz a mucha gente, soy el hombre mágico del país feliz de la casa de la gominola en la calle de la piruleta"
 
 *Homer J. Simpson*
+
+---------
+
+> "Porque si  no podemos proteger el repositorio, lo comitearemos."
+
+*Tony Stark*
+
+---------
+
+> "Evite los virus. Hierva el ordenador antes de usar"
+
+*Antonio, tu médico de pc de confianza*
+
+---------
+
+> - Mama que haces en frente de la computadora con los ojos cerrados???
+> - Nada hijo es que Windows me dijo que cierre las pestañas
+
+*DMR*
