@@ -2180,6 +2180,12 @@ sino por ese tesoro
 
 -------
 
+> Una mentira y cuestiono todas tus verdades.
+
+*Kase.O*
+
+-------
+
 > Ten en cuenta que tu enfoque determina tu realidad
 
 *Qui-Gon Jinn*
