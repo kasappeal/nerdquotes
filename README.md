@@ -55,6 +55,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+-------
+
+> It's Not A Bug It's An Undocumented Feature".
+
+*Anonymous*
+
+-------
+
 > Sin café no soy persona, soy un gremlin recién mojado.
 
 *Formentera*
