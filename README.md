@@ -25,6 +25,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Copy-paste, es el camino.
+
+*El mandaloriano programador*
+
+-------
+
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
 *Hello Gitty aka Andrea Expósito Santana*
