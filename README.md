@@ -2670,6 +2670,12 @@ sino por ese tesoro
 
 ------
 
+> Dios mio, esto es muy duro, no me siento las piernas.
+
+*Rambo*
+
+------
+
 > 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
 
 *T-shirt*
