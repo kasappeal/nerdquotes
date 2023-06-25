@@ -43,6 +43,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El lado oscuro intenta corromper,  
+> con errores y malas prácticas dice el nerd,  
+> que con Jedis lucha sin cesar,  
+> manteniendo el equilibrio y el buen programar.  
+  
+*Alex Just*
+  
+-------
+
 > Once you get a sense of acomplishment, groth stops.
 
 *Masayoshi son*
