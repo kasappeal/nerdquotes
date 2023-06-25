@@ -2209,6 +2209,11 @@ sino por ese tesoro
 
 -------
 
+> No vivas en el pasado, no sueñes con el futuro. Concentra la mente en el momento presente. Lo que ha de ser, será.
+
+*Tío abuelo segundo del chino Cudeiro*
+-------
+
 > I'm not afraid to die, I just don't want to be there when it happens.
 
 *Carl Sagan*
