@@ -19,11 +19,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No man has a good enough memory to be a successful liar.
+
+*Abraham Lincoln*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
 
 --------
+
 
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
