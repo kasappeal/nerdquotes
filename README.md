@@ -3876,6 +3876,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Nunca lo sabras, si no lo intentas!".
+
+*Ehylin Olezjua*
+
+---------
+
 > "Porque si  no podemos proteger el repositorio, lo comitearemos."
 
 *Tony Stark*
