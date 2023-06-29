@@ -119,7 +119,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Batty (Blade Runner)*
 
 -------
+> 2b || not 2b. He ahi el dilema.
 
+*Uberth H*
+
+-------
 > Aprender a programar no requiere de una mente superdotada sino de un toque de disciplina y perseverancia.
 
 *Adrian Ducuara Benitez*
