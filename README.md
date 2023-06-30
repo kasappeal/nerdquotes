@@ -1737,6 +1737,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Yo he visto cosas que vosotros no creeríais. Atacar naves en llamas más allá de Orión. He visto rayos-C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán en el tiempo, como lágrimas en la lluvia. Es hora de morir.  
+
+*Roy Batty / Rutger Hauer (Blade Runner 1982)*
+
+-------
+
 > May the force be with you.
 
 *obi wan kenobi*
