@@ -10,6 +10,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "Los recortes son de los mejores inventos."
+
+*Mariano Rajoy*
+
+-------
+
 > I am Locutus of main.
 > Resistance is futile.
 > Your life as it has been is over.
