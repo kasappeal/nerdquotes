@@ -2774,6 +2774,16 @@ sino por ese tesoro
 
 -------
 
+> “The major problem—one of the major problems, for there are several—one of the many major problems with governing people is that of whom you get to do it; or rather of who manages to get people to let them do it to them.
+
+> To summarize: it is a well-known fact that those people who must want to rule people are, ipso facto, those least suited to do it.
+
+> To summarize the summary: anyone who is capable of getting themselves made President should on no account be allowed to do the job.”
+
+*Douglas Adams, The Restaurant at the End of the Universe*
+
+-------
+
 > Qué Skynet envíe Terminators de uno en uno en lugar de enviar un ejército me hace pensar que es un Sistema Operativo basado en Windows 8.
 
 *Paco RAM*
