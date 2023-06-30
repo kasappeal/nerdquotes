@@ -102,6 +102,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Confia en el tiempo que suele dar dulces salidas a muchos grandes BUGS.
+*Carlos Javier Espinosa*
+
+-------
+
 > You're like a Mr. Potato Head of beautiful people.
 
 *Jared Dunn*
