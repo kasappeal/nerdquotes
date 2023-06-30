@@ -31,6 +31,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La vida es una fiesta del futbol.
+
+*Ronaldinho*
+
+-------
+
 > La fuerza estará contigo. Siempre.
 
 *Obi-Wan Kenobi*
