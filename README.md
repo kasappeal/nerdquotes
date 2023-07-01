@@ -31,6 +31,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Bueno, ¿cómo están los máquinas? Lo primero de todo
+
+*Deivid patada voladora*
+
+-------
+
 >Subir una cumbre es como comerte una tarta y hacer cumbre es la guinda, si me como la guinda bien, pero si no, ya me he comido todo el pastel.
 
 *Iñaki Ochoa de Olza*
