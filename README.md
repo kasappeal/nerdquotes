@@ -295,6 +295,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Cómo hice el gol? Lo hizo la mano de Dios.
+
+*Diego Armando Maradona*
+
+-------
+
 > Chinchilla: Auchenchia de lugar para chentarche.
 
  *Carlos Alcántara*
