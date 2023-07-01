@@ -234,6 +234,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Mess with the best, die like the rest.
+
+*Dade Murphy, Hackers - 1995*
+
+-------
+
 > Si no estuviera tan loca pensaría que está chiflada.
 
 *Señor Joker*
