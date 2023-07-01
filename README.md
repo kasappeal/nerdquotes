@@ -292,6 +292,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Errores: No pasa ¡nada! Por equivocarte. De hecho, deberías equivocarte más. El éxito a la primera no te deja ningún aprendizaje.
 
  *Xavi Roca*
+-------
+
+> Para pasar el difícil momento de bloqueo codeando. Todo pasa después de un café... Después del café, igual no entiendes nada, pero ahora puedes disfrutar del caos.
+
+ *Cualquier geek codeando*
 
 -------
 
