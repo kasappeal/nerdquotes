@@ -144,6 +144,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Los programadores siempre tienen un "plan B"... generalmente es solo intentar la opción "A" otra vez.
+
+*Doplax.Dev*
+
+-------
+
 > Tengo la sensación de haber estado antes aquí. ¿Cómo lo sabes? La Wi-Fi se ha conectado sola.
 
 *Anónimo*
