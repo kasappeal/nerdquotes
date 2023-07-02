@@ -61,6 +61,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Me he equivocado de producto y… he echado…. ácido clorhidri… sí… ácido clorhídrico encima de sulfato de so… de cloro … no, sulfato no, no sé lo que era.. lo he echado sabes y ha hecho una reacción que flipas y ha empezado a salir gas amarillo (…) que vamos, que la he liao parda, ¿sabes
+
+*una lista socorrista*
+
+-------
+
 > I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
 
 *Kaley Cuoco*
