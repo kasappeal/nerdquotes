@@ -3888,6 +3888,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Los que programamos sabemos que nos la pasamos 80% arreglando errores y el otro 20% programando"
+
+*Dr. programador*
+
+---------
+
 > - Mama que haces en frente de la computadora con los ojos cerrados???
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
