@@ -859,6 +859,13 @@ _La Principita Martina Fierro_
 
 -------
 
+> Mi segunda cita!!!
+> No hay dos sin tres. A por ella!!
+>
+> *Fernando*
+> 
+-------
+
 > Ya chole, chango, chilango. ¡Qué chafa chamba te chutas! No checa andar de tacuche y chale con la charola.
 
 *Chango con corbata*
