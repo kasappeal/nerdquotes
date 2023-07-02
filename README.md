@@ -1939,6 +1939,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 *Alberto Casero*
 
+-------
+
+> Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering.
+
+*Master Yoda*
+
 ------
 
 > I'm a nerd at heart.
