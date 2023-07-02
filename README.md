@@ -240,6 +240,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> In ancient times cats were worshipped as gods; they have not forgotten this.
+
+*Terry Pratchett*
+
+-------
+
 > Tus excusas son más previsibles que las muertes de Krillin
 
 *Anonymous
