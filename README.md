@@ -775,6 +775,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Supera tus límites aquí y ahora. Es el único camino que tienes.
+
+*Yami Sukehiro, Black clover*
+
+-------
+
 > Me viste en Mercadona, yo soy una señora
 > Este Adidas es made in China, pero yo voy más mona
 
