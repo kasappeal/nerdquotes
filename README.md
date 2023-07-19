@@ -343,6 +343,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> ¿Cómo hice el gol? Lo hizo la mano de Dios.
+
+*Diego Armando Maradona*
+
+-------
+
 > Para pasar el difícil momento de bloqueo codeando. Todo pasa después de un café... Después del café, igual no entiendes nada, pero ahora puedes disfrutar del caos.
 
  *Cualquier geek codeando*
