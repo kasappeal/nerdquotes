@@ -85,6 +85,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Marge, you can't keep blaming yourself. Just blame yourself once, then move on.
+
+*Homer Simpson*
+
+-------
+
 > Sin café no soy persona, soy un gremlin recién mojado.
 
 *Formentera*
