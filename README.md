@@ -3042,6 +3042,13 @@ Segmentation fault [core dumped]
 
 -------
 
+> Segundo master, nueva cita
+> No hay dos sin tres!
+>
+> *Fernando*
+> 
+-------
+
 > Auto-Complete: A programmer's best friend
 
 *Alberto Di Martino*
