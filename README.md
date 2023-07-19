@@ -49,6 +49,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Has encontrado tu miedo, ahora libera tu ira. 
+
+*Darth Vader*
+
+-------
+
 > Un programador no llora cuando nace dice: "HOLA MUNDO".
 
 *Sinsia sinsinati*
