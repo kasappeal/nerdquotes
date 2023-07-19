@@ -3916,3 +3916,9 @@ But I'm not gonna lie down until I get there.
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
 *DMR*
+
+---------
+
+> - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
+
+*Luke Skywalker*
