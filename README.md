@@ -1729,6 +1729,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> No puedes adivinar el futuro, pero puedes construirlo
+
+*Mi profe de Git*
+
+-------
+
 > When you're dealing with **serious _subjects_**, there is a pressure to be ~~absolutely~~ sure that you **know what you're _doing_**.
 
 *John Oliver*
