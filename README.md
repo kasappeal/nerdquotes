@@ -2174,6 +2174,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> No reward is worth this.
+
+*Han Solo*
+
+-------
+
 > Be nice to nerds. Chances are you'll end up working for one.
 
 *Bill Gates*
