@@ -96,6 +96,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Eres como la chancla de mi madre: te veo venir y se me acelera el corazón.
+
+*Anónimo*
+
+-------
+
 > “Tenemos que fabricar máquinas que nos permitan seguir fabricando máquinas porque lo que no va a hacer nunca la máquina es fabricar máquinas”
 
 *M. Rajoy*
