@@ -1228,6 +1228,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> La vida es como una caja de bombones, nunca sabes lo que te va a tocar.
+
+*Forrest Gump*
+
+-------
+
 > Solo existen 10 tipos de personas, las que saben binario y las que no.
 
 *Blogger de Niro*
