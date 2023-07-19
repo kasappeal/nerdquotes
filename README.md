@@ -10,6 +10,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "Los recortes son de los mejores inventos."
+
+*Mariano Rajoy*
+
+-------
+
 > I am Locutus of main.
 > Resistance is futile.
 > Your life as it has been is over.
@@ -25,9 +31,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Si no he vuelto en cinco minutos, espera un poco mas
+
+*Ace Ventura*
+
+--------
+
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
 *Hello Gitty aka Andrea Expósito Santana*
+
+-------
+
+> La vida es una fiesta del futbol.
+
+*Ronaldinho*
+
+-------
+
+> La fuerza estará contigo. Siempre.
+
+*Obi-Wan Kenobi*
 
 -------
 
@@ -49,6 +73,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Has encontrado tu miedo, ahora libera tu ira. 
+
+*Darth Vader*
+
+-------
+
 > Un programador no llora cuando nace dice: "HOLA MUNDO".
 
 *Sinsia sinsinati*
@@ -58,6 +88,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Sin café no soy persona, soy un gremlin recién mojado.
 
 *Formentera*
+
+-------
+
+> Guau Guau Guau Guuau! Guauu Guau (Traducción: Que alguien le quite ya ese computador al humano! Que solo juega con él)
+
+*Mi perro*
 
 -------
 
@@ -93,6 +129,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No es culpa de nadie si tienes la variedad emocional de un ladrillo
 
 *Hermione Granger*
+
+-------
+
+> Eres como la chancla de mi madre: te veo venir y se me acelera el corazón.
+
+*Anónimo*
 
 -------
 
@@ -289,6 +331,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Tic Tac
+
+ *Josep Pedrerol*
+
+-------
+
 > Errores: No pasa ¡nada! Por equivocarte. De hecho, deberías equivocarte más. El éxito a la primera no te deja ningún aprendizaje.
 
  *Xavi Roca*
@@ -298,6 +346,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > ¿Cómo hice el gol? Lo hizo la mano de Dios.
 
 *Diego Armando Maradona*
+
+-------
+
+> Para pasar el difícil momento de bloqueo codeando. Todo pasa después de un café... Después del café, igual no entiendes nada, pero ahora puedes disfrutar del caos.
+
+ *Cualquier geek codeando*
 
 -------
 
@@ -724,6 +778,12 @@ _La Principita Martina Fierro_
 > Tus excusas son mas previsibles que la muerte de Krillin.
 
 *Goku*
+
+-------
+
+> Supera tus límites aquí y ahora. Es el único camino que tienes.
+
+*Yami Sukehiro, Black clover*
 
 -------
 
@@ -1219,6 +1279,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > Cuántos frikis juntos hay aquí! por su cumpleaños le voy mandar a Lisa una invitación para que venga.
 
 *Bart Simpson*
+
+-------
+
+> La vida es como una caja de bombones, nunca sabes lo que te va a tocar.
+
+*Forrest Gump*
 
 -------
 
@@ -1743,6 +1809,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Yo he visto cosas que vosotros no creeríais. Atacar naves en llamas más allá de Orión. He visto rayos-C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán en el tiempo, como lágrimas en la lluvia. Es hora de morir.  
+
+*Roy Batty / Rutger Hauer (Blade Runner 1982)*
+
+-------
+
 > May the force be with you.
 
 *obi wan kenobi*
@@ -1944,6 +2016,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
+
+-------
+
+> Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering.
+
+*Master Yoda*
 
 ------
 
@@ -2213,6 +2291,11 @@ sino por ese tesoro
 
 *Bill Gates*
 
+-------
+
+> No vivas en el pasado, no sueñes con el futuro. Concentra la mente en el momento presente. Lo que ha de ser, será.
+
+*Tío abuelo segundo del chino Cudeiro*
 -------
 
 > I'm not afraid to die, I just don't want to be there when it happens.
@@ -2676,6 +2759,12 @@ sino por ese tesoro
 
 ------
 
+> Dios mio, esto es muy duro, no me siento las piernas.
+
+*Rambo*
+
+------
+
 > 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
 
 *T-shirt*
@@ -2777,6 +2866,16 @@ sino por ese tesoro
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
+
+-------
+
+> “The major problem—one of the major problems, for there are several—one of the many major problems with governing people is that of whom you get to do it; or rather of who manages to get people to let them do it to them.
+
+> To summarize: it is a well-known fact that those people who must want to rule people are, ipso facto, those least suited to do it.
+
+> To summarize the summary: anyone who is capable of getting themselves made President should on no account be allowed to do the job.”
+
+*Douglas Adams, The Restaurant at the End of the Universe*
 
 -------
 
@@ -3888,9 +3987,21 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Si te preguntan si prefieres frontend o backend, no contestes weekend. Los teamleaders no tienen sentido del humor..."
+
+*Programador bocazas*
+
+---------
+
 > "Evite los virus. Hierva el ordenador antes de usar"
 
 *Antonio, tu médico de pc de confianza*
+
+---------
+
+> "Los que programamos sabemos que nos la pasamos 80% arreglando errores y el otro 20% programando"
+
+*Dr. programador*
 
 ---------
 
@@ -3898,3 +4009,9 @@ But I'm not gonna lie down until I get there.
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
 *DMR*
+
+---------
+
+> - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
+
+*Luke Skywalker*
