@@ -301,6 +301,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Para pasar el difícil momento de bloqueo codeando. Todo pasa después de un café... Después del café, igual no entiendes nada, pero ahora puedes disfrutar del caos.
+
+ *Cualquier geek codeando*
+
+-------
+
 > Chinchilla: Auchenchia de lugar para chentarche.
 
  *Carlos Alcántara*
