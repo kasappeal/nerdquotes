@@ -25,6 +25,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No man has a good enough memory to be a successful liar.
+
+*Abraham Lincoln*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
