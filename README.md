@@ -114,6 +114,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Bruce Lee*
 
 -------
+> Todos dicen que existe un límite para todo, pero pocos rompen ese límite y se superan.
+
+*Daniel Jurado Pérez*
+-------
 
 > Git pull a day keeps the conflicts away.
 
