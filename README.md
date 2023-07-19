@@ -1473,6 +1473,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Lo que hacemos en la vida, tiene su eco en la eternidad.
+
+*Máximus. Gladiator*
+
+-------
+
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
 *Carlos Jáuregui*
