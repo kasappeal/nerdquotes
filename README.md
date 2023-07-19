@@ -192,6 +192,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Iron MAC*
 
+------------
+
+> Do not cite the deep magic code to me, junior. I was there when it was written
+
+*Aslan, the senior developer*
+
 -------
 
 >Es genial trabajar con ordenadores. No discuten, lo recuerdan todo y no se beben tu cerveza.
