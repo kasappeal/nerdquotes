@@ -73,6 +73,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Guau Guau Guau Guuau! Guauu Guau (Traducción: Que alguien le quite ya ese computador al humano! Que solo juega con él)
+
+*Mi perro*
+
+-------
+
 > I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
 
 *Kaley Cuoco*
