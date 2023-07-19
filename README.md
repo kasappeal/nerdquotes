@@ -3945,6 +3945,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Si te preguntan si prefieres frontend o backend, no contestes weekend. Los teamleaders no tienen sentido del humor..."
+
+*Programador bocazas*
+
+---------
+
 > "Evite los virus. Hierva el ordenador antes de usar"
 
 *Antonio, tu médico de pc de confianza*
