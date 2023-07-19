@@ -10,6 +10,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "Los recortes son de los mejores inventos."
+
+*Mariano Rajoy*
+
+-------
+
 > I am Locutus of main.
 > Resistance is futile.
 > Your life as it has been is over.
@@ -19,15 +25,51 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> No man has a good enough memory to be a successful liar.
+
+*Abraham Lincoln*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
 
 --------
 
+> Copy-paste, es el camino.
+
+*El mandaloriano programador*
+
+-------
+
+> Si no he vuelto en cinco minutos, espera un poco mas
+
+*Ace Ventura*
+
+--------
+
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
 *Hello Gitty aka Andrea Expósito Santana*
+
+-------
+
+> Bueno, ¿cómo están los máquinas? Lo primero de todo
+
+*Deivid patada voladora*
+
+-------
+
+> La vida es una fiesta del futbol.
+
+*Ronaldinho*
+
+-------
+
+> La fuerza estará contigo. Siempre.
+
+*Obi-Wan Kenobi*
 
 -------
 
@@ -41,6 +83,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *MorenoCreativo*
 
+--------
+
+>La verdad solo se puede encontraren un lugar: elcódigo
+>
+*RobertC. Martin*
+
+-------
+
+> El lado oscuro intenta corromper,  
+> con errores y malas prácticas dice el nerd,  
+> que con Jedis lucha sin cesar,  
+> manteniendo el equilibrio y el buen programar.  
+  
+*Alex Just*
+  
 -------
 
 > Once you get a sense of acomplishment, groth stops.
@@ -49,9 +106,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Has encontrado tu miedo, ahora libera tu ira. 
+
+*Darth Vader*
+
+-------
+
 > Un programador no llora cuando nace dice: "HOLA MUNDO".
 
 *Sinsia sinsinati*
+
+-------
+
+> Marge, you can't keep blaming yourself. Just blame yourself once, then move on.
+
+*Homer Simpson*
 
 -------
 
@@ -64,6 +133,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Me he equivocado de producto y… he echado…. ácido clorhidri… sí… ácido clorhídrico encima de sulfato de so… de cloro … no, sulfato no, no sé lo que era.. lo he echado sabes y ha hecho una reacción que flipas y ha empezado a salir gas amarillo (…) que vamos, que la he liao parda, ¿sabes
 
 *una lista socorrista*
+
+-------
+
+> Guau Guau Guau Guuau! Guauu Guau (Traducción: Que alguien le quite ya ese computador al humano! Que solo juega con él)
+
+*Mi perro*
 
 -------
 
@@ -85,6 +160,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Todos dicen que existe un límite para todo, pero pocos rompen ese límite y se superan.
+
+*Daniel Jurado Pérez*
+
+-------
+
 > Git pull a day keeps the conflicts away.
 
 *Anonymous*
@@ -102,9 +183,20 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Eres como la chancla de mi madre: te veo venir y se me acelera el corazón.
+
+*Anónimo*
+
+-------
+
 > “Tenemos que fabricar máquinas que nos permitan seguir fabricando máquinas porque lo que no va a hacer nunca la máquina es fabricar máquinas”
 
 *M. Rajoy*
+
+-------
+
+> Confia en el tiempo que suele dar dulces salidas a muchos grandes BUGS.
+*Carlos Javier Espinosa*
 
 -------
 
@@ -125,7 +217,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Batty (Blade Runner)*
 
 -------
+> 2b || not 2b. He ahi el dilema.
 
+*Uberth H*
+
+-------
 > Aprender a programar no requiere de una mente superdotada sino de un toque de disciplina y perseverancia.
 
 *Adrian Ducuara Benitez*
@@ -138,9 +234,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> HTTP status code 403: You shall not pass!
+
+*Gandalf*
+
+-------
+
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
+
+------------
+
+> Do not cite the deep magic code to me, junior. I was there when it was written
+
+*Aslan, the senior developer*
 
 -------
 
@@ -165,6 +273,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Nunca mandes a un humano a hacer el trabajo de una máquina.
 
 *Agente Smith*
+
+-------
+
+> “I am no man.”
+
+*Éowyn*
 
 -------
 
@@ -240,9 +354,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Mess with the best, die like the rest.
+
+*Dade Murphy, Hackers - 1995*
+
+-------
+
 > Si no estuviera tan loca pensaría que está chiflada.
 
 *Señor Joker*
+
+-------
+
+> In ancient times cats were worshipped as gods; they have not forgotten this.
+
+*Terry Pratchett*
 
 -------
 
@@ -295,9 +421,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Tic Tac
+
+ *Josep Pedrerol*
+
+-------
+
 > Errores: No pasa ¡nada! Por equivocarte. De hecho, deberías equivocarte más. El éxito a la primera no te deja ningún aprendizaje.
 
  *Xavi Roca*
+
+-------
+
+> ¿Cómo hice el gol? Lo hizo la mano de Dios.
+
+*Diego Armando Maradona*
+
+-------
+
+> Para pasar el difícil momento de bloqueo codeando. Todo pasa después de un café... Después del café, igual no entiendes nada, pero ahora puedes disfrutar del caos.
+
+ *Cualquier geek codeando*
 
 -------
 
@@ -322,6 +466,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > La vida es como cocinar una tortilla de patatas. Si empieza a oler a quemado espabila y dale la vuelta.
 
 *JosSid Vicious*
+
+-------
+> I think a person can learn. Basically, I think anything is possible.
+
+*Pedro Pascal*
 
 --------------
 
@@ -724,6 +873,12 @@ _La Principita Martina Fierro_
 > Tus excusas son mas previsibles que la muerte de Krillin.
 
 *Goku*
+
+-------
+
+> Supera tus límites aquí y ahora. Es el único camino que tienes.
+
+*Yami Sukehiro, Black clover*
 
 -------
 
@@ -1222,6 +1377,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> La vida es como una caja de bombones, nunca sabes lo que te va a tocar.
+
+*Forrest Gump*
+
+-------
+
 > Solo existen 10 tipos de personas, las que saben binario y las que no.
 
 *Blogger de Niro*
@@ -1320,6 +1481,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Lo que hacemos en la vida, tiene su eco en la eternidad.
+
+*Máximus. Gladiator*
+
+-------
+
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
 *Carlos Jáuregui*
@@ -1365,6 +1532,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > ¿Lo habrías tirado si no te hubiera dicho nada?
 
 *El Oráculo - Matrix*
+
+-------
+
+> Una vez que supe cuál era el problema, este pasó a ser solo un problema y no algo que temer.
+
+*kvothe*
 
 -------
 
@@ -1653,6 +1826,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> No puedes adivinar el futuro, pero puedes construirlo
+
+*Mi profe de Git*
+
+-------
+
 > When you're dealing with **serious _subjects_**, there is a pressure to be ~~absolutely~~ sure that you **know what you're _doing_**.
 
 *John Oliver*
@@ -1740,6 +1919,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > ¡Como disfrutaría destripandote, Chaval!
 
 *Nicholas Cage (La Roca)*
+
+-------
+
+> Yo he visto cosas que vosotros no creeríais. Atacar naves en llamas más allá de Orión. He visto rayos-C brillar en la oscuridad cerca de la Puerta de Tannhäuser. Todos esos momentos se perderán en el tiempo, como lágrimas en la lluvia. Es hora de morir.  
+
+*Roy Batty / Rutger Hauer (Blade Runner 1982)*
 
 -------
 
@@ -1944,6 +2129,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > Hacer un commit en master es ñapa en producción.
 
 *Alberto Casero*
+
+-------
+
+> Fear is the path to the dark side. Fear leads to anger; anger leads to hate; hate leads to suffering.
+
+*Master Yoda*
 
 ------
 
@@ -2213,6 +2404,11 @@ sino por ese tesoro
 
 *Bill Gates*
 
+-------
+
+> No vivas en el pasado, no sueñes con el futuro. Concentra la mente en el momento presente. Lo que ha de ser, será.
+
+*Tío abuelo segundo del chino Cudeiro*
 -------
 
 > I'm not afraid to die, I just don't want to be there when it happens.
@@ -2676,6 +2872,12 @@ sino por ese tesoro
 
 ------
 
+> Dios mio, esto es muy duro, no me siento las piernas.
+
+*Rambo*
+
+------
+
 > 1f u c4n r34d th1s u r34lly n33d t0 g37 l41d
 
 *T-shirt*
@@ -2685,6 +2887,14 @@ sino por ese tesoro
 > Si ya saben como programo..., **¿Para qué me invitaaan!?**
 
 *the sleepless*
+
+------
+
+------
+
+> The only difference between genius and insanity is success.
+
+*unknown*
 
 ------
 
@@ -2777,6 +2987,16 @@ sino por ese tesoro
 > Getting older is no problem. You just have to live long enough.
 
 *Groucho Marx*
+
+-------
+
+> “The major problem—one of the major problems, for there are several—one of the many major problems with governing people is that of whom you get to do it; or rather of who manages to get people to let them do it to them.
+
+> To summarize: it is a well-known fact that those people who must want to rule people are, ipso facto, those least suited to do it.
+
+> To summarize the summary: anyone who is capable of getting themselves made President should on no account be allowed to do the job.”
+
+*Douglas Adams, The Restaurant at the End of the Universe*
 
 -------
 
@@ -2937,6 +3157,13 @@ Segmentation fault [core dumped]
 
 *Glory Strongs*
 
+-------
+
+> Segundo master, nueva cita
+> No hay dos sin tres!
+>
+> *Fernando*
+> 
 -------
 
 > Auto-Complete: A programmer's best friend
@@ -3882,9 +4109,21 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Nunca lo sabras, si no lo intentas!".
+
+*Ehylin Olezjua*
+
+---------
+
 > "Porque si  no podemos proteger el repositorio, lo comitearemos."
 
 *Tony Stark*
+
+---------
+
+> "Si te preguntan si prefieres frontend o backend, no contestes weekend. Los teamleaders no tienen sentido del humor..."
+
+*Programador bocazas*
 
 ---------
 
@@ -3894,7 +4133,19 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Los que programamos sabemos que nos la pasamos 80% arreglando errores y el otro 20% programando"
+
+*Dr. programador*
+
+---------
+
 > - Mama que haces en frente de la computadora con los ojos cerrados???
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
 *DMR*
+
+---------
+
+> - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
+
+*Luke Skywalker*
