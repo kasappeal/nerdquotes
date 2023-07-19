@@ -1465,6 +1465,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Una vez que supe cuál era el problema, este pasó a ser solo un problema y no algo que temer.
+
+*kvothe*
+
+-------
+
 > He privatizado exitosamente la paz mundial.
 
 *Tony Stark - Iron Man*
