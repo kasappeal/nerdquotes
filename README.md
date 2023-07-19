@@ -64,6 +64,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No sólo del commit vivirá el DevOp...
 
 *MorenoCreativo*
+--------
+>La verdad solo se puede encontraren un lugar: elcódigo
+*RobertC. Martin*
 
 -------
 
