@@ -2847,6 +2847,14 @@ sino por ese tesoro
 
 ------
 
+------
+
+> The only difference between genius and insanity is success.
+
+*unknown*
+
+------
+
 > Los programadores del mañana son los **magos** del futuro.
 
 *Gabe Newell*
