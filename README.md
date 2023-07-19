@@ -435,6 +435,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *JosSid Vicious*
 
+-------
+> I think a person can learn. Basically, I think anything is possible.
+
+*Pedro Pascal*
+
 --------------
 
 > Mientras unos sufren por amor yo sufro porque no compila.
