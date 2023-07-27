@@ -124,6 +124,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> It's Not A Bug It's An Undocumented Feature".
+
+*Anonymous*
+
+-------
+
 > Marge, you can't keep blaming yourself. Just blame yourself once, then move on.
 
 *Homer Simpson*
