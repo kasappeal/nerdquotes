@@ -3893,6 +3893,12 @@ But I'm not gonna lie down until I get there.
 
 -------
 
+> "El trabajo duro es inútil para aquellos que no creen en sí mismos."
+
+*Naruto Uzumaki*
+
+---------
+
 > **B A Z Z I N G A!!!**
 
 *Sheldon Cooper*
