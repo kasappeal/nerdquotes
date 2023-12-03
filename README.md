@@ -18,7 +18,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > “Klaatu barada nikto!”
 
 *Klaatu*
-
+-------
 > I am Locutus of main.
 > Resistance is futile.
 > Your life as it has been is over.
