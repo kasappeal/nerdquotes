@@ -212,6 +212,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Quien a buen master se arrima, bueno commits le cobijan
+*El programador enmascarado*
+
+-------
+
 > You're like a Mr. Potato Head of beautiful people.
 
 *Jared Dunn*
