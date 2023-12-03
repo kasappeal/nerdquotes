@@ -55,6 +55,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Un día, entre líneas de Python y JavaScript con amigos, unos tipos del barrio me metieron en un lío. Mi madre repetía, una y otra vez,
+"Con Keep Coding aprenderás desarrollo web"
+
+*El principe de Bel-Air*
+
+-------
+
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
 *Hello Gitty aka Andrea Expósito Santana*
