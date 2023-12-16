@@ -4185,3 +4185,7 @@ But I'm not gonna lie down until I get there.
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
+
+-> - God sent me on earth. He send me to do something, and nobody can stop me. If God want to stop me, then I stop. Man never can.
+
+*Bob Marley*
