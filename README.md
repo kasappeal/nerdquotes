@@ -4186,6 +4186,6 @@ But I'm not gonna lie down until I get there.
 
 *Luke Skywalker*
 
--> - God sent me on earth. He send me to do something, and nobody can stop me. If God want to stop me, then I stop. Man never can.
+> - God sent me on earth. He send me to do something, and nobody can stop me. If God want to stop me, then I stop. Man never can.
 
 *Bob Marley*
