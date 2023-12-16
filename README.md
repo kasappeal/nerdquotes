@@ -1198,6 +1198,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> ¿Un trío? Sí, he hecho un trío de ver tres partidos a la vez.
+
+*Pablo Maldini*
+
+------- 
+
 > Se te entiende menos que una psicofonía de Chewbacca.
 
 *Chiquito de la Calzada*
