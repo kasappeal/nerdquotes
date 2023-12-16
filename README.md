@@ -37,6 +37,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hardware: Las partes de un ordenador que pueden ser pateadas.
+*Jeff Pesis*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
