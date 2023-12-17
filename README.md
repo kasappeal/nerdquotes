@@ -882,6 +882,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Git es como un viaje en el tiempo para tu código, pero sin la DeLorean. GitHub simplemente lo hace socialmente aceptable.
+
+*Iv3tt3 - Ivette Farré*
+
+-------
+
 > 最尷尬的將是第一個
 
 *阿曼多最尷尬*
