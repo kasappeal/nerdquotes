@@ -178,6 +178,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Nothing's gonna change my code for you.
+
+*Git Medeiros*
+
+-------
+
 > Git pull a day keeps the conflicts away.
 
 *Anonymous*
