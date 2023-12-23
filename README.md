@@ -2411,9 +2411,10 @@ sino por ese tesoro
     - ¡Tú no puedes encajar la verdad!. Vivimos en un mundo que tiene commits y esos commits han de estar vigilados por geeks armados. ¿Quién va a hacerlo?. ¡¿Tú?!… ¿Usted teniente Casero? Yo tengo una responsabilidad mayor de la que puedas calibrar jamás… Tú lloras por ese fast forward y maldices a los junior. Tienes ese lujo. Tienes el lujo de no saber lo que yo sé, que ese git merge, aunque trágico seguramente salvó vidas. Tú no quieres la verdad porque en zonas de tu interior de las que no charlas con los amiguetes, me quieres en esa shell. Me necesitas en esa shell. Nosotros usamos palabras como "Testing", "Código", "Integración", las usamos como columna vertebral de una vida dedicada a defender algo, tu las usas como gag, y no tengo ni el tiempo, ni las más mínimas ganas de explicarme ante un hombre que se levanta y se acuesta bajo el desarrollo que yo le proporciono y despues cuestiona el modo en que lo proporciono. Preferiria que solo dijeras gracias y siguieras tu camino. De lo contrario te sugiero que cojas un teclado y te crees una rama. De todos modos, me importa un carajo a lo que creas que tienes derecho.
     - ¿Ordenó el git merge en la rama principal?
     - Hice el trabajo que me encargasteis
+    - ¿Ordenó el git merge en la rama principal?
     - ¡Por supuesto que lo hice, joder!
 
-*basada en la pelo 'Algunos hombres buenos'*
+*basada en la peli 'Algunos hombres buenos'*
 
 -------
 
