@@ -1517,6 +1517,13 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> Las personas de esas historias tenían muchas posibilidades para rendirse, pero no lo hicieron.
+Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo, señor Frodo, y vale la pena luchar por ello.
+
+*Samwise Gamgee*
+
+-------
+
 > No se puede requetefinalizar un refinal
 
 *Lloyd*
