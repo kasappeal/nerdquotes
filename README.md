@@ -4073,6 +4073,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> A la vejez viruelas, nunca es tarde si la dicha es buena
+
+*Kelvinator*
+
+---------
+
 > "La verdad es a menudo lo que hacemos de ella"
 
 *Obi-Wan Kenobi*
