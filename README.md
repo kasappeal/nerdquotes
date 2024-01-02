@@ -786,6 +786,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Si la depuración es el proceso de eliminar errores del software, entonces la programación debe ser el proceso de ponerlos.
+
+*Dijsktra, Edsger*
+
+-------
+
 > Un programador al nacer no llora dice 'Hola Mundo'
 
 *Elfic Ticio*
