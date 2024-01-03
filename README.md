@@ -1729,6 +1729,12 @@ _Is a slogan, on the common American English saying, There's no place like home,
 
 -------
 
+> En mi local funciona!!!!! Debe de ser un problema de servidor...
+
+*Riload*
+
+-------
+
 > Windows XP es Multitarea: está preparado para que varios programas fallen simultáneamente.
 
 *Sergio Suárez*
