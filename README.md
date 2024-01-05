@@ -548,6 +548,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Mira detrás de ti... ¡un mono de tres cabezas!
+
+*Guybrush Threepwood*
+
+-------
+
 > There is not place like 127.0.0.1
 
 *Unknow*
