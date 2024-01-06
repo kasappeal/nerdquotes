@@ -330,6 +330,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Un gran repositorio conlleva una gran responsabilidad...
+
+*Gandalf el Gits*
+
+-------
+
 > It's over 9000!!!
 
 *Vegeta*
