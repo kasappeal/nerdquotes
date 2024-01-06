@@ -774,6 +774,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Patience, Lewis. We're only human.
+
+*Officer Alex Murphy*
+
+-------
+
 > Programming isn't about what you know; it's about what you can figure out.
 
 *Chris Pine*
