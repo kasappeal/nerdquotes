@@ -25,6 +25,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> «Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos».
+
+*Batman*
+
+-------
+
 >Hemos superado los principios Shaolin y de las arles marciales porque conseguimos los cambios con más rapidez y sin necesidad de una disciplina férrea. Se trata un poco de funcionar como los ordenadores, que van en la línea de ser cada vez más rápidos.
 
 *Kam Yuen*
