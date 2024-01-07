@@ -52,6 +52,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
+-------
+
+>The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
+
+*Seymour Cray*
 
 --------
 
