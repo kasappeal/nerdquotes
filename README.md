@@ -138,7 +138,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 >Viaje antes que destino.
 
-*Brandon Sanderson, The Way of Kings
+*Brandon Sanderson, The Way of Kings*
 
 -------
 
