@@ -252,6 +252,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A nerd can call another nerd a nerd.
+
+*Travis Scott*
+
+-------
+
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
