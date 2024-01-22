@@ -112,6 +112,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Houston, tenemos un conflicto.
+
+*Git Swigert*
+
+-------
+
 > Has encontrado tu miedo, ahora libera tu ira. 
 
 *Darth Vader*
