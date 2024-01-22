@@ -25,6 +25,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> «Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos».
+
+*Batman*
+
+-------
+
 >Hemos superado los principios Shaolin y de las arles marciales porque conseguimos los cambios con más rapidez y sin necesidad de una disciplina férrea. Se trata un poco de funcionar como los ordenadores, que van en la línea de ser cada vez más rápidos.
 
 *Kam Yuen*
@@ -34,6 +40,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No man has a good enough memory to be a successful liar.
 
 *Abraham Lincoln*
+
+-------
+
+> Hardware: Las partes de un ordenador que pueden ser pateadas.
+*Jeff Pesis*
 
 -------
 
@@ -52,6 +63,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
+-------
+
+>The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
+
+*Seymour Cray*
 
 --------
 
@@ -60,6 +76,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Ctr+Z Anonimo*
 
 --------
+
+> Un día, entre líneas de Python y JavaScript con amigos, unos tipos del barrio me metieron en un lío. Mi madre repetía, una y otra vez,
+"Con Keep Coding aprenderás desarrollo web"
+
+*El principe de Bel-Air*
+
+-------
 
 > Just like a monad is just a monoid in the category of endofunctors, git gets easier once you get the basic idea that branches are homeomorphic endofunctors mapping submanifolds of a Hilbert space. Git over it, dude.
 
@@ -76,6 +99,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > La vida es una fiesta del futbol.
 
 *Ronaldinho*
+
+-------
+
+> Eso no es volar, eso es... ¡Caer con estilo!.
+
+*Woody*
 
 -------
 
@@ -115,6 +144,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Once you get a sense of acomplishment, groth stops.
 
 *Masayoshi son*
+
+-------
+
+> Houston, tenemos un conflicto.
+
+*Git Swigert*
 
 -------
 
@@ -159,6 +194,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mi perro*
 
 -------
+> ¿No funciona!, ¿por qué??... Funciona!!, ¿por qué?
+*Pablo III El Commitoso*
+-------
 
 > I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
 
@@ -181,6 +219,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Todos dicen que existe un límite para todo, pero pocos rompen ese límite y se superan.
 
 *Daniel Jurado Pérez*
+
+-------
+
+> Nothing's gonna change my code for you.
+
+*Git Medeiros*
 
 -------
 
@@ -215,6 +259,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 > Confia en el tiempo que suele dar dulces salidas a muchos grandes BUGS.
 *Carlos Javier Espinosa*
+
+-------
+
+> Quien a buen master se arrima, bueno commits le cobijan
+*El programador enmascarado*
 
 -------
 
@@ -255,6 +304,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > HTTP status code 403: You shall not pass!
 
 *Gandalf*
+
+-------
+
+> A nerd can call another nerd a nerd.
+
+*Travis Scott*
 
 -------
 
@@ -333,6 +388,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
+
+-------
+
+> Un gran repositorio conlleva una gran responsabilidad...
+
+*Gandalf el Gits*
 
 -------
 
@@ -504,6 +565,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------------
 
+> Todo lo que sube baja pero no todo lo que baja sube.
+
+*Un científico*
+
+--------------
+
 > Mientras unos sufren por amor yo sufro porque no compila.
 
 *Lan Solo*
@@ -551,6 +618,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > En el planeta Tierra el hombre siempre supuso que era más inteligente que los delfines porque había producido muchas cosas (la rueda, Nueva York, las guerras, etcétera), mientras que los delfines lo único que habían hecho consistía en juguetear en el agua y divertirse. Pero a la inversa, los delfines siempre creyeron que eran mucho más inteligentes que el hombre, precisamente por las mismas razones.
 
 *Guía del Autoestopista Galáctico, Douglas Adams*
+
+-------
+
+> Mira detrás de ti... ¡un mono de tres cabezas!
+
+*Guybrush Threepwood*
 
 -------
 
@@ -780,6 +853,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Patience, Lewis. We're only human.
+
+*Officer Alex Murphy*
+
+-------
+
 > Programming isn't about what you know; it's about what you can figure out.
 
 *Chris Pine*
@@ -789,6 +868,12 @@ _La Principita Martina Fierro_
 > "Lo sentimos, tu contraseña debe tener al menos un número, un signo, un animal extinto, un Pokémon legendario y una cita famosa.
 
 *Yolanda Mesa López*
+
+-------
+
+> Si la depuración es el proceso de eliminar errores del software, entonces la programación debe ser el proceso de ponerlos.
+
+*Dijsktra, Edsger*
 
 -------
 
@@ -885,6 +970,12 @@ _La Principita Martina Fierro_
 > `git` may the `--force` be with you `push`
 
 *Git geek*
+
+-------
+
+> Git es como un viaje en el tiempo para tu código, pero sin la DeLorean. GitHub simplemente lo hace socialmente aceptable.
+
+*Iv3tt3 - Ivette Farré*
 
 -------
 
@@ -1520,6 +1611,13 @@ _Is a slogan, on the common American English saying, There's no place like home,
 > El 14 de marzo es un día muy irracional, *PI*ro no pasa nada.
 
 *Carlos Jáuregui*
+
+-------
+
+> Las personas de esas historias tenían muchas posibilidades para rendirse, pero no lo hicieron.
+Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo, señor Frodo, y vale la pena luchar por ello.
+
+*Samwise Gamgee*
 
 -------
 
@@ -2407,6 +2505,23 @@ sino por ese tesoro
 
 -------
 
+> Algunos Geeks Buenos
+    - Ordeno usted el git merge?
+    - No tiene que responder a la pregunta
+    - Quiero responder a la pregunta. ¿Quiere respuestas?
+    - Creo que tengo derecho a ellas.
+    - ¡Quiere respuestas!
+    - ¡Quiero la verdad!
+    - ¡Tú no puedes encajar la verdad!. Vivimos en un mundo que tiene commits y esos commits han de estar vigilados por geeks armados. ¿Quién va a hacerlo?. ¡¿Tú?!… ¿Usted teniente Casero? Yo tengo una responsabilidad mayor de la que puedas calibrar jamás… Tú lloras por ese fast forward y maldices a los junior. Tienes ese lujo. Tienes el lujo de no saber lo que yo sé, que ese git merge, aunque trágico seguramente salvó vidas. Tú no quieres la verdad porque en zonas de tu interior de las que no charlas con los amiguetes, me quieres en esa shell. Me necesitas en esa shell. Nosotros usamos palabras como "Testing", "Código", "Integración", las usamos como columna vertebral de una vida dedicada a defender algo, tu las usas como gag, y no tengo ni el tiempo, ni las más mínimas ganas de explicarme ante un hombre que se levanta y se acuesta bajo el desarrollo que yo le proporciono y despues cuestiona el modo en que lo proporciono. Preferiria que solo dijeras gracias y siguieras tu camino. De lo contrario te sugiero que cojas un teclado y te crees una rama. De todos modos, me importa un carajo a lo que creas que tienes derecho.
+    - ¿Ordenó el git merge en la rama principal?
+    - Hice el trabajo que me encargasteis
+    - ¿Ordenó el git merge en la rama principal?
+    - ¡Por supuesto que lo hice, joder!
+
+*basada en la peli 'Algunos hombres buenos'*
+
+-------
+
 > RHAWKARG
 
 *chewbacca*
@@ -2999,6 +3114,12 @@ sino por ese tesoro
 > "Codifica siempre como si la persona que finalmente mantendrá tu código fuera un psicópata violento que sabe dónde vives"
 
 *Martin Golding*
+
+-------
+
+> Me gustan los programadores porque hacen cosas.
+
+*M. Rajoy*
 
 -------
 
@@ -4079,6 +4200,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> A la vejez viruelas, nunca es tarde si la dicha es buena
+
+*Kelvinator*
+
+---------
+
 > "La verdad es a menudo lo que hacemos de ella"
 
 *Obi-Wan Kenobi*
@@ -4185,6 +4312,18 @@ But I'm not gonna lie down until I get there.
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
 *DMR*
+
+---------
+
+> - God sent me on earth. He send me to do something, and nobody can stop me. If God want to stop me, then I stop. Man never can.
+
+*Bob Marley*
+
+---------
+
+> - Soy el amo de mi destino, soy el capitán de mi alma
+
+*Tio Gilito*
 
 ---------
 
