@@ -4246,6 +4246,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> - Soy el amo de mi destino, soy el capitán de mi alma
+
+*Tio Gilito*
+
+---------
+
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
