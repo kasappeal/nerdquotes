@@ -73,6 +73,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Eso no es volar, eso es... ¡Caer con estilo!.
+
+*Woody*
+
+-------
+
 > La fuerza estará contigo. Siempre.
 
 *Obi-Wan Kenobi*
@@ -109,6 +115,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Once you get a sense of acomplishment, groth stops.
 
 *Masayoshi son*
+
+-------
+
+> Houston, tenemos un conflicto.
+
+*Git Swigert*
 
 -------
 
@@ -4185,6 +4197,12 @@ But I'm not gonna lie down until I get there.
 > - Nada hijo es que Windows me dijo que cierre las pestañas
 
 *DMR*
+
+---------
+
+> - God sent me on earth. He send me to do something, and nobody can stop me. If God want to stop me, then I stop. Man never can.
+
+*Bob Marley*
 
 ---------
 
