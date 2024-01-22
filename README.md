@@ -71,6 +71,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Cuando escribí este código, solo Dios y yo sabíamos lo que hacía. Ahora solo Dios sabe.
+
+*Ctr+Z Anonimo*
+
+--------
+
 > Un día, entre líneas de Python y JavaScript con amigos, unos tipos del barrio me metieron en un lío. Mi madre repetía, una y otra vez,
 "Con Keep Coding aprenderás desarrollo web"
 
