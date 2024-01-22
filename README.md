@@ -25,6 +25,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> «Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos».
+
+*Batman*
+
+-------
+
 >Hemos superado los principios Shaolin y de las arles marciales porque conseguimos los cambios con más rapidez y sin necesidad de una disciplina férrea. Se trata un poco de funcionar como los ordenadores, que van en la línea de ser cada vez más rápidos.
 
 *Kam Yuen*
@@ -34,6 +40,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > No man has a good enough memory to be a successful liar.
 
 *Abraham Lincoln*
+
+-------
+
+> Hardware: Las partes de un ordenador que pueden ser pateadas.
+*Jeff Pesis*
 
 -------
 
@@ -52,6 +63,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
+-------
+
+>The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
+
+*Seymour Cray*
 
 --------
 
@@ -70,6 +86,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > La vida es una fiesta del futbol.
 
 *Ronaldinho*
+
+-------
+
+> Eso no es volar, eso es... ¡Caer con estilo!.
+
+*Woody*
 
 -------
 
@@ -109,6 +131,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Once you get a sense of acomplishment, groth stops.
 
 *Masayoshi son*
+
+-------
+
+> Houston, tenemos un conflicto.
+
+*Git Swigert*
 
 -------
 
@@ -252,6 +280,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> A nerd can call another nerd a nerd.
+
+*Travis Scott*
+
+-------
+
 > Programming is like writing a book...except if you miss out a single comma on page 126, the whole thing makes no damn sense
 
 *Iron MAC*
@@ -327,6 +361,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Tengo más hambre que el tamagochi de un sordo.
 
 *David Bernal Gonzalez*
+
+-------
+
+> Un gran repositorio conlleva una gran responsabilidad...
+
+*Gandalf el Gits*
 
 -------
 
@@ -545,6 +585,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > En el planeta Tierra el hombre siempre supuso que era más inteligente que los delfines porque había producido muchas cosas (la rueda, Nueva York, las guerras, etcétera), mientras que los delfines lo único que habían hecho consistía en juguetear en el agua y divertirse. Pero a la inversa, los delfines siempre creyeron que eran mucho más inteligentes que el hombre, precisamente por las mismas razones.
 
 *Guía del Autoestopista Galáctico, Douglas Adams*
+
+-------
+
+> Mira detrás de ti... ¡un mono de tres cabezas!
+
+*Guybrush Threepwood*
 
 -------
 
@@ -771,6 +817,12 @@ _La Principita Martina Fierro_
 > I´m a programmer I write code, I will not fix your computer.
 
 *Memorias de un joven programador*
+
+-------
+
+> Patience, Lewis. We're only human.
+
+*Officer Alex Murphy*
 
 -------
 
@@ -4073,6 +4125,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> A la vejez viruelas, nunca es tarde si la dicha es buena
+
+*Kelvinator*
+
+---------
+
 > "La verdad es a menudo lo que hacemos de ella"
 
 *Obi-Wan Kenobi*
@@ -4182,12 +4240,18 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
+> - God sent me on earth. He send me to do something, and nobody can stop me. If God want to stop me, then I stop. Man never can.
 
-*Luke Skywalker*
+*Bob Marley*
 
 ---------
 
 > - Soy el amo de mi destino, soy el capitán de mi alma
 
 *Tio Gilito*
+
+---------
+
+> - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
+
+*Luke Skywalker*
