@@ -3061,6 +3061,12 @@ sino por ese tesoro
 
 -------
 
+> Me gustan los programadores porque hacen cosas.
+
+*M. Rajoy*
+
+-------
+
 > Penny, todo es mejor con bluetooth.
 
 *Sheldon Cooper*
