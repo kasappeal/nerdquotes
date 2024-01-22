@@ -1833,6 +1833,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> En mi local funciona!!!!! Debe de ser un problema de servidor...
+
+*Riload*
+
+-------
+
 > Windows XP es Multitarea: está preparado para que varios programas fallen simultáneamente.
 
 *Sergio Suárez*
