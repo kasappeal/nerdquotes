@@ -148,6 +148,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si no he vuelto en cinco minutos, espera un poco más.
+
+*Ace Ventura*
+
+-------
+
 > Guau Guau Guau Guuau! Guauu Guau (Traducción: Que alguien le quite ya ese computador al humano! Que solo juega con él)
 
 *Mi perro*
