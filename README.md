@@ -2227,6 +2227,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> Todos tenemos luz y oscuridad en nuestro interior, lo que importa es qué parte decidimos potenciar.
+
+*Sirius Black*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
