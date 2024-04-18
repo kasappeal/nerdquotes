@@ -40,6 +40,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Un vaso es un vaso y un plato es un plato.
+
+*Mariano Rajoy*
+
+-------
+
 > No man has a good enough memory to be a successful liar.
 
 *Abraham Lincoln*
