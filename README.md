@@ -86,6 +86,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Siempre recuerda: si Darth Vader pudo ser padre, tú también puedes.
+
+*Anónimo Jedi*
+
+--------
+
 > Un día, entre líneas de Python y JavaScript con amigos, unos tipos del barrio me metieron en un lío. Mi madre repetía, una y otra vez,
 "Con Keep Coding aprenderás desarrollo web"
 
