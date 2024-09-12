@@ -4357,3 +4357,9 @@ But I'm not gonna lie down until I get there.
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
+
+-----------
+
+> - Comentar el código es para cobardes. Mejor que lo descubran como un juego de escape room
+
+*Los Programadores*
