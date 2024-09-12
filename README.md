@@ -856,6 +856,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> It's not a bug, it's a feature!
+
+*Frase popular!*
+
+-------
+
 > 2B || !2B
 
 *Somebody that i used to know*
