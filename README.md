@@ -63,6 +63,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> How do you call a IT teacher who touches his students? A PDFile.
+
+*Martin EsConEse (Scorsese)*
+
+--------
+
+> Si Git pudo recuperar ese cambio que ya dabas por perdido, tú puedes recuperar su amor.
+
+*Frases que un programador nunca diría porque le dan miedo las mujeres*
+
+--------
+
 > Copy-paste, es el camino.
 
 *El mandaloriano programador*
