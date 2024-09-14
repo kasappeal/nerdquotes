@@ -364,6 +364,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El universo es un gran misterio, y la única constante es el cambio.
+
+*Tony Stark*
+
+-------
+
 > Hay 10 tipos de personas en el mundo: los que entienden el binario, y los que no.
 
 *Anónimo*
