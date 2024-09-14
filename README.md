@@ -135,8 +135,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.
+
+*LordOfTheBits*
+
+--------
+
 >La verdad solo se puede encontraren un lugar: elcódigo
->
+
 *RobertC. Martin*
 
 -------
