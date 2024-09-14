@@ -52,6 +52,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si tienes hambre, come.
+
+*Monkey D. Luffy*
+
+-------
+
 > Hardware: Las partes de un ordenador que pueden ser pateadas.
 *Jeff Pesis*
 
