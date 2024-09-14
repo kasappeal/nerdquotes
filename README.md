@@ -39,6 +39,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Kam Yuen*
 
 -------
+> Tengo un programa buenísimo para este fin de semana, ¿te unes?   ¡¡¡Listo  Programemos!!!.
+
+*Gonzalor*
+-------
 
 >Un vaso es un vaso y un plato es un plato.
 
