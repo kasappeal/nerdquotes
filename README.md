@@ -39,6 +39,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Kam Yuen*
 
 -------
+> La realidad virtual es solo un bucle de while con un poco más de glamour.
+
+*Dr. Code Nerd*
+
+-------
 
 >Un vaso es un vaso y un plato es un plato.
 
