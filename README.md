@@ -1447,6 +1447,12 @@ _La Principita Martina Fierro_
 
 *Dean Kamen*
 
+---------
+
+> - When you remember me, please remember that. Remember to smile.
+
+*Kelsier* Mistborn
+
 ------
 
 > Un gran poder conlleva una gran responsabilidad
