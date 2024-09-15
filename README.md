@@ -63,6 +63,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> El pasado puede doler, pero tal como yo lo veo, puedes huir de él o aprender
+
+*Rafiki*
+
+--------
+
 > Copy-paste, es el camino.
 
 *El mandaloriano programador*
