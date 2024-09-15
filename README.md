@@ -3578,6 +3578,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "I’m Winston Wolfe.I Solve Problems"
+
+*Mr Wolfe*
+
+-------
+
 > Hazlo o no lo hagas pero no lo intentes.
 
 *Maestro Yoda*
