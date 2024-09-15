@@ -237,6 +237,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> You only control the effort, not the results.>
+
+*MRP*
+
+-------
+
 > Todos dicen que existe un límite para todo, pero pocos rompen ese límite y se superan.
 
 *Daniel Jurado Pérez*
