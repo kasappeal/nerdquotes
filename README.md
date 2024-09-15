@@ -334,10 +334,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
-*Gandalf*
-
--------
-
 > A nerd can call another nerd a nerd.
 
 *Travis Scott*
