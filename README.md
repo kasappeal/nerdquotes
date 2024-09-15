@@ -72,6 +72,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
+
+-------
+
+> No voy a pedirte que elijas entre el sexo y el Halo 3. Que yo sepa el sexo no incluye gráficos 3D ni armas de nueva generación.
+
+*Sheldon Cooper*
+
 -------
 
 >The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
