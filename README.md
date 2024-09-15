@@ -133,6 +133,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *MorenoCreativo*
 
+-------
+
+> Una inversión en conocimiento paga el mejor interés
+
+*Benjamin Franklin*
+
 --------
 
 >La verdad solo se puede encontraren un lugar: elcódigo
