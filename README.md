@@ -4357,3 +4357,10 @@ But I'm not gonna lie down until I get there.
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
+
+---------
+
+> - Someone who doesn't take herself too seriously and can be a goofball. Because everyone's a nerd inside, I don't care how cool you are.
+
+*Channing Tatum*
+
