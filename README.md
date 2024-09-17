@@ -63,6 +63,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> ¿Eres un uno o un cero?
+*Mr.Robot*
+
+-------
+
 > Copy-paste, es el camino.
 
 *El mandaloriano programador*
