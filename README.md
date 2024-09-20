@@ -4489,9 +4489,14 @@ But I'm not gonna lie down until I get there.
 
 *Luke Skywalker*
 
+-----------
+
+> - Comentar el código es para cobardes. Mejor que lo descubran como un juego de escape room
+
+*Los Programadores*
+
 ---------
 
 > - Someone who doesn't take herself too seriously and can be a goofball. Because everyone's a nerd inside, I don't care how cool you are.
 
 *Channing Tatum*
-
