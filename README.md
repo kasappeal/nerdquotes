@@ -50,6 +50,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+ > Nuestras virtudes y nuestros defectos son inseparables, como la fuerza y la materia. Cuando se separan, el hombre no existe.
+ 
+*Nikola Tesla*
+
+-------
+
 >Hemos superado los principios Shaolin y de las arles marciales porque conseguimos los cambios con más rapidez y sin necesidad de una disciplina férrea. Se trata un poco de funcionar como los ordenadores, que van en la línea de ser cada vez más rápidos.
 
 *Kam Yuen*
