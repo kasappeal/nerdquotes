@@ -15,16 +15,32 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mariano Rajoy*
 
 -------
+
 > “Klaatu barada nikto!”
 
 *Klaatu*
+
 -------
+
+> "Ni un día cero"
+
+*Fernando Rodriguez*
+
+-------
+
 > I am Locutus of main.
 > Resistance is futile.
 > Your life as it has been is over.
 > From this time forward you will service us.
 
 *Jean-Luc Picard resolviendo conflictos*
+
+-------
+
+> “No está muerto lo que puede yacer eternamente, y con el paso de extraños eones, incluso la muerte puede morir”
+
+
+*H.P. Lovecraft*
 
 -------
 
@@ -39,9 +55,16 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Kam Yuen*
 
 -------
+
 > La realidad virtual es solo un bucle de while con un poco más de glamour.
 
 *Dr. Code Nerd*
+
+-------
+
+> Tengo un programa buenísimo para este fin de semana, ¿te unes?   ¡¡¡Listo  Programemos!!!.
+
+*Gonzalor*
 
 -------
 
@@ -62,11 +85,22 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Algunas veces se gana y otras, se aprende
+
+*John C. Maxwell*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
 
 --------
+
+> ¿Eres un uno o un cero?
+*Mr.Robot*
+
+-------
 
 > Copy-paste, es el camino.
 
@@ -74,14 +108,28 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La música es mi religión.
+
+*Jimi Hendrix*
+
+-------
+
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
+
 -------
 
 >The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
 
 *Seymour Cray*
+
+
+-------
+
+> Dejar de fumar es fácil. Yo ya lo deje unas 100 veces.
+
+*Rapmon Lo Borda*
 
 --------
 
@@ -95,6 +143,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 "Con Keep Coding aprenderás desarrollo web"
 
 *El principe de Bel-Air*
+
+-------
+
+> Ser programador es como ser Spider-Man: con gran poder (del código) viene una gran responsabilidad... y muchísimos commits que dicen 'arreglar bug final'.
+
+*Peter Parker justo antes de romper producción*
 
 -------
 
@@ -128,6 +182,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> «El lugar donde alguien todavía piensa en ti es el lugar al que puedes regresar».
+
+*Jiraiya*
+
+-------
+
 >Subir una cumbre es como comerte una tarta y hacer cumbre es la guinda, si me como la guinda bien, pero si no, ya me he comido todo el pastel.
 
 *Iñaki Ochoa de Olza*
@@ -140,8 +200,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
->La verdad solo se puede encontraren un lugar: elcódigo
->
+> La verdad solo se puede encontraren un lugar: elcódigo
+
 *RobertC. Martin*
 
 -------
@@ -191,7 +251,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Viaje antes que destino.
+> Viaje antes que destino.
 
 *Brandon Sanderson, The Way of Kings*
 
@@ -200,6 +260,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Sin café no soy persona, soy un gremlin recién mojado.
 
 *Formentera*
+
+-------
+
+> En un mundo de unos y ceros... ¿eres un cero o el Uno? La realidad es cosa del pasado.
+
+*Friki de Matrix*
 
 -------
 
@@ -220,8 +286,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mi perro*
 
 -------
+
 > ¿No funciona!, ¿por qué??... Funciona!!, ¿por qué?
+
 *Pablo III El Commitoso*
+
 -------
 
 > I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
@@ -265,6 +334,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Block buster*
 
 -------
+
 > No es culpa de nadie si tienes la variedad emocional de un ladrillo
 
 *Hermione Granger*
@@ -284,11 +354,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Confia en el tiempo que suele dar dulces salidas a muchos grandes BUGS.
+
 *Carlos Javier Espinosa*
 
 -------
 
 > Quien a buen master se arrima, bueno commits le cobijan
+
 *El programador enmascarado*
 
 -------
@@ -310,6 +382,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Batty (Blade Runner)*
 
 -------
+
 > 2b || not 2b. He ahi el dilema.
 
 *Uberth H*
@@ -324,6 +397,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > If you give up today, yesterday's effort was useless!
 
 *Diana María Toro López*
+
+-------
+
+> "All those moments will be lost in time, like tears in rain. Time to die." 
+
+*Roy Batty*
 
 -------
 
@@ -4362,3 +4441,10 @@ But I'm not gonna lie down until I get there.
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
+
+---------
+
+> - Someone who doesn't take herself too seriously and can be a goofball. Because everyone's a nerd inside, I don't care how cool you are.
+
+*Channing Tatum*
+
