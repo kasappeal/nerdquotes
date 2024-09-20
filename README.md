@@ -1663,6 +1663,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 
 -------
 
+> Lisa Simpson es una niña de mi cole.
+
+*Ralph Wiggum*
+
+-------
+
 > Solo existen 10 tipos de personas, las que saben binario y las que no.
 
 *Blogger de Niro*
