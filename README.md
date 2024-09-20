@@ -97,6 +97,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Mi código no tiene errores... solo características no documentadas.
+
+*ChatGPT*
+
+-------
+
 > Algunas veces se gana y otras, se aprende
 
 *John C. Maxwell*
