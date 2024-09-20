@@ -349,6 +349,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "All those moments will be lost in time, like tears in rain. Time to die." 
+
+*Roy Batty*
+
+-------
+
 > HTTP status code 403: You shall not pass!
 
 *Gandalf*
