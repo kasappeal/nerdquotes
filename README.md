@@ -84,6 +84,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> La música es mi religión.
+
+*Jimi Hendrix*
+
+-------
+
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
