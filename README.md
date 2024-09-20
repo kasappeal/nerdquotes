@@ -99,6 +99,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Seymour Cray*
 
+
+-------
+
+> Dejar de fumar es fácil. Yo ya lo deje unas 100 veces.
+
+*Rapmon Lo Borda*
+
 --------
 
 > Cuando escribí este código, solo Dios y yo sabíamos lo que hacía. Ahora solo Dios sabe.
