@@ -31,7 +31,15 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Jean-Luc Picard resolviendo conflictos*
 
+
 -------
+
+> “No está muerto lo que puede yacer eternamente, y con el paso de extraños eones, incluso la muerte puede morir”
+
+*H.P. Lovecraft*
+-------
+
+
 
 > «Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos».
 
