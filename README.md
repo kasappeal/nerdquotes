@@ -334,6 +334,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Anonymous*
 
 -------
+> !Cuando el sol se pone, la carne esta lista!
+
+*Monkey D. Luffy*
+
+-------
 
 > Git away for always.
 
