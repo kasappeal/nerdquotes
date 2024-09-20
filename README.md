@@ -15,15 +15,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mariano Rajoy*
 
 -------
+
 > “Klaatu barada nikto!”
 
 *Klaatu*
+
 -------
 
 > "Ni un día cero"
 
 *Fernando Rodriguez*
+
 -------
+
 > I am Locutus of main.
 > Resistance is futile.
 > Your life as it has been is over.
@@ -31,15 +35,14 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Jean-Luc Picard resolviendo conflictos*
 
-
 -------
 
 > “No está muerto lo que puede yacer eternamente, y con el paso de extraños eones, incluso la muerte puede morir”
 
+
 *H.P. Lovecraft*
+
 -------
-
-
 
 > «Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos».
 
@@ -52,6 +55,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Kam Yuen*
 
 -------
+
+> La realidad virtual es solo un bucle de while con un poco más de glamour.
+
+*Dr. Code Nerd*
+
+-------
+
 > Tengo un programa buenísimo para este fin de semana, ¿te unes?   ¡¡¡Listo  Programemos!!!.
 
 *Gonzalor*
@@ -107,6 +117,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
+
 -------
 
 >The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
@@ -189,8 +200,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
->La verdad solo se puede encontraren un lugar: elcódigo
->
+> La verdad solo se puede encontraren un lugar: elcódigo
+
 *RobertC. Martin*
 
 -------
@@ -240,7 +251,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Viaje antes que destino.
+> Viaje antes que destino.
 
 *Brandon Sanderson, The Way of Kings*
 
@@ -252,7 +263,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->En un mundo de unos y ceros... ¿eres un cero o el Uno? La realidad es cosa del pasado.
+> En un mundo de unos y ceros... ¿eres un cero o el Uno? La realidad es cosa del pasado.
 
 *Friki de Matrix*
 
@@ -275,8 +286,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mi perro*
 
 -------
+
 > ¿No funciona!, ¿por qué??... Funciona!!, ¿por qué?
+
 *Pablo III El Commitoso*
+
 -------
 
 > I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
@@ -320,6 +334,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Block buster*
 
 -------
+
 > No es culpa de nadie si tienes la variedad emocional de un ladrillo
 
 *Hermione Granger*
@@ -339,11 +354,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Confia en el tiempo que suele dar dulces salidas a muchos grandes BUGS.
+
 *Carlos Javier Espinosa*
 
 -------
 
 > Quien a buen master se arrima, bueno commits le cobijan
+
 *El programador enmascarado*
 
 -------
@@ -365,6 +382,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Batty (Blade Runner)*
 
 -------
+
 > 2b || not 2b. He ahi el dilema.
 
 *Uberth H*
