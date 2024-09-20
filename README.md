@@ -2286,6 +2286,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> Si la felicidad se escapa bailaré con el dolor.
+
+*Arde Bogotá*
+
+-------
+
 > Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas
 
 *Linus Torvalds*
