@@ -75,6 +75,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Algunas veces se gana y otras, se aprende
+
+*John C. Maxwell*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
