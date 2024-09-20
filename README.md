@@ -418,6 +418,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> The best way to predict the future is to invent it
+
+*Alan Kay*
+
+-------
+
 > A nerd can call another nerd a nerd.
 
 *Travis Scott*
