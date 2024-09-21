@@ -46,6 +46,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "Los problemas son solo oportunidades sin explotar." 
+
+*Richard Hendricks, Silicon Valley*
+
+-------
+
 > No man has a good enough memory to be a successful liar.
 
 *Abraham Lincoln*
