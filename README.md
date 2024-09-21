@@ -4552,12 +4552,6 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
-> - Es mejor perderse, que nunca embarcar
-
-*Diego Torres*
-
----------
-
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
