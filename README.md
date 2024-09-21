@@ -15,10 +15,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mariano Rajoy*
 
 -------
+
 > “Klaatu barada nikto!”
 
 *Klaatu*
+
 -------
+
+> "Ni un día cero"
+
+*Fernando Rodriguez*
+
+-------
+
 > I am Locutus of main.
 > Resistance is futile.
 > Your life as it has been is over.
@@ -28,15 +37,40 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “No está muerto lo que puede yacer eternamente, y con el paso de extraños eones, incluso la muerte puede morir”
+
+
+*H.P. Lovecraft*
+
+-------
+
 > «Nuestra mayor gloria no está en no caer nunca, sino en levantarnos cada vez que caemos».
 
 *Batman*
 
 -------
 
+ > Nuestras virtudes y nuestros defectos son inseparables, como la fuerza y la materia. Cuando se separan, el hombre no existe.
+ 
+*Nikola Tesla*
+
+-------
+
 >Hemos superado los principios Shaolin y de las arles marciales porque conseguimos los cambios con más rapidez y sin necesidad de una disciplina férrea. Se trata un poco de funcionar como los ordenadores, que van en la línea de ser cada vez más rápidos.
 
 *Kam Yuen*
+
+-------
+
+> La realidad virtual es solo un bucle de while con un poco más de glamour.
+
+*Dr. Code Nerd*
+
+-------
+
+> Tengo un programa buenísimo para este fin de semana, ¿te unes?   ¡¡¡Listo  Programemos!!!.
+
+*Gonzalor*
 
 -------
 
@@ -58,8 +92,20 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Si tienes hambre, come.
+
+*Monkey D. Luffy*
+
+-------
+
 > Hardware: Las partes de un ordenador que pueden ser pateadas.
 *Jeff Pesis*
+
+-------
+
+> Algunas veces se gana y otras, se aprende
+
+*John C. Maxwell*
 
 -------
 
@@ -69,20 +115,64 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> How do you call a IT teacher who touches his students? A PDFile.
+
+*Martin EsConEse (Scorsese)*
+
+--------
+
+> Si Git pudo recuperar ese cambio que ya dabas por perdido, tú puedes recuperar su amor.
+
+*Frases que un programador nunca diría porque le dan miedo las mujeres*
+
+--------
+
+> ¿Eres un uno o un cero?
+
+*Mr.Robot*
+
+-------
+
 > Copy-paste, es el camino.
 
 *El mandaloriano programador*
 
 -------
 
+> La música es mi religión.
+
+*Jimi Hendrix*
+
+-------
+
 > Si no he vuelto en cinco minutos, espera un poco mas
 
 *Ace Ventura*
+
+-------
+
+> No voy a pedirte que elijas entre el sexo y el Halo 3. Que yo sepa el sexo no incluye gráficos 3D ni armas de nueva generación.
+
+*Sheldon Cooper*
+
+-------
+
+> No es un bug, es un feature
+
+*Marcela Motta*
+
 -------
 
 >The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
 
 *Seymour Cray*
+
+
+-------
+
+> Dejar de fumar es fácil. Yo ya lo deje unas 100 veces.
+
+*Rapmon Lo Borda*
 
 --------
 
@@ -92,10 +182,22 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Siempre recuerda: si Darth Vader pudo ser padre, tú también puedes.
+
+*Anónimo Jedi*
+
+--------
+
 > Un día, entre líneas de Python y JavaScript con amigos, unos tipos del barrio me metieron en un lío. Mi madre repetía, una y otra vez,
 "Con Keep Coding aprenderás desarrollo web"
 
 *El principe de Bel-Air*
+
+-------
+
+> Ser programador es como ser Spider-Man: con gran poder (del código) viene una gran responsabilidad... y muchísimos commits que dicen 'arreglar bug final'.
+
+*Peter Parker justo antes de romper producción*
 
 -------
 
@@ -129,6 +231,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> «El lugar donde alguien todavía piensa en ti es el lugar al que puedes regresar».
+
+*Jiraiya*
+
+-------
+
 >Subir una cumbre es como comerte una tarta y hacer cumbre es la guinda, si me como la guinda bien, pero si no, ya me he comido todo el pastel.
 
 *Iñaki Ochoa de Olza*
@@ -139,10 +247,22 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *MorenoCreativo*
 
+-------
+
+> Una inversión en conocimiento paga el mejor interés
+
+*Benjamin Franklin*
+
+--------
+
+> Hay 10 tipos de personas en el mundo: los que entienden binario y los que no.
+
+*LordOfTheBits*
+
 --------
 
 >La verdad solo se puede encontraren un lugar: elcódigo
->
+
 *RobertC. Martin*
 
 -------
@@ -192,7 +312,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Viaje antes que destino.
+> Viaje antes que destino.
 
 *Brandon Sanderson, The Way of Kings*
 
@@ -201,6 +321,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Sin café no soy persona, soy un gremlin recién mojado.
 
 *Formentera*
+
+-------
+
+> En un mundo de unos y ceros... ¿eres un cero o el Uno? La realidad es cosa del pasado.
+
+*Friki de Matrix*
 
 -------
 
@@ -221,8 +347,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mi perro*
 
 -------
+
 > ¿No funciona!, ¿por qué??... Funciona!!, ¿por qué?
+
 *Pablo III El Commitoso*
+
 -------
 
 > I think we all have different moods - a nerd one day and cool the next. I think everyone has an inner geek, and I know I definitely do.
@@ -243,6 +372,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> You only control the effort, not the results.>
+
+*MRP*
+
+-------
+
 > Todos dicen que existe un límite para todo, pero pocos rompen ese límite y se superan.
 
 *Daniel Jurado Pérez*
@@ -260,12 +395,18 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Anonymous*
 
 -------
+> !Cuando el sol se pone, la carne esta lista!
+
+*Monkey D. Luffy*
+
+-------
 
 > Git away for always.
 
 *Block buster*
 
 -------
+
 > No es culpa de nadie si tienes la variedad emocional de un ladrillo
 
 *Hermione Granger*
@@ -285,11 +426,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Confia en el tiempo que suele dar dulces salidas a muchos grandes BUGS.
+
 *Carlos Javier Espinosa*
 
 -------
 
 > Quien a buen master se arrima, bueno commits le cobijan
+
 *El programador enmascarado*
 
 -------
@@ -311,6 +454,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Batty (Blade Runner)*
 
 -------
+
 > 2b || not 2b. He ahi el dilema.
 
 *Uberth H*
@@ -328,9 +472,21 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "All those moments will be lost in time, like tears in rain. Time to die." 
+
+*Roy Batty*
+
+-------
+
 > HTTP status code 403: You shall not pass!
 
 *Gandalf*
+
+-------
+
+> The best way to predict the future is to invent it
+
+*Alan Kay*
 
 -------
 
@@ -367,6 +523,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Tengo la sensación de haber estado antes aquí. ¿Cómo lo sabes? La Wi-Fi se ha conectado sola.
 
 *Anónimo*
+
+-------
+
+> El universo es un gran misterio, y la única constante es el cambio.
+
+*Tony Stark*
 
 -------
 
@@ -859,6 +1021,12 @@ _La Principita Martina Fierro_
 > "Tengo una idea. Una idea tan inteligente que mi cabeza explotaría si empezara a saber de que estoy hablando". Moraleja: no pienses demasiado.
 
 *Petter Griffin*
+
+-------
+
+> It's not a bug, it's a feature!
+
+*Frase popular!*
 
 -------
 
@@ -1453,6 +1621,12 @@ _La Principita Martina Fierro_
 
 *Dean Kamen*
 
+---------
+
+> - When you remember me, please remember that. Remember to smile.
+
+*Kelsier* Mistborn
+
 ------
 
 > Un gran poder conlleva una gran responsabilidad
@@ -1528,6 +1702,12 @@ La capacidad de hablar no te hace inteligente. (Qui-Gon Jinn)
 > La vida es como una caja de bombones, nunca sabes lo que te va a tocar.
 
 *Forrest Gump*
+
+-------
+
+> Lisa Simpson es una niña de mi cole.
+
+*Ralph Wiggum*
 
 -------
 
@@ -2185,6 +2365,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> Si la felicidad se escapa bailaré con el dolor.
+
+*Arde Bogotá*
+
+-------
+
 > Si piensas que los usuarios de tus programas son idiotas, sólo los idiotas usarán tus programas
 
 *Linus Torvalds*
@@ -2236,6 +2422,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 > Un gran Poder conlleva una gran Responsabilidad....!!!
 
 *El tío Ben (Spiderman)*
+
+-------
+
+> Todos tenemos luz y oscuridad en nuestro interior, lo que importa es qué parte decidimos potenciar.
+
+*Sirius Black*
 
 -------
 
@@ -3584,6 +3776,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> "I’m Winston Wolfe.I Solve Problems"
+
+*Mr Wolfe*
+
+-------
+
 > Hazlo o no lo hagas pero no lo intentes.
 
 *Maestro Yoda*
@@ -4363,3 +4561,15 @@ But I'm not gonna lie down until I get there.
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
+
+-----------
+
+> - Comentar el código es para cobardes. Mejor que lo descubran como un juego de escape room
+
+*Los Programadores*
+
+---------
+
+> - Someone who doesn't take herself too seriously and can be a goofball. Because everyone's a nerd inside, I don't care how cool you are.
+
+*Channing Tatum*
