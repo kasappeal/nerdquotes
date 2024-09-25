@@ -4585,3 +4585,9 @@ But I'm not gonna lie down until I get there.
 > - Someone who doesn't take herself too seriously and can be a goofball. Because everyone's a nerd inside, I don't care how cool you are.
 
 *Channing Tatum*
+
+---------
+
+> - El camino del ser esta escrito en binario. Este camno son decisiones, un si o un no, un 1 o un 0
+
+*Fernando Beneytez a.k.a. Pelitron*
