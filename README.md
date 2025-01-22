@@ -3469,6 +3469,12 @@ Segmentation fault [core dumped]
 
 -------
 
+> No hay amor más sincero que el amor a la comida.
+
+*George Bernard Show*
+
+-------
+
 > A nerd will be a nerd all his life.
 
 *John Hughes*
