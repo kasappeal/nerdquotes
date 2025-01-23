@@ -2990,6 +2990,12 @@ sino por ese tesoro
 
 -------
 
+> He who controls the spice controls the universe.
+
+*Frank Herbert*
+
+-------
+
 > Hombre que poder cazar mosca con palillos consigue lo que quiere.
 
 *Sr. Miyagi*
