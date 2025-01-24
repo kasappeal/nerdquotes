@@ -2299,6 +2299,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> "La mejor manera de no complicarse en centrar un div es no hacerlo"
+
+*Backend Developer*
+
+-------
+
 > My name was on the street? When we bounce from this shit here, y'all going to go down on them corners and let the people know: Word did not get back to me. Let them know Marlo step to any motherfucker: Omar, Barksdale, whoever. My name is my name!
 
 *Marlo Stanfield*
