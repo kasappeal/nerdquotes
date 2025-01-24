@@ -658,6 +658,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Sabía exactamente qué hacer. Pero en un sentido mucho más real, no tenía ni idea de qué hacer.
+
+*Michael Scott*
+
+-------
+
 > Dreams didn't make us kings. Dragons did.
 
 *Daemon Targaryen*
