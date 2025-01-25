@@ -4293,6 +4293,11 @@ But I'm not gonna lie down until I get there.
 
 -------
 
+> Hay dos tipos de desarrolladores: los que han roto algo en producción y los que lo harán algún día.
+
+*Un dev que hizo deploy un viernes por la tarde*
+
+-------
 > Si quieres ser mas positivo... Pierde un **electrón**
 
 *Anónimo*
