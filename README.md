@@ -2022,6 +2022,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 ------
 
+> "The last train is not the one you don't get on, but the one you let pass."
+
+*The people from the station*
+
+-------
+
 > To err is human, but to really foul things up you need a computer.
 
 *Paul R. Ehrlich*
