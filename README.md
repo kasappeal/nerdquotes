@@ -9,6 +9,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Alberto Casero*
 
 -------
+> "La tecnología es mejor cuando une a las personas."
+*Matt Mullenweg*
+-------
 
 > "Los recortes son de los mejores inventos."
 
@@ -35,6 +38,10 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Jean-Luc Picard resolviendo conflictos*
 
+
+-------
+> "La tecnología es mejor cuando une a las personas."
+*Matt Mullenweg*
 -------
 
 > “No está muerto lo que puede yacer eternamente, y con el paso de extraños eones, incluso la muerte puede morir”
