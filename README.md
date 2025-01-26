@@ -4190,6 +4190,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> No se puede ir por ahí construyendo un mundo mejor para la gente. Sólo la gente puede construir un mundo mejor para la gente. Si no, es solamente una jaula.
+
+*Brujas de viaje, Terry Pratchett*
+
+-------
+
 > Solo hay 10 tipos de personas, los que saben binario y los que no.
 
 *Mi profe de Sistemas Digitales*
