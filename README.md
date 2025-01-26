@@ -10,7 +10,8 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 > "La tecnología es mejor cuando une a las personas."
-*Matt Mullenweg*
+
+*Matt Mullenweg* 
 -------
 
 > "Los recortes son de los mejores inventos."
