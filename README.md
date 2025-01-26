@@ -80,6 +80,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Arreglar un bug a las 3 AM: funciona, pero no sabes por qué... igual que el bug.
+
+*Richard Duarte*
+
+-------
+
 > "Los problemas son solo oportunidades sin explotar." 
 
 *Richard Hendricks, Silicon Valley*
