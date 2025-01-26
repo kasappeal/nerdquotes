@@ -4425,6 +4425,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> "Vida antes que muerte. Fuerza antes que debilidad. Viaje antes que destino".
+
+*Primer ideal de los Caballeros Radiantes*
+
+---------
+
 > "La documentación es como el sexo, si es bueno es muy bueno, si es malo es mejor que nada".
 
 *Una pegatina*
