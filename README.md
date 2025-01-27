@@ -74,6 +74,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Cuando éramos niños, a muchos amigos les gustaba el baloncesto y a otros el basket.
+
+*Sergio Ramos*
+
+-------
 >Un vaso es un vaso y un plato es un plato.
 
 *Mariano Rajoy*
