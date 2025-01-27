@@ -98,6 +98,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Hermano, yo he visto cuadros y he llorao.
+
+*Yung Beef*
+
+-------
+
 > Hardware: Las partes de un ordenador que pueden ser pateadas.
 *Jeff Pesis*
 
