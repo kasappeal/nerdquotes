@@ -237,6 +237,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> When I go to a concert, I can't believe that people pay lots of money to see a band that they obviously like and then they dance the whole time. 
+
+*John Hughes*
+
+-------
+
 > «El lugar donde alguien todavía piensa en ti es el lugar al que puedes regresar».
 
 *Jiraiya*
