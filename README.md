@@ -231,6 +231,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El que no debe ser nombrado es una mala prátcia en programación. Nombra bien tus variables.
+
+*Larry Ploter*
+
+-------
 > La fuerza estará contigo. Siempre.
 
 *Obi-Wan Kenobi*
