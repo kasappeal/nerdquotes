@@ -2658,6 +2658,12 @@ sino por ese tesoro
 
 -------
 
+> Real stupidity beats artificial intelligence every time.
+
+*Terry Pratchett*
+
+-------
+
 > Todo gran poder conlleva una gran responsabilidad
 
 *Tio Ben*
