@@ -4015,6 +4015,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 *G.Marx*
 
+--------
+
+>"El caos es un orden que no entendemos."
+
+*Jorge Luis Borges*
+
 -------
 
 > In case of fire: 1. git commit, 2. git push, 3. exit building.
