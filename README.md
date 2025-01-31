@@ -37,6 +37,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>Nunca seas cruel. Nunca seas cobarde. Y nunca, nunca comas peras.
+
+*Peter Capalidi as Doctor Who*
+
+-------
+
 > “No está muerto lo que puede yacer eternamente, y con el paso de extraños eones, incluso la muerte puede morir”
 
 
