@@ -169,6 +169,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>En el TFT, como en la Fuerza, el equilibrio lo es todo. Si rerrolleas demasiado, te consumirás; si ahorras en exceso, te estancarás." 
+
+*Maestro Yordle Kenobi*
+
+
+-------
+
 >The trouble with programmers is that you can never tell what a programmer is doing until it's too late.
 
 *Seymour Cray*
