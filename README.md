@@ -22,6 +22,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Aquí tienes que correr tan rápido como puedas para permanecer en el mismo lugar. Si quieres desplazarte a otro, ¡Tienes que correr el doble de rápido!  
+
+*Alicia en el Pais de las Maravillas*
+
+-------
+
 > "Ni un día cero"
 
 *Fernando Rodriguez*
