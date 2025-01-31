@@ -80,6 +80,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+-------
+>A mi no me mires, yo voté por Kodos
+
+*Leonardo Da Vinci*
+-------
+
 > "Los problemas son solo oportunidades sin explotar." 
 
 *Richard Hendricks, Silicon Valley*
