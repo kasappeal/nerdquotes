@@ -115,6 +115,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "En Git confío; todos los demás deben presentar pruebas."
+
+*Linus Torvalds (quizás)*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
