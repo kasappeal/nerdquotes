@@ -22,6 +22,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>"¡Algún día seré hokage, no importa lo que cueste!"
+
+*Naruto Uzumaki*
+
+-------
+
 > "Ni un día cero"
 
 *Fernando Rodriguez*
