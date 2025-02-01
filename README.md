@@ -2700,6 +2700,12 @@ sino por ese tesoro
 
 -------
 
+> Lo único absoluto en este mundo es que todo es relativo.
+
+*InMentals*
+
+-------
+
 > He fracasado una y otra vez en mi vida y es por eso que tengo exito
 
 *Your Majesty Michael Air Jordan*
