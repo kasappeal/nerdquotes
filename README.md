@@ -237,6 +237,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+"Hola, holita nerd - itos <3"
+
+Nerd Flandes
+
+--------
 > «El lugar donde alguien todavía piensa en ti es el lugar al que puedes regresar».
 
 *Jiraiya*
