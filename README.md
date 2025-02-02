@@ -4582,6 +4582,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> - No dejes de brillar porque a otros les moleste tú luz
+
+*Diego Cano*
+
+---------
+
 > - Someone who doesn't take herself too seriously and can be a goofball. Because everyone's a nerd inside, I don't care how cool you are.
 
 *Channing Tatum*
