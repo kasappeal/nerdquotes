@@ -92,6 +92,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "La mejor forma de predecir el futuro es inventarlo."
+
+*Alan Torres*
+
+
 > Si tienes hambre, come.
 
 *Monkey D. Luffy*
