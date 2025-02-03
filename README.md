@@ -16,6 +16,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>"Un error es un punto de entrada para aprender algo nuevo. O para llorar un poco."
+
+– *Anónimo*
+
+-------
+
 > “Klaatu barada nikto!”
 
 *Klaatu*
