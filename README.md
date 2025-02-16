@@ -79,6 +79,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Mariano Rajoy*
 
 -------
+>Ningún viento es favorable para el que no sabe a qué puerto se dirige.
+
+*Séneca, filósofo romano*
+
+-------
 
 > "Los problemas son solo oportunidades sin explotar." 
 
