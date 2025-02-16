@@ -4576,6 +4576,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> - Life is very, very complicated, and so films should be allowed to be, too.
+
+*David Lynch*
+
+---------
+
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
