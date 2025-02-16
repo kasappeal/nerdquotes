@@ -114,6 +114,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Realizamos peoras y de cuando en cuando cometemos algún acierto
+*Ingeniero experimentado*
+
+-------
+
 > Mi código no tiene errores... solo características no documentadas.
 
 *ChatGPT*
