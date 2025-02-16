@@ -131,9 +131,19 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Monkey D. Luffy*
 
 -------
+
 > Viva el Betis manquepierda.
 
 *Lorenzo Serra Ferrer*
+
+-------
+
+> Hermano, yo he visto cuadros y he llorao.
+
+*Yung Beef*
+
+-------
+
 > Hardware: Las partes de un ordenador que pueden ser pateadas.
 *Jeff Pesis*
 
@@ -242,7 +252,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 -------
 
 > Me llamo Máximo Décimo Meridio. Comandante de los Ejércitos del Norte, General de las Legiones Fénix, fiel servidor del verdadero Emperador Marco Aurelio. Padre de un hijo asesinado, esposo de una esposa asesinada y juro que alcanzaré mi venganza, en esta vida o en la otra
-> 
+
 *Máximo Décimo Meridio*
 
 --------
