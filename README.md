@@ -114,7 +114,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Monkey D. Luffy*
 
 -------
+> Viva el Betis manquepierda.
 
+*Lorenzo Serra Ferrer*
 > Hardware: Las partes de un ordenador que pueden ser pateadas.
 *Jeff Pesis*
 
