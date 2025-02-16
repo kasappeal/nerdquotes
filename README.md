@@ -233,6 +233,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anónimo Jedi*
 
+-------
+
+> Me llamo Máximo Décimo Meridio. Comandante de los Ejércitos del Norte, General de las Legiones Fénix, fiel servidor del verdadero Emperador Marco Aurelio. Padre de un hijo asesinado, esposo de una esposa asesinada y juro que alcanzaré mi venganza, en esta vida o en la otra
+> 
+*Máximo Décimo Meridio*
+
 --------
 
 > Un día, entre líneas de Python y JavaScript con amigos, unos tipos del barrio me metieron en un lío. Mi madre repetía, una y otra vez,
