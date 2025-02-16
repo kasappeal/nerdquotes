@@ -1566,6 +1566,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Code is like humor. When you have to explain it, it’s bad.
+
+*Cory House*
+
+-------
+
 > En tu casa o en la mía?
 
 *Doctor Amor*
