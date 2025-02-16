@@ -465,6 +465,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity.
+
+*Albert Einstein*
+
+-------
+
 > Git away for always.
 
 *Block buster*
