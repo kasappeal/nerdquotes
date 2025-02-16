@@ -2521,6 +2521,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> When you're a nerd, you know there's a million types of neurotic self-loathing.
+
+*Pepe Neet*
+
+-------
+
 > Git es como la vida misma, si has hecho push, por mucho revert que hagas, en el log siempre queda.
 
 *Daniel Villalba*
