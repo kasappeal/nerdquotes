@@ -378,6 +378,12 @@ Nerd Flandes
 
 -------
 
+> "No es que yo odie el código, es que el código odia a los humanos."
+
+*John Doe, el Hacker Nocturno*
+
+-------
+
 > El lado oscuro intenta corromper,  
 > con errores y malas prácticas dice el nerd,  
 > que con Jedis lucha sin cesar,  
