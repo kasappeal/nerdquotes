@@ -16,9 +16,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>"Un error es un punto de entrada para aprender algo nuevo. O para llorar un poco."
+
+– *Anónimo*
+
+-------
+
 > “Klaatu barada nikto!”
 
 *Klaatu*
+
+-------
+
+> Aquí tienes que correr tan rápido como puedas para permanecer en el mismo lugar. Si quieres desplazarte a otro, ¡Tienes que correr el doble de rápido!  
+
+*Alicia en el Pais de las Maravillas*
+
+-------
+
+> "La vida es aquello que pasa  mientras estás ocupado descifrando el código de Matrix."
+
+*John Lennon*
 
 -------
 
@@ -34,6 +52,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > From this time forward you will service us.
 
 *Jean-Luc Picard resolviendo conflictos*
+
+-------
+
+>Nunca seas cruel. Nunca seas cobarde. Y nunca, nunca comas peras.
+
+*Peter Capalidi as Doctor Who*
 
 -------
 
@@ -56,6 +80,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "El único conflicto que no puedo resolver es el de la vida real, pero en Git, un merge siempre tiene solución."
+
+*Git Master*
+
+-------
+
 >Hemos superado los principios Shaolin y de las arles marciales porque conseguimos los cambios con más rapidez y sin necesidad de una disciplina férrea. Se trata un poco de funcionar como los ordenadores, que van en la línea de ser cada vez más rápidos.
 
 *Kam Yuen*
@@ -74,9 +104,27 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
->Un vaso es un vaso y un plato es un plato.
+> Cuando éramos niños, a muchos amigos les gustaba el baloncesto y a otros el basket.
+
+*Sergio Ramos*
+
+-------
+
+> Un vaso es un vaso y un plato es un plato.
 
 *Mariano Rajoy*
+
+-------
+
+> Ningún viento es favorable para el que no sabe a qué puerto se dirige.
+
+*Séneca, filósofo romano*
+
+-------
+
+> A mi no me mires, yo voté por Kodos
+
+*Leonardo Da Vinci*
 
 -------
 
@@ -92,14 +140,37 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Heroes come and go, but legends are forever.
+
+*Kobe Bryant
+
+-------
+
 > Si tienes hambre, come.
 
 *Monkey D. Luffy*
 
 -------
 
+> Viva el Betis manquepierda.
+
+*Lorenzo Serra Ferrer*
+
+-------
+
+> Hermano, yo he visto cuadros y he llorao.
+
+*Yung Beef*
+
+-------
+
 > Hardware: Las partes de un ordenador que pueden ser pateadas.
 *Jeff Pesis*
+
+-------
+
+> Realizamos peoras y de cuando en cuando cometemos algún acierto
+*Ingeniero experimentado*
 
 -------
 
@@ -115,9 +186,20 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "En Git confío; todos los demás deben presentar pruebas."
+
+*Linus Torvalds (quizás)*
+
+-------
+
 > Eres más perfecta que Célula después de absorber a A-18.
 
 *El vividor Borderline*
+
+--------
+
+> Si sacrificamos nuestro código, incluso por la victoria, podemos perder lo que es más importante, nuestro honor
+*Obi-Wan Kenobi, Star Wars*
 
 --------
 
@@ -192,6 +274,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Anónimo Jedi*
 
+-------
+
+> Me llamo Máximo Décimo Meridio. Comandante de los Ejércitos del Norte, General de las Legiones Fénix, fiel servidor del verdadero Emperador Marco Aurelio. Padre de un hijo asesinado, esposo de una esposa asesinada y juro que alcanzaré mi venganza, en esta vida o en la otra
+
+*Máximo Décimo Meridio*
+
 --------
 
 > Un día, entre líneas de Python y JavaScript con amigos, unos tipos del barrio me metieron en un lío. Mi madre repetía, una y otra vez,
@@ -231,6 +319,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> El que no debe ser nombrado es una mala prátcia en programación. Nombra bien tus variables.
+
+*Larry Ploter*
+
+-------
 > La fuerza estará contigo. Siempre.
 
 *Obi-Wan Kenobi*
@@ -242,6 +335,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 Nerd Flandes
 
 --------
+
+> When I go to a concert, I can't believe that people pay lots of money to see a band that they obviously like and then they dance the whole time. 
+
+*John Hughes*
+
+-------
+
 > «El lugar donde alguien todavía piensa en ti es el lugar al que puedes regresar».
 
 *Jiraiya*
@@ -409,6 +509,12 @@ Nerd Flandes
 > !Cuando el sol se pone, la carne esta lista!
 
 *Monkey D. Luffy*
+
+-------
+
+> When you are courting a nice girl an hour seems like a second. When you sit on a red-hot cinder a second seems like an hour. That's relativity.
+
+*Albert Einstein*
 
 -------
 
@@ -1513,6 +1619,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> Code is like humor. When you have to explain it, it’s bad.
+
+*Cory House*
+
+-------
+
 > En tu casa o en la mía?
 
 *Doctor Amor*
@@ -2304,6 +2416,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> "La mejor manera de no complicarse en centrar un div es no hacerlo"
+
+*Backend Developer*
+
+-------
+
 > My name was on the street? When we bounce from this shit here, y'all going to go down on them corners and let the people know: Word did not get back to me. Let them know Marlo step to any motherfucker: Omar, Barksdale, whoever. My name is my name!
 
 *Marlo Stanfield*
@@ -2526,6 +2644,12 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+> When you're a nerd, you know there's a million types of neurotic self-loathing.
+
+*Pepe Neet*
+
+-------
+
 > Git es como la vida misma, si has hecho push, por mucho revert que hagas, en el log siempre queda.
 
 *Daniel Villalba*
@@ -2660,6 +2784,12 @@ sino por ese tesoro
 > I'll be back
 
 *Terminator*
+
+-------
+
+> Real stupidity beats artificial intelligence every time.
+
+*Terry Pratchett*
 
 -------
 
@@ -2992,6 +3122,12 @@ sino por ese tesoro
 > Better to be a nerd than one of the herd!
 
 *Mandy Hale*
+
+-------
+
+> He who controls the spice controls the universe.
+
+*Frank Herbert*
 
 -------
 
@@ -3471,6 +3607,12 @@ Segmentation fault [core dumped]
 > Normalmente no rezo, pero si estás ahí, por favor, sálvame Superman.
 
 *Homer J.Simpson*
+
+-------
+
+> No hay amor más sincero que el amor a la comida.
+
+*George Bernard Show*
 
 -------
 
@@ -4020,6 +4162,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 *G.Marx*
 
+--------
+
+>"El caos es un orden que no entendemos."
+
+*Jorge Luis Borges*
+
 -------
 
 > In case of fire: 1. git commit, 2. git push, 3. exit building.
@@ -4195,6 +4343,12 @@ A strange game. The only winning move is not to play. How about a nice game of c
 
 -------
 
+> No se puede ir por ahí construyendo un mundo mejor para la gente. Sólo la gente puede construir un mundo mejor para la gente. Si no, es solamente una jaula.
+
+*Brujas de viaje, Terry Pratchett*
+
+-------
+
 > Solo hay 10 tipos de personas, los que saben binario y los que no.
 
 *Mi profe de Sistemas Digitales*
@@ -4295,6 +4449,12 @@ But I'm not gonna lie down until I get there.
 > Sci-fi nerds are respectful, honorable. You can trust them.
 
 *Sean Penn Drive*
+
+-------
+
+> Hay dos tipos de desarrolladores: los que han roto algo en producción y los que lo harán algún día.
+
+*Un dev que hizo deploy un viernes por la tarde*
 
 -------
 
@@ -4575,6 +4735,12 @@ But I'm not gonna lie down until I get there.
 
 ---------
 
+> - Life is very, very complicated, and so films should be allowed to be, too.
+
+*David Lynch*
+
+---------
+
 > - La vida sería mucho más sencilla si pudiéramos echar un vistazo al código fuente
 
 *Luke Skywalker*
@@ -4584,6 +4750,12 @@ But I'm not gonna lie down until I get there.
 > - Comentar el código es para cobardes. Mejor que lo descubran como un juego de escape room
 
 *Los Programadores*
+
+---------
+
+> - No dejes de brillar porque a otros les moleste tú luz
+
+*Diego Cano*
 
 ---------
 
