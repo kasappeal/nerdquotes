@@ -198,6 +198,11 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 --------
 
+> Si sacrificamos nuestro código, incluso por la victoria, podemos perder lo que es más importante, nuestro honor
+*Obi-Wan Kenobi, Star Wars*
+
+--------
+
 > How do you call a IT teacher who touches his students? A PDFile.
 
 *Martin EsConEse (Scorsese)*
