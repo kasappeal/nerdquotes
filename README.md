@@ -28,6 +28,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Aquí tienes que correr tan rápido como puedas para permanecer en el mismo lugar. Si quieres desplazarte a otro, ¡Tienes que correr el doble de rápido!  
+
+*Alicia en el Pais de las Maravillas*
+
+-------
+
 > "La vida es aquello que pasa  mientras estás ocupado descifrando el código de Matrix."
 
 *John Lennon*
@@ -97,21 +103,23 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 *Sergio Ramos*
 
 -------
->Un vaso es un vaso y un plato es un plato.
+
+> Un vaso es un vaso y un plato es un plato.
 
 *Mariano Rajoy*
 
 -------
->Ningún viento es favorable para el que no sabe a qué puerto se dirige.
+
+> Ningún viento es favorable para el que no sabe a qué puerto se dirige.
 
 *Séneca, filósofo romano*
 
 -------
 
--------
->A mi no me mires, yo voté por Kodos
+> A mi no me mires, yo voté por Kodos
 
 *Leonardo Da Vinci*
+
 -------
 
 > "Los problemas son solo oportunidades sin explotar." 
