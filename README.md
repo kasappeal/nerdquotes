@@ -140,6 +140,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Heroes come and go, but legends are forever.
+
+*Kobe Bryant
+
+-------
+
 > Si tienes hambre, come.
 
 *Monkey D. Luffy*
