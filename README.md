@@ -330,6 +330,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+"Hola, holita nerd - itos <3"
+
+Nerd Flandes
+
+--------
+
 > When I go to a concert, I can't believe that people pay lots of money to see a band that they obviously like and then they dance the whole time. 
 
 *John Hughes*
