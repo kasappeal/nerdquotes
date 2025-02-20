@@ -163,6 +163,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "La mejor forma de predecir el futuro es inventarlo."
+
+*Alan Torres*
+
+-------
+
 > Heroes come and go, but legends are forever.
 
 *Kobe Bryant
