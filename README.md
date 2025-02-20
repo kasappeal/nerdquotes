@@ -32,6 +32,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+>"¡Algún día seré hokage, no importa lo que cueste!"
+
+*Naruto Uzumaki*
+
+-------
+
 > Aquí tienes que correr tan rápido como puedas para permanecer en el mismo lugar. Si quieres desplazarte a otro, ¡Tienes que correr el doble de rápido!  
 
 *Alicia en el Pais de las Maravillas*
@@ -56,7 +62,6 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > From this time forward you will service us.
 
 *Jean-Luc Picard resolviendo conflictos*
-
 
 -------
 
