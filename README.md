@@ -117,6 +117,13 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 > Tengo un programa buenísimo para este fin de semana, ¿te unes?   ¡¡¡Listo  Programemos!!!.
 
 *Gonzalor*
+-------
+
+>Si no he vuelto en cinco minutos, buscame en github; mi último commit esta en linea.
+
+*Mon Lanferne*
+
+-------
 
 -------
 
