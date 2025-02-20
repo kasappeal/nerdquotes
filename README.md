@@ -1793,6 +1793,12 @@ _La Principita Martina Fierro_
 
 -------
 
+> The Aurora Borealis? At this time of year? At this time of day? In this part of the country? Localized entirely within your kitchen?
+
+*Superintendente Chalmers*
+
+-------
+
 > Los grandes árboles de la naturaleza surgieron de indefensas semillas.
 
 *frasess.net*
