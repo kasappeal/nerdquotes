@@ -690,6 +690,12 @@ Nerd Flandes
 
 -------
 
+> Si quieres llegar a los deadlines, abraza CoPilot.
+
+*user in progress *
+
+-------
+
 > Nunca mandes a un humano a hacer el trabajo de una máquina.
 
 *Agente Smith*
