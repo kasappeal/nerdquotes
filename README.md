@@ -2678,6 +2678,14 @@ Porque se estaban aferrando a algo. [...] aún hay algo de bondad en este mundo,
 
 -------
 
+-------
+
+> “**Code** is like humor. When you have to **explain it**, it’s bad.” 
+
+*– Cory House, React and JavaScript specialist*
+
+-------
+
 > I'm a nerd. Total geek. I never went to homecoming or prom or anything.
 
 *Hunter Hayes*
