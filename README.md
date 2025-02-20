@@ -139,6 +139,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> Arreglar un bug a las 3 AM: funciona, pero no sabes por qué... igual que el bug.
+
+*Richard Duarte*
+
+-------
+
 > Ningún viento es favorable para el que no sabe a qué puerto se dirige.
 
 *Séneca, filósofo romano*
