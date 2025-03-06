@@ -4859,3 +4859,12 @@ But I'm not gonna lie down until I get there.
 > - Someone who doesn't take herself too seriously and can be a goofball. Because everyone's a nerd inside, I don't care how cool you are.
 
 *Channing Tatum*
+
+---------
+
+> - Haz bien y no mires a quién.
+
+*Anónimo*
+
+
+
