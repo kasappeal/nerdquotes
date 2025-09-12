@@ -8,6 +8,7 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 *Alberto Casero*
 ------
+
 > A nerd can call another nerd a nerd.
 
 *Ruijia Gu*
