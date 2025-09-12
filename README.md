@@ -26,6 +26,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> “No tengo bugs, tengo features que evolucionan sin supervisión.”
+
+*Alex*
+
+-------
+
 > “Klaatu barada nikto!”
 
 *Klaatu*
