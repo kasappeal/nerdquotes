@@ -71,6 +71,9 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+"Solo sé una cosa: si eres feliz, no lo arruines. Y si no eres feliz, cámbialo. Así de simple."
+*Lemmy Killmister*
+
 >Nunca seas cruel. Nunca seas cobarde. Y nunca, nunca comas peras.
 
 *Peter Capalidi as Doctor Who*
