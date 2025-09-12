@@ -102,6 +102,16 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> DE TODO, QUEDARON TRES COSAS:  
+>la certeza de que estaba siempre comenzando,
+la certeza de que había que seguir
+y la certeza de que sería interrumpido
+antes de terminar.
+
+*Fernando Pessoa*
+
+-------
+
  > First rule of programming: if it works, don't touch it.
  
 *Internet wisdom*
