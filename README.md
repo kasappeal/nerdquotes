@@ -90,6 +90,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> «Life before death, strength before weakness, journey before destination».
+
+*Brandon Sanderson's The Stormlight Archive*
+
+-------
+
  > Nuestras virtudes y nuestros defectos son inseparables, como la fuerza y la materia. Cuando se separan, el hombre no existe.
  
 *Nikola Tesla*
