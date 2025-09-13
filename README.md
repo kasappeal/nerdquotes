@@ -619,6 +619,12 @@ Nerd Flandes
 
 -------
 
+> “Un sistema sin copias de seguridad es como Frodo sin Sam: no llega muy lejos.”
+
+*Bea H Castro*
+
+-------
+
 > “Tenemos que fabricar máquinas que nos permitan seguir fabricando máquinas porque lo que no va a hacer nunca la máquina es fabricar máquinas”
 
 *M. Rajoy*
