@@ -4906,4 +4906,10 @@ But I'm not gonna lie down until I get there.
 
 > - Haz bien y no mires a quién.
 
+*Germán Parlatto*
+
+---------
+
+> - Todo `DELETE FROM` merece una cláusula `WHERE`; lo demás es caos.
+
 *Anónimo*
