@@ -4,6 +4,12 @@ A nerd quotes's repository to have fun and learn git flows with Github!
 
 -------
 
+> "All we have to decide is what to do with the time that is given us."
+
+*Gandalf - The Lord of the Rings*
+
+-------
+
 > Un buen back-end es como Batman; parece que no, pero siempre está ahí.
 
 *Alberto Casero*
