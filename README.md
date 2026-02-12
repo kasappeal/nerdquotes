@@ -4921,3 +4921,9 @@ But I'm not gonna lie down until I get there.
 *Cristian Noreña*
 
 ---------
+
+> - Ser valiente no es solo cuestión de suerte.
+
+*Vetusta Morla*
+
+---------
