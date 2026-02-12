@@ -4913,3 +4913,11 @@ But I'm not gonna lie down until I get there.
 > - Todo `DELETE FROM` merece una cláusula `WHERE`; lo demás es caos.
 
 *Anónimo*
+
+---------
+
+> - Mejor planificar hoy que resetear mañana.
+
+*Cristian Noreña*
+
+---------
